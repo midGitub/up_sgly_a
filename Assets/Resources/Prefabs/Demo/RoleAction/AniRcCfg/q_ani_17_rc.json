@@ -1,0 +1,23 @@
+{
+  "skill_0": {
+    "q_name": "skill_0",
+    "q_hashName": -1657080667,
+    "q_averageDuration": 1.4666666984558106,
+    "q_speed": 1.0,
+    "q_layer": 0
+  },
+  "skill_1": {
+    "q_name": "skill_1",
+    "q_hashName": -365050829,
+    "q_averageDuration": 1.3333333730697632,
+    "q_speed": 1.0,
+    "q_layer": 0
+  },
+  "skill_2": {
+    "q_name": "skill_2",
+    "q_hashName": 1932825993,
+    "q_averageDuration": 0.40000003576278689,
+    "q_speed": 1.0,
+    "q_layer": 0
+  }
+}

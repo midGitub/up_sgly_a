@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3c1384e16b57ea8488f740050fd73812
+timeCreated: 1498482460
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _Diffuse: {fileID: 2800000, guid: e6f8288974c664a309d6c66de636978c, type: 3}
+  - _zhezhao: {fileID: 2800000, guid: 3aa5d06603e49cf42b0f3e8d6385de35, type: 3}
+  - _Normal: {fileID: 2800000, guid: 6bdb88f4d32802543b05f15f01b9f0fd, type: 3}
+  - _niuqu_B_001: {fileID: 2800000, guid: 4acf5b5fb51eb7c45b0a23e232e2ad25, type: 3}
+  - _niuqu_b_002: {fileID: 2800000, guid: 4acf5b5fb51eb7c45b0a23e232e2ad25, type: 3}
+  - _niuqu_A_001: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+  - _niuqu_A_002: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+  - _maks: {fileID: 2800000, guid: d984c2f0916b9db46932de5bdec02e5a, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

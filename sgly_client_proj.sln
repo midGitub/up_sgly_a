@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sgly_client_proj.CSharp", "sgly_client_proj.CSharp.csproj", "{177DDA63-4525-EC86-AE24-4ECF102121C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sgly_client_proj.CSharp.Editor", "sgly_client_proj.CSharp.Editor.csproj", "{68591055-BFFE-5F3B-7BC6-14A8B6C1BC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177DDA63-4525-EC86-AE24-4ECF102121C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177DDA63-4525-EC86-AE24-4ECF102121C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177DDA63-4525-EC86-AE24-4ECF102121C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177DDA63-4525-EC86-AE24-4ECF102121C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68591055-BFFE-5F3B-7BC6-14A8B6C1BC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68591055-BFFE-5F3B-7BC6-14A8B6C1BC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68591055-BFFE-5F3B-7BC6-14A8B6C1BC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68591055-BFFE-5F3B-7BC6-14A8B6C1BC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

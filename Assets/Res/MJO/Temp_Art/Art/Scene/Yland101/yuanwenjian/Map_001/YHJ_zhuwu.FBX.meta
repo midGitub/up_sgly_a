@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 91f35dea70372f74eafa409ed282f901
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Particle View 01
+    100002: Particle View 01 1
+    100004: Particle View 01 10
+    100006: Particle View 01 11
+    100008: Particle View 01 12
+    100010: Particle View 01 13
+    100012: Particle View 01 14
+    100014: Particle View 01 15
+    100016: Particle View 01 16
+    100018: Particle View 01 17
+    100020: Particle View 01 2
+    100022: Particle View 01 3
+    100024: Particle View 01 4
+    100026: Particle View 01 5
+    100028: Particle View 01 6
+    100030: Particle View 01 7
+    100032: Particle View 01 8
+    100034: Particle View 01 9
+    100036: Particle View01
+    100038: Particle View01 1
+    100040: Particle View01 2
+    100042: //RootNode
+    100044: YHJ_zhuwu_a
+    100046: YHJ_zhuwu_b
+    100048: Object004
+    100050: YHJ_zhuwu-col
+    400000: Particle View 01
+    400002: Particle View 01 1
+    400004: Particle View 01 10
+    400006: Particle View 01 11
+    400008: Particle View 01 12
+    400010: Particle View 01 13
+    400012: Particle View 01 14
+    400014: Particle View 01 15
+    400016: Particle View 01 16
+    400018: Particle View 01 17
+    400020: Particle View 01 2
+    400022: Particle View 01 3
+    400024: Particle View 01 4
+    400026: Particle View 01 5
+    400028: Particle View 01 6
+    400030: Particle View 01 7
+    400032: Particle View 01 8
+    400034: Particle View 01 9
+    400036: Particle View01
+    400038: Particle View01 1
+    400040: Particle View01 2
+    400042: //RootNode
+    400044: YHJ_zhuwu_a
+    400046: YHJ_zhuwu_b
+    400048: Object004
+    400050: YHJ_zhuwu-col
+    2300000: YHJ_zhuwu_a
+    2300002: YHJ_zhuwu_b
+    2300004: Object004
+    2300006: YHJ_zhuwu-col
+    3300000: YHJ_zhuwu_a
+    3300002: YHJ_zhuwu_b
+    3300004: Object004
+    3300006: YHJ_zhuwu-col
+    4300000: YHJ_zhuwu_a
+    4300002: YHJ_zhuwu_b
+    4300004: Object004
+    4300006: YHJ_zhuwu-col
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
