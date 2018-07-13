@@ -107,17 +107,18 @@ public abstract class ETCBase : MonoBehaviour {
 	private bool visibleAtStart = true;
 	private bool activatedAtStart = true;
 
+
+
 	protected virtual void Awake(){
 		cachedRectTransform = transform as RectTransform;
 		cachedRootCanvas = transform.parent.GetComponent<Canvas>();
-
-		#if (!UNITY_EDITOR) 
+		#if ( !UNITY_EDITOR )
 		if (!allowSimulationStandalone){
 			enableKeySimulation = false;
 		}
 		#endif
 
-		visibleAtStart = _visible;
+        visibleAtStart = _visible;
 		activatedAtStart = _activated;
 	}
 

@@ -72,6 +72,7 @@ public class ETCJoystick : ETCBase,IPointerEnterHandler,IDragHandler, IBeginDrag
 	
 	public JoystickArea joystickArea;
 	public RectTransform userArea;
+    public Canvas m_canvas;
 	#endregion
 		
 	#region Private members
@@ -80,8 +81,6 @@ public class ETCJoystick : ETCBase,IPointerEnterHandler,IDragHandler, IBeginDrag
 	private Vector2 tmpAxis;
 	private Vector2 OldTmpAxis;
 	private bool isOnTouch;
-
-
 	#endregion
 
 	#region Joystick behavior option
@@ -151,13 +150,16 @@ public class ETCJoystick : ETCBase,IPointerEnterHandler,IDragHandler, IBeginDrag
 		showEventInspector = false;
 		showSpriteInspector = false;
 	}
-	#endregion
+    #endregion
 
-	#region Monobehaviours Callback
-	protected override void Awake (){
+    #region Monobehaviours Callback
+    protected override void Awake (){
 		base.Awake ();
 
-		if (joystickType == JoystickType.Dynamic){
+        if ( m_canvas != null )
+            cachedRootCanvas = m_canvas;
+
+        if (joystickType == JoystickType.Dynamic){
 			this.rectTransform().anchorMin = new Vector2(0.5f,0.5f);
 			this.rectTransform().anchorMax = new Vector2(0.5f,0.5f);
 			this.rectTransform().SetAsLastSibling();
@@ -223,7 +225,9 @@ public class ETCJoystick : ETCBase,IPointerEnterHandler,IDragHandler, IBeginDrag
 
 			float radius =  GetRadius();
 
-
+            /*  by game winner LUO
+             *  删除原EasyTouchControlsCanvas，用项目UICanvas替代
+             *  
 			if (!isNoReturnThumb){
 				thumbPosition =  (eventData.position - eventData.pressPosition) / cachedRootCanvas.rectTransform().localScale.x;
 			}
@@ -234,8 +238,25 @@ public class ETCJoystick : ETCBase,IPointerEnterHandler,IDragHandler, IBeginDrag
 			if (isNoOffsetThumb){
 			    thumbPosition =  (eventData.position - (Vector2)cachedRectTransform.position) / cachedRootCanvas.rectTransform().localScale.x;
 			}
+            */
 
-			thumbPosition.x = Mathf.FloorToInt( thumbPosition.x);
+
+            if ( !isNoReturnThumb )
+            {
+                thumbPosition = ( eventData.position - eventData.pressPosition );
+            }
+            else
+            {
+                thumbPosition =  ( eventData.position - noReturnPosition ) + noReturnOffset;
+            }
+
+            if ( isNoOffsetThumb )
+            {
+                thumbPosition = ( eventData.position - ( Vector2 ) cachedRectTransform.position ) ;
+            }
+
+
+            thumbPosition.x = Mathf.FloorToInt( thumbPosition.x);
 			thumbPosition.y = Mathf.FloorToInt( thumbPosition.y);
 
 

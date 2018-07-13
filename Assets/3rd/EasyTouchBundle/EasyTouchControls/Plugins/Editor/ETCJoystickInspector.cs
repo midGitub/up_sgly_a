@@ -27,7 +27,13 @@ public class ETCJoystickInspector:Editor  {
 		t.visible = ETCGuiTools.Toggle("Visible",t.visible,true);
 		t.useFixedUpdate = ETCGuiTools.Toggle("Use Fixed Update",t.useFixedUpdate,true);
 
-		EditorGUILayout.Space();
+        //添加序列化属性，手动拖挂Canvas;
+        serializedObject.Update();
+        SerializedProperty m_canvas = serializedObject.FindProperty( "m_canvas" );
+        EditorGUILayout.PropertyField( m_canvas, true, null );
+        serializedObject.ApplyModifiedProperties();
+
+        EditorGUILayout.Space();
 
 		#region Type & Size
 		t.showPSInspector = ETCGuiTools.BeginFoldOut( "Position & Size",t.showPSInspector);
