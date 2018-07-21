@@ -103,7 +103,7 @@ Shader "yh/Role" {
 
                     fixed4 texcol = tex2D(_MainTex, i.uv);
                     texcol *= _MainTint;
-					texcol *= _MainTintPower * 2;
+					//texcol *= _MainTintPower * 2;
                     texcol.rgb += i.color;
 //texcol.a=0;
 					if(_IsECHO == 0)

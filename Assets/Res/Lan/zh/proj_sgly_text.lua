@@ -16,7 +16,22 @@ local TEXT_MAP = {
 ["LOGIN3"] = "公告数据请求失败。",
 ["LOGIN4"] = "加载资源中, 过程中不消耗流量。",
 
+["BASEUI1"] = "<size=24><color=ec9639ff>%s</color></size><r><size=20><color=fff1c1ff>%s</color></size>",
+["BASEUI2"] = "<size=20><color=fff1c1ff>%s</color></size>",
+["BASEUI2"] = "%d级",
+["BASEUI3"] = "等级:",
+["BASEUI4"] = "类型:",
+["BASEUI5"] = "物品描述",
+["BASEUI6"] = "基础属性",
+["BASEUI7"] = "附魔属性:",
+["BASEUI8"] = "宝石属性",
+["BASEUI9"] = "生命",
+["BASEUI10"] = "攻击",
+["BASEUI11"] = "防御",
+["BASEUI12"] = "<size=20><color=fff1c1ff>%d</color><color=99ff66ff>（+%d）</color></size>",
+
 ["CHAT1"] = "加载中。。。",
+
 }
 
 return TEXT_MAP
