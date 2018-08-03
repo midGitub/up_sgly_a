@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 4d95faaad37e27143898fcba88be2f19
+timeCreated: 1532571288
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sys_artf_z_0
+    21300002: sys_artf_z_1
+    21300004: sys_artf_z_2
+    21300006: sys_artf_z_3
+    21300008: sys_artf_z_4
+    21300010: sys_artf_z_5
+    21300012: sys_artf_z_6
+    21300014: sys_artf_z_7
+    21300016: sys_artf_z_8
+    21300018: sys_artf_z_9
+    21300020: sys_artf_z_10
+    21300022: sys_artf_z_11
+    21300024: sys_artf_z_12
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0, y: -1}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sys_artf_z_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 45
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 59
+        width: 47
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 97
+        height: 99
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 36
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 36
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 36
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 36
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 36
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_8
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 36
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 36
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 37
+        width: 50
+        height: 65
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 36
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sys_artf_z_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 36
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

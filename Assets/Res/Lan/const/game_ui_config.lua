@@ -11,7 +11,8 @@ local function _tipsUI(  )
 	TipsUI.s_innerFrameOffsetY= 10  -- 内框与标题的距离
 	TipsUI.s_innerFrameOffsetH= 0    --内框与底部的距离
 	TipsUI.s_titleAlignment = gs.TextAnchor.MiddleCenter --设置文字排版位置
-	TipsUI.s_titleFontSize = 30            --设置标题大小
+	TipsUI.s_msgAlignment = gs.TextAnchor.MiddleCenter	 --设置msg排版方式
+	TipsUI.s_titleFontSize = 24            --设置标题大小
 	TipsUI.s_msgFontSize = 20              --设置文本大小
 	TipsUI.s_scrollContentOffsetW = 20     --设置内容相对内框左右偏移
 	TipsUI.s_scrollContentOffsetH = 30     --设置内容相对内框上下偏移
@@ -31,32 +32,33 @@ local function _alertUI()
 	---[[
 	AlertUI.s_frameWidth = 520	--设置外框宽
 	AlertUI.s_maxframeWidth = 960
-	AlertUI.s_maxframeHeigh = 600
-	AlertUI.s_minframeWidth = 400	
+	AlertUI.s_maxframeHeigh = 300
+	AlertUI.s_minframeWidth = 520	
 	AlertUI.s_minframeHeigh = 300	
-	AlertUI.s_innerFrameOffsetW=30    --设置内框相对外框宽偏移
-	AlertUI.s_innerFrameOffsetY= 10  -- 内框与标题的距离
-	AlertUI.s_innerFrameOffsetH=100    --内框与底部的距离	
+	AlertUI.s_innerFrameOffsetW=15    --设置内框相对外框宽偏移
+	AlertUI.s_innerFrameOffsetY= 14--13--15.62  --内框与标题的距离
+	AlertUI.s_titleOffestFrame = 20--21--18.38  --标题与外框的距离
+	AlertUI.s_innerFrameOffsetH= 80    --内框与底部的距离	
 	AlertUI.s_titleAlignment = gs.TextAnchor.MiddleCenter --设置文字排版位置
-	AlertUI.s_titleFontSize = 30            --设置标题大小
+	AlertUI.s_msgAlignment = gs.TextAnchor.MiddleCenter	 --设置msg排版方式
+	AlertUI.s_titleFontSize = 24            --设置标题大小
 	AlertUI.s_msgFontSize = 20              --设置文本大小
 	AlertUI.s_scrollContentOffsetW = 20     --设置内容相对内框左右偏移
 	AlertUI.s_scrollContentOffsetH = 20     --设置内容相对内框上下偏移	
 	AlertUI.s_scrollContentOffsetB = 30  	--结束内容相对内框向下的偏移	
 	AlertUI.s_titleStr = TT("BASE4")  
-	AlertUI.s_bgPath = "UI/Source/Pub/dl_bg_fwq2.png"	 --设外框背景
-	AlertUI.s_bgSubPath = "" --设内框背景
-	AlertUI.s_titleOffestFrame = 10  --title与外框的相对距离
-	AlertUI.s_titleImgPath = "UI/Source/Pub/sys_title_1.png"
+	AlertUI.s_bgPath = "UI/Source/Pub/dl_bg_fwq1.png" 	 --设外框背景
+	AlertUI.s_bgSubPath ="UI/Source/Pub/dl_bg_fwq2.png"  --设内框背景
+	AlertUI.s_titleImgPath ="UI/Source/Pub/sys_title_1.png"
 	AlertUI.s_titleBgOffestTitleW = 10    --titleGB的一边宽于title的长度
 	AlertUI.s_titleBgOffestTitleH = 10    --titleGB的一边高于title的高度
 	--]]
-	AlertUI.s_btnTitleStr = {TT("BASE1"), TT("BASE3"), TT("BASE5")}
+	--AlertUI.s_btnTitleStr = {TT("BASE1"), TT("BASE3"), TT("BASE5")}
 
 	AlertUI.s_standbtnBgPath = ""       --标准按钮类型背景路径
-	AlertUI.s_standbtnW = 150			--标准按钮宽
-	AlertUI.s_standbtnH = 60			--标准按钮高
-	AlertUI.s_btnOffset = 20			--按钮与底部的间距	
+	AlertUI.s_standbtnW = 156			--标准按钮宽
+	AlertUI.s_standbtnH = 56			--标准按钮高
+	AlertUI.s_btnOffset = 12			--按钮与底部的间距	
 end 
 --notice_ui默认定义数据
 local function _noticeUI()
@@ -147,6 +149,11 @@ local function _mulProgressBarUI( )
 	MulProgressBarUI.s_middleBarSpeed = 0.1 	--MiddleBar流动速度  
 end 
 --]]
+
+
+
+
+
 
 local function setupUIDef(  )
 	_tipsUI()
