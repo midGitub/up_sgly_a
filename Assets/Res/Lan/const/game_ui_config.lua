@@ -2,16 +2,17 @@
 --tipsUI默认定义数据
 local function _tipsUI(  )
 	local TipsUI = loadLuaFile ("gameui/tips_ui")
-	TipsUI.s_frameWidth = 490		--设置外框宽
-	TipsUI.s_maxframeWidth = 960	
-	TipsUI.s_maxframeHeigh = 600
-	TipsUI.s_minframeWidth = 400	
-	TipsUI.s_minframeHeigh = 332	
-	TipsUI.s_innerFrameOffsetW=0    --设置内框相对外框宽偏移
-	TipsUI.s_innerFrameOffsetY= 10  -- 内框与标题的距离
+	TipsUI.s_frameWidth = 606		--设置外框宽
+	TipsUI.s_maxframeWidth = 606	
+	TipsUI.s_maxframeHeigh = 486
+	TipsUI.s_minframeWidth = 606	
+	TipsUI.s_minframeHeigh = 486	
+	TipsUI.s_innerFrameOffsetW=65   --设置内框相对外框宽偏移
+	TipsUI.s_innerFrameOffsetY= 8 -- 内框与标题的距离
+	TipsUI.s_titleOffestFrame = 12  --标题与外框的相对距离
 	TipsUI.s_innerFrameOffsetH= 0    --内框与底部的距离
 	TipsUI.s_titleAlignment = gs.TextAnchor.MiddleCenter --设置文字排版位置
-	TipsUI.s_msgAlignment = gs.TextAnchor.MiddleCenter	 --设置msg排版方式
+	TipsUI.s_msgAlignment = gs.TextAnchor.UpperLeft	 --设置msg排版方式
 	TipsUI.s_titleFontSize = 24            --设置标题大小
 	TipsUI.s_msgFontSize = 20              --设置文本大小
 	TipsUI.s_scrollContentOffsetW = 20     --设置内容相对内框左右偏移
@@ -20,8 +21,8 @@ local function _tipsUI(  )
 	TipsUI.s_titleStr = TT("BASE4")  
 	TipsUI.s_bgPath = "UI/Source/Pub/sys_bg_4.png"	--设外框背景
 	TipsUI.s_bgSubPath = "" --设内框背景
-	TipsUI.s_titleOffestFrame = 10  --titleBg与外框的相对距离
-	TipsUI.s_titleImgPath = "UI/Source/Pub/sys_title_1.png"
+
+	TipsUI.s_titleImgPath = "UI/Source/Pub/sys_title_2.png"
 
 	TipsUI.s_titleBgOffestTitleW = 40    --titleGB的一边宽于title的长度
 	TipsUI.s_titleBgOffestTitleH = 10    --titleGB的一边高于title的高度
@@ -150,10 +151,13 @@ local function _mulProgressBarUI( )
 end 
 --]]
 
+local function _fullScreenWinUI( )
+	local FullScreenWinUI = loadLuaFile("logic_ui/full_screen_win")
+	FullScreenWinUI.s_spacing = 16			--每个Cell间的间距
+	FullScreenWinUI.s_maxScollViewH =520	--ScollViewH的最大高
+	FullScreenWinUI.s_cellHeight = 118		--cell的高度
 
-
-
-
+end
 
 local function setupUIDef(  )
 	_tipsUI()
@@ -163,5 +167,6 @@ local function setupUIDef(  )
 	_progressBarUI()
 	_funcMenuUI()
 	_mulProgressBarUI()
+	_fullScreenWinUI()
 end
 setupUIDef()
