@@ -1,5 +1,6 @@
 namespace Unity.IO.Compression
 {
+#pragma warning disable
     using System;
     using System.Diagnostics;
     

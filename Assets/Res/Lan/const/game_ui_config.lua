@@ -112,8 +112,8 @@ local function _progressBarUI()
 	ProgressBarUI.s_percentOffset = 10    					--进度条与fillAmountTitle之间的距离
 	ProgressBarUI.s_descOffset = 30			   	 			--title与进度条间的距离
 	ProgressBarUI.s_descFontPath= ""
-	ProgressBarUI.s_fgOffset_T_B = 5						--进度条前景与背景的上下间的间距
-	ProgressBarUI.s_fgOffset_L_R = 5						--进度条前景与背景的左右间的间距
+	ProgressBarUI.s_fgOffset_T_B = 0					--进度条前景与背景的上下间的间距
+	ProgressBarUI.s_fgOffset_L_R = 0						--进度条前景与背景的左右间的间距
 end
 
 local function  _funcMenuUI(  )

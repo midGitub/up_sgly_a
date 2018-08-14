@@ -7,7 +7,7 @@ Shader "GW/model/MBase"
 
 	SubShader
 	{
-		Tags {"Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent"}
+		//Tags {"Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent"}
 		Lighting Off Fog { Mode Off }
 		Blend SrcAlpha OneMinusSrcAlpha
 		ZWrite On

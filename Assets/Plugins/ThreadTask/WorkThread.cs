@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading;
+using UnityEngine;
 
 public class WorkThread
 {
@@ -8,6 +9,7 @@ public class WorkThread
     private List<ITask> m_taskQueue;
     private ITask m_task;
     private Thread m_thread;
+    private AutoResetEvent m_locks;
 
     public bool Working
     {
@@ -17,10 +19,11 @@ public class WorkThread
         }        
     }
 
-    public WorkThread(ref List<ITask> queue, int id)
+    public WorkThread(ref List<ITask> queue, int id,ref AutoResetEvent locks)
     {
         m_taskQueue = queue;
         m_workID = id;
+        m_locks = locks;
         m_working = true;
         m_thread = new Thread(Run);
         m_thread.Start();
@@ -31,7 +34,7 @@ public class WorkThread
         while(Working && m_taskQueue != null)
         {
             m_working = false;
-            while (m_taskQueue.Count == 0) ThreadMgr.Ins.m_locks.WaitOne();
+            while (m_taskQueue.Count == 0) m_locks.WaitOne();
             m_working = true;
             lock(m_taskQueue)
             {

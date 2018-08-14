@@ -1,4 +1,5 @@
 #if !NETFX_CORE
+#pragma warning disable
 namespace Unity.IO.Compression {
     using System;
     using System.Threading;
@@ -8,9 +9,8 @@ namespace Unity.IO.Compression {
         public int offset;
         public int count;
         // disable csharp compiler warning #0414: field assigned unused value
-#pragma warning disable 0414
+
         public bool isWrite;
-#pragma warning restore 0414
 
         private object m_AsyncObject;               // Caller's async object.
         private object m_AsyncState;                // Caller's state object.
