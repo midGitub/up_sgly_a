@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 6f25702632da18d44bc5c6deae290119
-timeCreated: 1534146756
+timeCreated: 1534582073
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -101,7 +101,7 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape: []
-  spritePackingTag: 
+  spritePackingTag: Chat
   userData: 
   assetBundleName: 
   assetBundleVariant: 

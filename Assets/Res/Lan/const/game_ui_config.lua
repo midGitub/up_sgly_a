@@ -82,20 +82,23 @@ end
 --scroll_notice_ui默认定义数据
 local function _scrollNoticeUI()
 	local ScrollNoticeUI = loadLuaFile("gameui/scroll_notice_ui")
-	ScrollNoticeUI.s_bgHeight = 60						--设背景高
+	ScrollNoticeUI.s_bgHeight = 34						--设背景高
 	ScrollNoticeUI.s_displayInterval = 0.5				--动画间的间隔时间
-	ScrollNoticeUI.s_contentFontSize  = 35				--内容字体大小
+	ScrollNoticeUI.s_contentFontSize  = 20				--内容字体大小
 	ScrollNoticeUI.s_contentFontColor  = gs.COlOR_BLACK	--内容字体颜色
 	ScrollNoticeUI.s_contentFontStyle = gs.FontStyle.Normal			--内容字体样式
 	ScrollNoticeUI.s_titleFontSize  = 32				--title字体大小
 	ScrollNoticeUI.s_titleFontColor  = gs.COlOR_BLACK	--title字体颜色
 	ScrollNoticeUI.s_titleFontStyle = gs.FontStyle.Normal			--title字体样式
-	ScrollNoticeUI.s_leftOffset = 57					--背景到屏幕左边的距离
-	ScrollNoticeUI.s_rightOffset = 57					--背景到屏幕右边的距离
-	ScrollNoticeUI.s_topOffset = 10						--背景到屏幕上面的距离
+	ScrollNoticeUI.s_leftOffset =340					--背景到屏幕左边的距离
+	ScrollNoticeUI.s_rightOffset = 340					--背景到屏幕右边的距离
+	ScrollNoticeUI.s_topOffset = 108					--背景到屏幕上面的距离
 	ScrollNoticeUI.s_time = 5							--每段动画所用的时间
-	ScrollNoticeUI.s_startColorDuration = 1				--显示动画所用的时间
-	ScrollNoticeUI.s_endColorDuration = 1				--隐藏动画所用的时间
+	ScrollNoticeUI.s_startColorDuration = 0				--显示动画所用的时间
+	ScrollNoticeUI.s_endColorDuration = 0				--隐藏动画所用的时间
+	ScrollNoticeUI.s_bgPath = "UI/Source/Pub/sys_bg_tv.png" 
+	ScrollNoticeUI.s_maskOffsetL = 0					--mask与title间的距离
+	ScrollNoticeUI.s_fixLen = 600						--设定固定宽度
 end
 
 local function _progressBarUI()
@@ -112,11 +115,11 @@ local function _progressBarUI()
 	ProgressBarUI.s_percentOffset = 10    					--进度条与fillAmountTitle之间的距离
 	ProgressBarUI.s_descOffset = 30			   	 			--title与进度条间的距离
 	ProgressBarUI.s_descFontPath= ""
-	ProgressBarUI.s_fgOffset_T_B = 0					--进度条前景与背景的上下间的间距
-	ProgressBarUI.s_fgOffset_L_R = 0						--进度条前景与背景的左右间的间距
+	ProgressBarUI.s_fgOffset_T_B = 5					    --进度条前景与背景的上下间的间距
+	ProgressBarUI.s_fgOffset_L_R = 5						--进度条前景与背景的左右间的间距
 end
 
-local function  _funcMenuUI(  )
+local function  _funcMenuUI(  )	
 	local FuncMenuUI = loadLuaFile ("gameui/func_menu_ui")
 	FuncMenuUI.s_startDir = gd.FMENU_L						--生成开始的方向
 	FuncMenuUI.s_newLineDir = gd.FMENU_LINE_T				--回行的方向	
