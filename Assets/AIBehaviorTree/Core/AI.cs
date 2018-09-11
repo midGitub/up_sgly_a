@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Net.Mail;
 using System.Xml;
-using LitJson;
+//using LitJson;
 using UnityEngine;
 
 namespace AIBehaviorTree
@@ -40,8 +40,8 @@ namespace AIBehaviorTree
 
             //m_Root = AINodeConfigData.CreateNode(null, JsonMapper.ToObject<JsonData>(m_JsonAiTree.text), this);
 
-            m_Root = AINodeConfigData.Create(JsonMapper.ToObject<JsonData>(m_JsonAiTree.text), this);
-            m_Root.OnExitHandler = OnAiExitHandler;
+            ///m_Root = AINodeConfigData.Create(JsonMapper.ToObject<JsonData>(m_JsonAiTree.text), this);
+            ///m_Root.OnExitHandler = OnAiExitHandler;
             //StartAi();
         }
          

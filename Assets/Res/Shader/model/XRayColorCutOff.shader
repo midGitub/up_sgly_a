@@ -11,7 +11,7 @@ Transparent/Diffuse
 GOD/TransparentDiffuse
 */
 
-Shader "GW/model/XRayColor" {
+Shader "GW/model/XRayColorCutOff" {
 
 	Properties     
 	{    
@@ -31,7 +31,8 @@ Shader "GW/model/XRayColor" {
 		
 	SubShader     
 	{    
-		Tags { "Queue"="Geometry+200" "RenderType"="Opaque" }
+		//Tags { "Queue"="Geometry+200" "RenderType"="Opaque" }
+		Tags {"Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent"}
 		Fog { Mode off }  
 		//LOD 200
 		

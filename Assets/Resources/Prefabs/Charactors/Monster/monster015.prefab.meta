@@ -1,8 +1,10 @@
 fileFormatVersion: 2
-guid: ba7726074f1087942adf58d9d4f0c56f
+guid: 1eb8c77b9b3434f459fbcb326875aed8
 timeCreated: 1497409154
 licenseType: Pro
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: charactors/monster015.unity3d
   assetBundleVariant: 

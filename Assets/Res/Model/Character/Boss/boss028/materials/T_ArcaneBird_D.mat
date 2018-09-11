@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: T_ArcaneBird_D
+  m_Shader: {fileID: 4800000, guid: da1bae3ae1e556840b6cff666a99b80a, type: 3}
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _NORMALMAP
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BackTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 3ecb04725a2473147a354362b7f31d30, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FrontTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Illum:
+        m_Texture: {fileID: 2800000, guid: cad43392d18a33d48a584163f6660595, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LeftTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 437b1c1999584c04eb00cd72214f5208, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 08ce35938b9846c4ab6b714f875fae4c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RightTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Alpha:
+        m_Texture: {fileID: 2800000, guid: 30af9dccfe358214c8c6afb7f1d9a398, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_01:
+        m_Texture: {fileID: 2800000, guid: 08ce35938b9846c4ab6b714f875fae4c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _make:
+        m_Texture: {fileID: 2800000, guid: 30af9dccfe358214c8c6afb7f1d9a398, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_4112:
+        m_Texture: {fileID: 2800000, guid: 920d31ee27450b8409d0c014cd2a3c7e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_8125:
+        m_Texture: {fileID: 2800000, guid: 708d6d516b2264940a4d88e5ed0361fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_8125_copy:
+        m_Texture: {fileID: 2800000, guid: 708d6d516b2264940a4d88e5ed0361fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _BumpScale: 1
+    - _Color_Strength: 0.98
+    - _Cutoff: 0.3
+    - _DetailNormalMapScale: 1
+    - _Dot_value: 1
+    - _DstBlend: 10
+    - _Emission: 1
+    - _EmissionLM: 6.8
+    - _Glossiness: 0.5
+    - _HitColorWidth: 0.8
+    - _IsECHO: 0
+    - _IsHit: 0
+    - _MainTintPower: 1
+    - _Metallic: 0
+    - _Mode: 3
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Shininess: 0.03
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _UV_size: 0.2
+    - _U_amin: 0
+    - _V_amin: 0
+    - _XRayPower: 0.5
+    - _ZWrite: 0
+    - _color_Dot: 0
+    - _color_gle: 0
+    - _node_1699: 0.6
+    - _node_1699_copy: 0.3
+    - _node_3905: 3
+    - _node_5799: 0
+    - _saturation: 0.38
+    m_Colors:
+    - _Color: {r: 0.5588235, g: 0.58012176, b: 1, a: 1}
+    - _Color_copy: {r: 0.25, g: 0.4413792, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HitColor: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+    - _MainTint: {r: 0.6691177, g: 0.6691177, b: 0.6691177, a: 1}
+    - _XRayColor: {r: 1, g: 1, b: 1, a: 1}
+    - _node_2443: {r: 0.5, g: 0.5, b: 0.5, a: 1}

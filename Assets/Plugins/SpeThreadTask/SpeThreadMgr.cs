@@ -133,6 +133,7 @@ public class SpeThreadMgr:JOSingleton<SpeThreadMgr>{
 
     #region - unZip -
     public int UnZipWorkerCount { get { return m_unZipWorkers.Count; } }
+    public int UnZipTaskCount { get { return m_unZipTasks.Count; } }
 
     public void StartUnZipWork(int threadNum = 1)
     {

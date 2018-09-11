@@ -11,7 +11,7 @@ Transparent/Diffuse
 GOD/TransparentDiffuse
 */
 
-Shader "GW/model/XRayColor" {
+Shader "GW/model/XRayColorHit" {
 
 	Properties     
 	{    

@@ -31,7 +31,8 @@ Shader "GW/model/XRayColor" {
 		
 	SubShader     
 	{    
-		Tags { "Queue"="Geometry+200" "RenderType"="Opaque" }
+		//Tags { "Queue"="Geometry+200" "RenderType"="Opaque" }
+		Tags {"Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent"}
 		Fog { Mode off }  
 		//LOD 200
 		
@@ -94,6 +95,8 @@ Shader "GW/model/XRayColor" {
 		Pass {
 			Lighting Off
 
+			Cull Off 
+
 			Blend SrcAlpha  OneMinusSrcAlpha
 
 			CGPROGRAM
@@ -150,4 +153,5 @@ Shader "GW/model/XRayColor" {
 			ENDCG
 		}
 	}
+	Fallback "Diffuse"
 }

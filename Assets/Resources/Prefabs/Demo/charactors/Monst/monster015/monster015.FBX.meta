@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1ca592817839ff54bbad2f3a469c8a37
+guid: a5f41dd1cbedae74197c2443ff9bbc5a
 timeCreated: 1497954725
 licenseType: Pro
 ModelImporter:
@@ -117,7 +117,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: monster015
-    second: {fileID: 2100000, guid: 38700778c52f200468f938641422a0b7, type: 2}
+    second: {fileID: 2100000, guid: 04c3fe91f99d02d47993b09d916cd9e7, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

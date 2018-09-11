@@ -19,10 +19,10 @@ local function _tipsUI(  )
 	TipsUI.s_scrollContentOffsetH = 30     --设置内容相对内框上下偏移
 	TipsUI.s_scrollContentOffsetB = 60  --结束内容相对内框向下的偏移	
 	TipsUI.s_titleStr = TT("BASE4")  
-	TipsUI.s_bgPath = "UI/Source/Pub/sys_bg_4.png"	--设外框背景
+	TipsUI.s_bgPath = RI("sys_bg_4.png")	--设外框背景
 	TipsUI.s_bgSubPath = "" --设内框背景
 
-	TipsUI.s_titleImgPath = "UI/Source/Pub/sys_title_2.png"
+	TipsUI.s_titleImgPath =RI("sys_title_2.png")
 
 	TipsUI.s_titleBgOffestTitleW = 40    --titleGB的一边宽于title的长度
 	TipsUI.s_titleBgOffestTitleH = 10    --titleGB的一边高于title的高度
@@ -48,9 +48,9 @@ local function _alertUI()
 	AlertUI.s_scrollContentOffsetH = 20     --设置内容相对内框上下偏移	
 	AlertUI.s_scrollContentOffsetB = 30  	--结束内容相对内框向下的偏移	
 	AlertUI.s_titleStr = TT("BASE4")  
-	AlertUI.s_bgPath = "UI/Source/Pub/dl_bg_fwq1.png" 	 --设外框背景
-	AlertUI.s_bgSubPath ="UI/Source/Pub/dl_bg_fwq2.png"  --设内框背景
-	AlertUI.s_titleImgPath ="UI/Source/Pub/sys_title_1.png"
+	AlertUI.s_bgPath = RI("dl_bg_fwq1.png")	 --设外框背景
+	AlertUI.s_bgSubPath =RI("dl_bg_fwq2.png")  --设内框背景
+	AlertUI.s_titleImgPath =RI("sys_title_1.png")
 	AlertUI.s_titleBgOffestTitleW = 10    --titleGB的一边宽于title的长度
 	AlertUI.s_titleBgOffestTitleH = 10    --titleGB的一边高于title的高度
 	--]]
@@ -66,7 +66,7 @@ local function _noticeUI()
 	local NoticeUI = loadLuaFile("gameui/notice_ui")
 	NoticeUI.s_bgWidth = 500		--背景图文本宽
 	NoticeUI.s_bgHeight = 100		--背景图文本高
-	NoticeUI.s_bgSpritePath = "UI/Source/Pub/sys_bg_prompt.png"	--背景图路径
+	NoticeUI.s_bgSpritePath =RI("sys_bg_prompt.png")	--背景图路径
 	NoticeUI.s_fontSize = 50		--字体大小
 	NoticeUI.s_fontColor = gs.COlOR_RED	--字体颜色
 	NoticeUI.s_startColor = {255,0,0,0}	--初始颜色{r,g,b,a}
@@ -96,7 +96,7 @@ local function _scrollNoticeUI()
 	ScrollNoticeUI.s_time = 5							--每段动画所用的时间
 	ScrollNoticeUI.s_startColorDuration = 0				--显示动画所用的时间
 	ScrollNoticeUI.s_endColorDuration = 0				--隐藏动画所用的时间
-	ScrollNoticeUI.s_bgPath = "UI/Source/Pub/sys_bg_tv.png" 
+	ScrollNoticeUI.s_bgPath = RI("sys_bg_tv.png")
 	ScrollNoticeUI.s_maskOffsetL = 0					--mask与title间的距离
 	ScrollNoticeUI.s_fixLen = 600						--设定固定宽度
 end
@@ -108,7 +108,7 @@ local function _progressBarUI()
 	ProgressBarUI.s_descColor = gs.COlOR_BLACK				--title颜色
 	ProgressBarUI.s_percentFSize = 32						--进度字体大小
 	ProgressBarUI.s_percentColor = gs.COlOR_BLACK			--进度字体颜色
-	ProgressBarUI.s_percentFPath= ""						--进度字体路径
+	ProgressBarUI.s_percentFPath= RF("FounderQuasi-circle.TTF")--进度字体路径
 	ProgressBarUI.s_bgPath = ""								--背景路径
 	ProgressBarUI.s_fgPath = ""								--前景背景路径
 	ProgressBarUI.s_fillOrigin = gs.UI.Image.OriginHorizontal.Left	--进度条开始方向

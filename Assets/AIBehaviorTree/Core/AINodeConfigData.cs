@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
-using LitJson;
+//using LitJson;
 using UnityEngine;
 
 namespace AIBehaviorTree
@@ -77,7 +77,7 @@ namespace AIBehaviorTree
             }
             return node;
         }
-
+       /*
         public static AINode Create(JsonData data, AI ai)
         {
             AINode node = null;
@@ -115,5 +115,6 @@ namespace AIBehaviorTree
 
             return node;
         }
+        * */
     }
 }

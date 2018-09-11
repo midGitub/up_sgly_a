@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using LitJson;
+//using LitJson;
 using UnityEngine;
 using UnityEditor;
 using UnityEngine.EventSystems;
@@ -148,7 +148,7 @@ public class NodeGraph
 
         return null;
     }
-
+    /*
     public static JsonData CreateNodeJsonData(NodeGraph data)
     {
         var jd = new JsonData();
@@ -191,5 +191,6 @@ public class NodeGraph
         }
         return node;
     }
+     */
 }
 

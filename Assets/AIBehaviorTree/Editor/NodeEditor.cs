@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using AIBehaviorTree;
-using LitJson;
+//using LitJson;
 using UnityEditor;
 using UnityEngine;
 
@@ -34,9 +34,9 @@ public class NodeEditor : EditorWindow {
     void OnExportAllHandler(object data)
     {
         var node = data as NodeGraph;
-        JsonData jd = NodeGraph.CreateNodeJsonData(node);
+       // JsonData jd = NodeGraph.CreateNodeJsonData(node);
         var path = Application.dataPath + TREE_OUTPUTPATH + node.OutPutPath +".json";
-        File.WriteAllText(path, jd.ToJson());
+      //  File.WriteAllText(path, jd.ToJson());
         EditorUtility.DisplayDialog("提示", "导出成功"+ path, "ok");
         AssetDatabase.Refresh();
     }
@@ -165,6 +165,7 @@ public class NodeEditor : EditorWindow {
                 EditorUtility.DisplayDialog("格式有误","希望选中的是一个TextAsset","ok");
                 return;
             }  
+            /*
             JsonData jd = null; 
             try
             {
@@ -176,6 +177,7 @@ public class NodeEditor : EditorWindow {
                 return;
             }
             m_EnterNode = NodeGraph.CreateNodeGraph(jd);
+             * */
         }       
     }
 
@@ -238,7 +240,7 @@ public class NodeEditor : EditorWindow {
             node.SubTreeAsset = EditorGUILayout.ObjectField("SubTree TextAsset", node.SubTreeAsset, typeof(TextAsset)) as TextAsset;
             if (node.SubTreeAsset != null && GUILayout.Button("Add SubTree"))
             {
-                node.AddNode(NodeGraph.CreateNodeGraph(JsonMapper.ToObject<JsonData>(node.SubTreeAsset.text)), new Vector2(200, 0));
+                //node.AddNode(NodeGraph.CreateNodeGraph(JsonMapper.ToObject<JsonData>(node.SubTreeAsset.text)), new Vector2(200, 0));
             }
             EditorGUILayout.EndVertical();
         }

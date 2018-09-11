@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: tianyao_weapon_rongjie
+  m_Shader: {fileID: 4800000, guid: d323c17366075bb43ab547170e4a7bfe, type: 3}
+  m_ShaderKeywords: _FANZHUAN_MASK_ON _XR_SCEEN_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 2800000, guid: 53ce53a59f39c2540ac1cafcbc9f0952, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveSrc:
+        m_Texture: {fileID: 2800000, guid: 452c94bad2026984e86c76d0072472ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveSrcBump:
+        m_Texture: {fileID: 2800000, guid: b675e0eea5a78d8489db46e1ff535d72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Illum:
+        m_Texture: {fileID: 2800000, guid: b675e0eea5a78d8489db46e1ff535d72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e11994290539e6a4f8519708a818a96a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 8d3305e2c86b92f409e47327f9362667, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_5168:
+        m_Texture: {fileID: 2800000, guid: e63cae6060e3b804b8bdf05d86a244cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_5449:
+        m_Texture: {fileID: 2800000, guid: e812391b083c02f41aac315ce19461de, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_5787:
+        m_Texture: {fileID: 2800000, guid: e11994290539e6a4f8519708a818a96a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_6409:
+        m_Texture: {fileID: 2800000, guid: e037e90f067c34846ada41527caeef1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_7519:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_8123:
+        m_Texture: {fileID: 2800000, guid: f2af4644ad0957b4c883b0d14cac884d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amount: 0
+    - _Cutoff: 0
+    - _EmissionLM: 0
+    - _FanZhuan_Mask: 1
+    - _Illuminate: 0.241
+    - _Shininess: 0.073
+    - _StartAmount: -5.37
+    - _Tile: 0.24
+    - _XR_Sceen: 1
+    - _XiaoRong: 0
+    - _XiaoRong_Bian: 0.031
+    - _ZiFaGuang: 1.5
+    - _node_3263: 2.34
+    - _node_3949: 0.87
+    - _node_5017: 0
+    - _node_647: 0.27
+    - _node_8814: 1.35
+    - _node_9126: 2.63
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorAnimate: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_copy: {r: 1, g: 1, b: 1, a: 1}
+    - _DissColor: {r: 1, g: 0.810142, b: 0.4705882, a: 1}
+    - _SpecColor: {r: 1, g: 0.87170386, b: 0.1544118, a: 1}
+    - _XR_color: {r: 1, g: 0.8991887, b: 0.47794116, a: 1}
