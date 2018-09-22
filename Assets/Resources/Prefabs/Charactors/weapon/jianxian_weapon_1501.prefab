@@ -50,6 +50,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4550216761582526}
   - component: {fileID: 95711258733787214}
+  - component: {fileID: 114624530114140570}
   m_Layer: 0
   m_Name: jianxian_weapon_1501
   m_TagString: Untagged
@@ -108,7 +109,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1616873351380514}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 121.46, y: 0, z: 162.24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4796406238860148}
@@ -166,7 +167,7 @@ Animator:
   m_GameObject: {fileID: 1616873351380514}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 21100b203bf86f24b928004026523727, type: 3}
-  m_Controller: {fileID: 9100000, guid: 7750be06cfdab304faefd0e25bc453eb, type: 2}
+  m_Controller: {fileID: 9100000, guid: 8d4f40fc6c40f7147956203e9759077f, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -174,6 +175,98 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114624530114140570
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1616873351380514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 95711258733787214}
+  m_sAniInfoKey:
+  - atk1
+  - attackSwordPart2
+  - attackSwordPart3
+  - dead
+  - flyrideReady
+  - idle
+  - outrun
+  - skill1
+  - skill2
+  - skill3
+  - idle 0
+  m_sAniInfoValue:
+  - m_name: atk1
+    m_hash: 653344160
+    m_layer: 0
+    m_aniLen: 0.73333335
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: attackSwordPart2
+    m_hash: -1276257438
+    m_layer: 0
+    m_aniLen: 0.73333335
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: attackSwordPart3
+    m_hash: -991237132
+    m_layer: 0
+    m_aniLen: 1.5333335
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: dead
+    m_hash: -316323548
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: flyrideReady
+    m_hash: -177250752
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: outrun
+    m_hash: 842545546
+    m_layer: 0
+    m_aniLen: 0.8000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: skill1
+    m_hash: 1306736332
+    m_layer: 0
+    m_aniLen: 1.6666667
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: skill2
+    m_hash: -722835594
+    m_layer: 0
+    m_aniLen: 3.3333335
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: skill3
+    m_hash: -1544726560
+    m_layer: 0
+    m_aniLen: 2.8
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle 0
+    m_hash: 2117761986
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
 --- !u!137 &137232601395323764
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
@@ -183,6 +276,7 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -198,6 +292,7 @@ SkinnedMeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5

@@ -36,6 +36,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4471126457584478}
   - component: {fileID: 95419051316034026}
+  - component: {fileID: 114844905455464420}
   m_Layer: 0
   m_Name: tianyao_weapon_1509
   m_TagString: Untagged
@@ -121,7 +122,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1111015811557686}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 121.46, y: 0, z: 162.24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4760807718395000}
@@ -166,7 +167,7 @@ Animator:
   m_GameObject: {fileID: 1111015811557686}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 919ab65ca51350c4e91daabd63d420f9, type: 3}
-  m_Controller: {fileID: 9100000, guid: 547f24d4f7dfdb043b5bbf364ec53116, type: 2}
+  m_Controller: {fileID: 9100000, guid: d9bcfbb5acbbcf142b3f8f7cbac997a4, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -174,6 +175,35 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114844905455464420
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1111015811557686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 95419051316034026}
+  m_sAniInfoKey:
+  - outready
+  - outrun
+  m_sAniInfoValue:
+  - m_name: outready
+    m_hash: -1396854889
+    m_layer: 0
+    m_aniLen: 1.8000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: outrun
+    m_hash: 842545546
+    m_layer: 0
+    m_aniLen: 0.8000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
 --- !u!137 &137966318058122792
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
@@ -183,6 +213,7 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -198,6 +229,7 @@ SkinnedMeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5

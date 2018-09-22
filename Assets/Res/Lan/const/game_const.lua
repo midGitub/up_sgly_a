@@ -39,7 +39,17 @@ gcst.NOTICEPOWER_interval = 0.5  		--每个提示出来的就小时间间隔
 gcst.NOTICEPOWER_duration = 0.5 		--每个数字动画滚动时长
 gcst.NOTICEPOWER_figthOffset = -10		--战字与数字的距离
 
+gcst.EQUIPMENTUSETIP_posX = 283			--装备使用提示X位置
+gcst.EQUIPMENTUSETIP_posY = -11.7		--装备使用提示Y位置
+gcst.EQUIPMENTUSETIP_stayTime = 5		--装备使用提示停留界面时间
 
+gcst.INVITEDTIPS_posX = 0			--受邀提示X位置
+gcst.INVITEDTIPS_posY = -278.8		--受邀提示出显Y位置
+gcst.INVITEDTIPS_showAnimaMoveY = -188.8	--受邀提示显示移动到的位置
+gcst.INVITEDTIPS_hideAnimaMoveY = -98.8		--受邀提示隐藏移动到的位置
+gcst.INVITEDTIPS_stayTime = 5		--受邀提示停留界面时间
+gcst.INVITEDTIPS_duration = 1		--动画时间
 
-
+gcst.ARRACKTIPS_posX = 321		--受邀提示X位置
+gcst.ARRACKTIPS_posY = -165		--受邀提示出显Y位置
 

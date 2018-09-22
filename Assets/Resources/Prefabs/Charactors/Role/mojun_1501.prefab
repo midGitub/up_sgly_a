@@ -9,6 +9,7 @@ GameObject:
   m_Component:
   - component: {fileID: 445496}
   - component: {fileID: 9542194}
+  - component: {fileID: 114356512391418390}
   m_Layer: 0
   m_Name: mojun_1501
   m_TagString: Untagged
@@ -1164,8 +1165,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100218}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.291, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 131.148, y: -1.8299999, z: 158.876}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 464072}
@@ -1697,7 +1698,7 @@ Animator:
   m_GameObject: {fileID: 100218}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 6da58af3d5543d842809598c162e59cc, type: 3}
-  m_Controller: {fileID: 9100000, guid: c6ccee6fd748ca9448675bfa0c6386ee, type: 2}
+  m_Controller: {fileID: 9100000, guid: 4d54c8a4d8a6a654781cc27555e748aa, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1714,6 +1715,7 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1729,6 +1731,7 @@ SkinnedMeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -1895,6 +1898,84 @@ Transform:
   m_Father: {fileID: 4186097272171830}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114356512391418390
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 9542194}
+  m_sAniInfoKey:
+  - 1skill1
+  - 2skill2
+  - 3skill3
+  - atk1
+  - atk2
+  - atk3
+  - idle
+  - outready
+  - outrun
+  m_sAniInfoValue:
+  - m_name: 1skill1
+    m_hash: 1868162807
+    m_layer: 0
+    m_aniLen: 2.1666667
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: 2skill2
+    m_hash: -944198192
+    m_layer: 0
+    m_aniLen: 2.2333333
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: 3skill3
+    m_hash: 382244594
+    m_layer: 0
+    m_aniLen: 2.2333333
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: atk1
+    m_hash: 653344160
+    m_layer: 0
+    m_aniLen: 0.8333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: atk2
+    m_hash: -1074238438
+    m_layer: 0
+    m_aniLen: 0.83333343
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: atk3
+    m_hash: -922788724
+    m_layer: 0
+    m_aniLen: 1.6666669
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 2.6666667
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: outready
+    m_hash: -1396854889
+    m_layer: 0
+    m_aniLen: 2
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: outrun
+    m_hash: 842545546
+    m_layer: 0
+    m_aniLen: 0.8000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
 --- !u!137 &137886310005656006
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
@@ -1904,6 +1985,7 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1919,6 +2001,7 @@ SkinnedMeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5

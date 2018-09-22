@@ -150,7 +150,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &121930
 GameObject:
   m_ObjectHideFlags: 1
@@ -851,6 +851,7 @@ GameObject:
   m_Component:
   - component: {fileID: 421788}
   - component: {fileID: 9557638}
+  - component: {fileID: 114267183294305394}
   m_Layer: 0
   m_Name: tianyao_1504
   m_TagString: Untagged
@@ -1515,8 +1516,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 174612}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.09, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 133.217, y: -1.8299999, z: 157.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 458166}
@@ -2369,7 +2370,7 @@ Animator:
   m_GameObject: {fileID: 174612}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 6567e8bea9fe7674bba3cb8e4666c824, type: 3}
-  m_Controller: {fileID: 9100000, guid: 46f8c184c7b6b0348851835a973382e3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 41afd5518562cb24b95d1cf7320eb905, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2385,7 +2386,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 121586}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 0.5
   m_Height: 2
   m_Direction: 1
@@ -2399,6 +2400,7 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -2414,6 +2416,7 @@ SkinnedMeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -2506,3 +2509,102 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 174612}
   m_IsPrefabParent: 1
+--- !u!114 &114267183294305394
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 9557638}
+  m_sAniInfoKey:
+  - atk1
+  - atk2
+  - atk3
+  - dead
+  - idle
+  - pick
+  - run
+  - sit_ride_run
+  - skill1
+  - skill2
+  - skill3
+  - sta_ride_run
+  m_sAniInfoValue:
+  - m_name: atk1
+    m_hash: 653344160
+    m_layer: 0
+    m_aniLen: 0.5000005
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: atk2
+    m_hash: -1074238438
+    m_layer: 0
+    m_aniLen: 0.5000005
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: atk3
+    m_hash: -922788724
+    m_layer: 0
+    m_aniLen: 1.1333337
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: dead
+    m_hash: -316323548
+    m_layer: 0
+    m_aniLen: 2.1666667
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 1.9666669
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: pick
+    m_hash: -1714614373
+    m_layer: 0
+    m_aniLen: 1
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: run
+    m_hash: 1349952704
+    m_layer: 0
+    m_aniLen: 0.8000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: sit_ride_run
+    m_hash: 1600445983
+    m_layer: 0
+    m_aniLen: 1
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: skill1
+    m_hash: 1306736332
+    m_layer: 0
+    m_aniLen: 1.6666667
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: skill2
+    m_hash: -722835594
+    m_layer: 0
+    m_aniLen: 1.2333333
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: skill3
+    m_hash: -1544726560
+    m_layer: 0
+    m_aniLen: 1.1666667
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: sta_ride_run
+    m_hash: -75424385
+    m_layer: 0
+    m_aniLen: 2
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1

@@ -245,6 +245,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4953206802792272}
   - component: {fileID: 95547409395464176}
+  - component: {fileID: 114760187831151588}
   m_Layer: 0
   m_Name: NPC117
   m_TagString: Untagged
@@ -477,7 +478,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1533386547813894
 GameObject:
   m_ObjectHideFlags: 1
@@ -1428,7 +1429,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1309259996867146}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 62.25, y: 0, z: 0}
+  m_LocalPosition: {x: 184.98001, y: -1.8340002, z: 163.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4812027263175906}
@@ -1506,7 +1507,7 @@ Animator:
   m_GameObject: {fileID: 1309259996867146}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 16a9503e93c7b384dac86768276522ac, type: 3}
-  m_Controller: {fileID: 9100000, guid: 23bd49008c35d08448e21b49e4bd52f6, type: 2}
+  m_Controller: {fileID: 9100000, guid: 7731021096b02e547a297b78b17de5ba, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1514,6 +1515,49 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114760187831151588
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1309259996867146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 95547409395464176}
+  m_sAniInfoKey:
+  - Idle
+  - idle
+  - outready
+  - outready 0
+  m_sAniInfoValue:
+  - m_name: Idle
+    m_hash: 2081823275
+    m_layer: 0
+    m_aniLen: 1.9000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 1.9000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: outready
+    m_hash: -1396854889
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: outready 0
+    m_hash: -1964177176
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
 --- !u!136 &136415767246038558
 CapsuleCollider:
   m_ObjectHideFlags: 1
@@ -1522,7 +1566,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 1532690822982760}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 0.5
   m_Height: 2
   m_Direction: 1
@@ -1536,6 +1580,7 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1551,6 +1596,7 @@ SkinnedMeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5

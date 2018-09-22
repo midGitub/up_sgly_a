@@ -816,6 +816,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4022157456812060}
   - component: {fileID: 95025142280518118}
+  - component: {fileID: 114669009835067068}
   m_Layer: 0
   m_Name: NPC108
   m_TagString: Untagged
@@ -859,7 +860,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1974474418141526}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 34.89, y: 0, z: 0}
+  m_LocalPosition: {x: 157.62001, y: -1.8340002, z: 163.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4520885476275138}
@@ -1618,7 +1619,7 @@ Animator:
   m_GameObject: {fileID: 1974474418141526}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 24e7464ded5247a4b80bdb09ba0836cb, type: 3}
-  m_Controller: {fileID: 9100000, guid: 72b1efb3e796ab04d9d6b0e017720d30, type: 2}
+  m_Controller: {fileID: 9100000, guid: 4ff80b2a818b090419f7adda371bb6c5, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1626,6 +1627,49 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114669009835067068
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974474418141526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 95025142280518118}
+  m_sAniInfoKey:
+  - idle
+  - idle 0
+  - outready
+  - outready 0
+  m_sAniInfoValue:
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 2.0666668
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle 0
+    m_hash: 2117761986
+    m_layer: 0
+    m_aniLen: 2.0666668
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: outready
+    m_hash: -1396854889
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: outready 0
+    m_hash: -1964177176
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
 --- !u!137 &137890081421508982
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
@@ -1635,6 +1679,7 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1650,6 +1695,7 @@ SkinnedMeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
