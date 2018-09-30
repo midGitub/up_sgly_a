@@ -3,7 +3,7 @@ guid: 3c80f5d123f5a884fb8248afbdf36fa0
 timeCreated: 1495267500
 licenseType: Pro
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Bip001
     100002: Bip001 Head
@@ -80,6 +80,8 @@ ModelImporter:
     100144: "\u5BF9\u8C61001"
     100146: "\u5BF9\u8C61002"
     100148: Bip001 Footsteps
+    100150: wuqi01
+    100152: wuqi2
     400000: Bip001
     400002: Bip001 Head
     400004: Bip001 HeadNub
@@ -155,19 +157,37 @@ ModelImporter:
     400144: "\u5BF9\u8C61001"
     400146: "\u5BF9\u8C61002"
     400148: Bip001 Footsteps
+    400150: wuqi01
+    400152: wuqi2
     4300000: oss_002_w
     4300002: oss_002
     4300004: "\u5BF9\u8C61001"
     4300006: "\u5BF9\u8C61002"
+    4300008: wuqi01
+    4300010: wuqi2
     9500000: //RootNode
     13700000: oss_002
     13700002: oss_002_w
     13700004: "\u5BF9\u8C61001"
     13700006: "\u5BF9\u8C61002"
+    13700008: wuqi01
+    13700010: wuqi2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boss_002
+    second: {fileID: 2100000, guid: 951573f4fcb88f04d969278aa9b9134a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boss_002_w
+    second: {fileID: 2100000, guid: 848eb8eec47391d418bcc794e43efc5e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -180,6 +200,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -204,6 +225,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

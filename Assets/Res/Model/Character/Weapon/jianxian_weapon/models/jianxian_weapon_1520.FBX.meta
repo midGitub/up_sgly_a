@@ -3,7 +3,7 @@ guid: d415393fbac761d4bb1ef27e178a878a
 timeCreated: 1535687396
 licenseType: Pro
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: 020
     100002: Bone042
@@ -15,13 +15,23 @@ ModelImporter:
     400004: Bone072
     400006: Bone073
     400008: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: 020
+    4300002: jianxian_weapon_1520
     9500000: //RootNode
     13700000: 020
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jianxian_weapon_1519-20
+    second: {fileID: 2100000, guid: 135943831d6ad8d4a986a7894d86491c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -34,6 +44,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -58,6 +69,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

@@ -7,14 +7,13 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: caijiwu003
-  m_Shader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
+  m_Shader: {fileID: 4800000, guid: 19ef6dbb852bdf24ea4dd7d7eb5a3288, type: 3}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Transparent
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -32,6 +31,14 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveSrc:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveSrcBump:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -57,6 +64,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AlphaCutoff: 0.5
+    - _Amount: 0.5
+    - _Angle: 75
+    - _BeginTime: 2
     - _BumpScale: 1
     - _ColorMask: 15
     - _Cutoff: 0.5
@@ -65,29 +75,41 @@ Material:
     - _Flash: 0
     - _Glossiness: 0.5
     - _HitColorWidth: 0.8
+    - _Illuminate: 0.5
+    - _Interval: 5
     - _InvFade: 1
     - _IsECHO: 0
     - _IsHit: 0
+    - _Length: 0.25
+    - _LoopTime: 0.7
     - _MainTintPower: 1.2
     - _Metallic: 0
     - _Mode: 3
     - _OcclusionStrength: 1
+    - _OffX: 0.15
     - _Parallax: 0.02
+    - _Shininess: 0.078125
     - _SrcBlend: 1
+    - _StartAmount: 0.1
     - _Stencil: 0
     - _StencilComp: 8
     - _StencilOp: 0
     - _StencilReadMask: 255
     - _StencilWriteMask: 255
+    - _Tile: 1
     - _UVSec: 0
     - _UseUIAlphaClip: 0
     - _XRayPower: 0.5
     - _ZWrite: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorAnimate: {r: 1, g: 1, b: 1, a: 1}
+    - _DissColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FlashColor: {r: 1, g: 1, b: 1, a: 1}
     - _HitColor: {r: 0.6, g: 0.6, b: 0.6, a: 1}
     - _MainTint: {r: 0.50735295, g: 0.50735295, b: 0.50735295, a: 1}
     - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
     - _XRayColor: {r: 1, g: 1, b: 1, a: 1}

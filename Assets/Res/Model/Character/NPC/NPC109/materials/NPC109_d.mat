@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: NPC109_d
-  m_Shader: {fileID: 4800000, guid: da1bae3ae1e556840b6cff666a99b80a, type: 3}
+  m_Shader: {fileID: 4800000, guid: 794afdf4950c25f48aae03dc3ee8c788, type: 3}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0

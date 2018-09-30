@@ -859,8 +859,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1974474418141526}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 157.62001, y: -1.8340002, z: 163.9}
+  m_LocalRotation: {x: -0, y: 0.69467723, z: -0, w: 0.71932167}
+  m_LocalPosition: {x: 176.31999, y: 0, z: 154.21}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4520885476275138}
@@ -1642,32 +1642,18 @@ MonoBehaviour:
   m_animator: {fileID: 95025142280518118}
   m_sAniInfoKey:
   - idle
-  - idle 0
-  - outready
-  - outready 0
+  - idle1
   m_sAniInfoValue:
   - m_name: idle
     m_hash: -601574123
     m_layer: 0
-    m_aniLen: 2.0666668
-    m_clip: {fileID: 0}
-    m_lastNormalizedTime: -1
-  - m_name: idle 0
-    m_hash: 2117761986
-    m_layer: 0
-    m_aniLen: 2.0666668
-    m_clip: {fileID: 0}
-    m_lastNormalizedTime: -1
-  - m_name: outready
-    m_hash: -1396854889
-    m_layer: 0
     m_aniLen: 1.3333334
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
-  - m_name: outready 0
-    m_hash: -1964177176
+  - m_name: idle1
+    m_hash: -287494167
     m_layer: 0
-    m_aniLen: 1.3333334
+    m_aniLen: 2.0666668
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
 --- !u!137 &137890081421508982

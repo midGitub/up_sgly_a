@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 74dfe66da746906459780f29e0c427ae
-timeCreated: 1536920713
+guid: aa19a33cddb0de04f8d5440764031245
+timeCreated: 1538117651
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
@@ -139,10 +139,14 @@ ModelImporter:
     400130: P_Hand_R
     2100000: God2
     4300000: God2
-    7400000: Take 001
     9500000: //RootNode
     13700000: God2
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: God2
+    second: {fileID: 2100000, guid: e165c7db91d26e84dafb1bf99179a12f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -197,7 +201,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

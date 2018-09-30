@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: God2
-  m_Shader: {fileID: 4800000, guid: da1bae3ae1e556840b6cff666a99b80a, type: 3}
+  m_Shader: {fileID: 4800000, guid: 794afdf4950c25f48aae03dc3ee8c788, type: 3}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -39,7 +39,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 4efe42c20c75637478afdc27ee9e3e07, type: 3}
+        m_Texture: {fileID: 2800000, guid: 100c75684310d5a4bb00611435577401, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:

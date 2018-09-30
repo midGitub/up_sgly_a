@@ -759,8 +759,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 137296}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 160.57, y: -1.9, z: 160.11}
+  m_LocalRotation: {x: -0, y: 0.7011922, z: -0, w: 0.71297234}
+  m_LocalPosition: {x: 154.2984, y: 0, z: 159.79155}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 450038}
@@ -1263,7 +1263,7 @@ MonoBehaviour:
   m_animator: {fileID: 9554932}
   m_sAniInfoKey:
   - atk1
-  - outready
+  - idle
   m_sAniInfoValue:
   - m_name: atk1
     m_hash: 653344160
@@ -1271,8 +1271,8 @@ MonoBehaviour:
     m_aniLen: 1
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
-  - m_name: outready
-    m_hash: -1396854889
+  - m_name: idle
+    m_hash: -601574123
     m_layer: 0
     m_aniLen: 1.3333334
     m_clip: {fileID: 0}

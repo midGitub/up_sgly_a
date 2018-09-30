@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 223ce4935189a9d4aaeda4083c4b6cb6
-timeCreated: 1536920644
+guid: 56abecab89ac10a4fbb4cd660173e848
+timeCreated: 1538106468
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
@@ -74,9 +74,8 @@ ModelImporter:
     100132: Bone23
     100134: Bone24
     100136: Bone25
-    100138: Dummy002
-    100140: Dummy01
-    100142: //RootNode
+    100138: Dummy01
+    100140: //RootNode
     400000: Bip01
     400002: Bip01 Footsteps
     400004: Bip01 Head
@@ -146,9 +145,8 @@ ModelImporter:
     400132: Bone23
     400134: Bone24
     400136: Bone25
-    400138: Dummy002
-    400140: Dummy01
-    400142: //RootNode
+    400138: Dummy01
+    400140: //RootNode
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}

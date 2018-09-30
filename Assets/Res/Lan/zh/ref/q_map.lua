@@ -4,7 +4,7 @@ return {
     ["q_prefab"] = "Prefabs/Scene/yland_1/base/yland_1_base.prefab",
     ["q_grid"] = "GData/Scene/Grid/yland_1.txt",
     ["q_obj"] = "GData/Scene/ObjPos/yland_1.txt",
-    ["q_height"] = "GData/Scene/Height/yland_1.txt"
+    ["q_height"] = "GData/Scene/Height/yland_1_H.txt"
   },
   ["1002"] = {
     ["q_name"] = "回城卷",

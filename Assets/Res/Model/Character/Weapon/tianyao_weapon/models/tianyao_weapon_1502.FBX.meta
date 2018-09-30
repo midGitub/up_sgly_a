@@ -3,7 +3,7 @@ guid: 6e6f225d68a02b84eabfb681799798ba
 timeCreated: 1535797751
 licenseType: Pro
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Bone028
     100002: Bone029
@@ -15,13 +15,23 @@ ModelImporter:
     400004: Bone031
     400006: //RootNode
     400008: "\u7537\u67AA-\u53CC\u5203\u621F_weapon"
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: "\u7537\u67AA-\u53CC\u5203\u621F_weapon"
+    4300002: tianyao_weapon_1502
     9500000: //RootNode
     13700000: "\u7537\u67AA-\u53CC\u5203\u621F_weapon"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7537\u67AA-\u53CC\u5203\u621F_weapon"
+    second: {fileID: 2100000, guid: 3c639864617e72644bb591a352829a9a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -34,6 +44,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -58,6 +69,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

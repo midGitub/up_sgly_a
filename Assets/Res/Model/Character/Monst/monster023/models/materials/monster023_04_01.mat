@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: monster023_04_01
-  m_Shader: {fileID: 4800000, guid: 4d7903f7eeb559b448f086bd953fc19d, type: 3}
+  m_Shader: {fileID: 4800000, guid: 794afdf4950c25f48aae03dc3ee8c788, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
@@ -18,6 +18,18 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveSrc:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveSrcBump:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Illum:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -27,9 +39,33 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _AlphaCutoff: 0.5
+    - _Amount: 0.5
+    - _Angle: 75
+    - _BeginTime: 2
     - _Cutoff: 0.5
     - _EmissionLM: 0
     - _Flash: 0
+    - _HitColorWidth: 0.8
+    - _Illuminate: 0.5
+    - _Interval: 5
+    - _IsECHO: 0
+    - _IsHit: 0
+    - _Length: 0.25
+    - _LoopTime: 0.7
+    - _MainTintPower: 1.2
+    - _OffX: 0.15
+    - _Shininess: 0.078125
+    - _StartAmount: 0.1
+    - _Tile: 1
+    - _XRayPower: 0.5
     m_Colors:
     - _Color: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 1}
+    - _ColorAnimate: {r: 1, g: 1, b: 1, a: 1}
+    - _DissColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FlashColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HitColor: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+    - _MainTint: {r: 1, g: 1, b: 1, a: 1}
     - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _XRayColor: {r: 1, g: 1, b: 1, a: 1}

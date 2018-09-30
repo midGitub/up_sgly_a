@@ -181,7 +181,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &120246
 GameObject:
   m_ObjectHideFlags: 1
@@ -885,6 +885,7 @@ GameObject:
   m_Component:
   - component: {fileID: 440954}
   - component: {fileID: 9551152}
+  - component: {fileID: 114290320054890936}
   m_Layer: 0
   m_Name: boss013
   m_TagString: Untagged
@@ -1201,7 +1202,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 198964}
   m_LocalRotation: {x: -0, y: 0.6981744, z: -0, w: 0.7159277}
-  m_LocalPosition: {x: 132.60274, y: -1.55, z: 162.37302}
+  m_LocalPosition: {x: 123.43, y: -0.009999953, z: 152.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 486436}
@@ -1981,7 +1982,7 @@ SkinnedMeshRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 115772}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -2034,3 +2035,81 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 198964}
   m_IsPrefabParent: 1
+--- !u!114 &114290320054890936
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 198964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 9551152}
+  m_sAniInfoKey:
+  - atk1
+  - atk2
+  - atk3
+  - dead
+  - fight
+  - hit1
+  - idle
+  - run
+  - walk
+  m_sAniInfoValue:
+  - m_name: atk1
+    m_hash: 653344160
+    m_layer: 0
+    m_aniLen: 1.7333335
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: atk2
+    m_hash: -1074238438
+    m_layer: 0
+    m_aniLen: 1.8333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: atk3
+    m_hash: -922788724
+    m_layer: 0
+    m_aniLen: 1.8333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: dead
+    m_hash: -316323548
+    m_layer: 0
+    m_aniLen: 2
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: fight
+    m_hash: 564806742
+    m_layer: 0
+    m_aniLen: 1.2
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: hit1
+    m_hash: -2107814761
+    m_layer: 0
+    m_aniLen: 0.73333335
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: run
+    m_hash: 1349952704
+    m_layer: 0
+    m_aniLen: 0.86666673
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: walk
+    m_hash: -1919845803
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1

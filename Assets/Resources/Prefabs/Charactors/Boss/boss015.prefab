@@ -69,6 +69,7 @@ GameObject:
   m_Component:
   - component: {fileID: 464062}
   - component: {fileID: 9583808}
+  - component: {fileID: 114197913851675984}
   m_Layer: 0
   m_Name: boss015
   m_TagString: Untagged
@@ -739,7 +740,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 155720}
-  m_LocalRotation: {x: -0.5614657, y: 0.8133019, z: -0.10197362, w: -0.11356851}
+  m_LocalRotation: {x: -0.5614656, y: 0.8133018, z: -0.10197361, w: -0.11356849}
   m_LocalPosition: {x: -0.18377824, y: 0.06602526, z: -0.34100005}
   m_LocalScale: {x: 1, y: 1, z: 0.99999994}
   m_Children:
@@ -1097,7 +1098,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 115240}
   m_LocalRotation: {x: -0, y: 0.6981744, z: -0, w: 0.7159277}
-  m_LocalPosition: {x: 140.95024, y: -1.55, z: 154.61014}
+  m_LocalPosition: {x: 140.95024, y: -0.009999953, z: 154.61014}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 427944}
@@ -1463,3 +1464,39 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 115240}
   m_IsPrefabParent: 1
+--- !u!114 &114197913851675984
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 115240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 9583808}
+  m_sAniInfoKey:
+  - atk1
+  - idle
+  - run
+  m_sAniInfoValue:
+  - m_name: atk1
+    m_hash: 653344160
+    m_layer: 0
+    m_aniLen: 1
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: run
+    m_hash: 1349952704
+    m_layer: 0
+    m_aniLen: 0.40000004
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1

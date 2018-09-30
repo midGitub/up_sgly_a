@@ -54,7 +54,7 @@ local function _alertUI()
 	AlertUI.s_titleBgOffestTitleW = 10    --titleGB的一边宽于title的长度
 	AlertUI.s_titleBgOffestTitleH = 10    --titleGB的一边高于title的高度
 	--]]
-	--AlertUI.s_btnTitleStr = {TT("BASE1"), TT("BASE3"), TT("BASE5")}
+	AlertUI.s_btnTitleStr = {"確认","其他","关闭"}
 
 	AlertUI.s_standbtnBgPath = ""       --标准按钮类型背景路径
 	AlertUI.s_standbtnW = 156			--标准按钮宽
@@ -108,7 +108,7 @@ local function _progressBarUI()
 	ProgressBarUI.s_descColor = gs.COlOR_BLACK				--title颜色
 	ProgressBarUI.s_percentFSize = 32						--进度字体大小
 	ProgressBarUI.s_percentColor = gs.COlOR_BLACK			--进度字体颜色
-	ProgressBarUI.s_percentFPath= RF("FounderQuasi-circle.TTF")--进度字体路径
+	ProgressBarUI.s_percentFPath= RF("founder_quasi_circle.TTF")--进度字体路径
 	ProgressBarUI.s_bgPath = ""								--背景路径
 	ProgressBarUI.s_fgPath = ""								--前景背景路径
 	ProgressBarUI.s_fillOrigin = gs.UI.Image.OriginHorizontal.Left	--进度条开始方向

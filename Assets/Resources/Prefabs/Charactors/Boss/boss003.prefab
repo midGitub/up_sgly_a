@@ -160,6 +160,7 @@ GameObject:
   m_Component:
   - component: {fileID: 413118}
   - component: {fileID: 9550510}
+  - component: {fileID: 114918119549252278}
   m_Layer: 0
   m_Name: boss003
   m_TagString: Untagged
@@ -692,7 +693,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 133184}
   m_LocalRotation: {x: -0, y: 0.6981744, z: -0, w: 0.7159277}
-  m_LocalPosition: {x: 139.9399, y: -1.55, z: 147.44249}
+  m_LocalPosition: {x: 139.9399, y: 0.031, z: 147.44249}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 479770}
@@ -957,7 +958,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 126354}
-  m_LocalRotation: {x: 0.6321409, y: 0.31685627, z: -0.6321409, w: 0.31685627}
+  m_LocalRotation: {x: 0.63214093, y: 0.3168563, z: -0.63214093, w: 0.3168563}
   m_LocalPosition: {x: 0.2938918, y: 0.080892086, z: 0.20378117}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -971,7 +972,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 195278}
-  m_LocalRotation: {x: 0.6321409, y: 0.31685627, z: 0.6321409, w: -0.31685627}
+  m_LocalRotation: {x: 0.63214093, y: 0.3168563, z: 0.63214093, w: -0.3168563}
   m_LocalPosition: {x: 0.29389226, y: 0.0808934, z: -0.20377983}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1282,3 +1283,53 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 133184}
   m_IsPrefabParent: 1
+--- !u!114 &114918119549252278
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 133184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 9550510}
+  m_sAniInfoKey:
+  - atk1
+  - dead
+  - idle
+  - run
+  - skill1
+  m_sAniInfoValue:
+  - m_name: atk1
+    m_hash: 653344160
+    m_layer: 0
+    m_aniLen: 1.1333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: dead
+    m_hash: -316323548
+    m_layer: 0
+    m_aniLen: 1.1333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: run
+    m_hash: 1349952704
+    m_layer: 0
+    m_aniLen: 0.8000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: skill1
+    m_hash: 1306736332
+    m_layer: 0
+    m_aniLen: 2.1333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1

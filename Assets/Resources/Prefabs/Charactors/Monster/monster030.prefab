@@ -1843,9 +1843,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 146596}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 180.89, y: -1.9, z: 165.05}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_LocalRotation: {x: -0, y: 0.7011922, z: -0, w: 0.71297234}
+  m_LocalPosition: {x: 159.57623, y: 0, z: 139.55667}
+  m_LocalScale: {x: 1.2000005, y: 1.2, z: 1.2000005}
   m_Children:
   - {fileID: 481814}
   - {fileID: 451122}
@@ -2373,7 +2373,7 @@ MonoBehaviour:
   - atk2
   - atk3
   - dead
-  - Fight
+  - fight
   - hit1
   - idle
   - run
@@ -2403,8 +2403,8 @@ MonoBehaviour:
     m_aniLen: 1.9333334
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
-  - m_name: Fight
-    m_hash: -529831086
+  - m_name: fight
+    m_hash: 564806742
     m_layer: 0
     m_aniLen: 1.2
     m_clip: {fileID: 0}

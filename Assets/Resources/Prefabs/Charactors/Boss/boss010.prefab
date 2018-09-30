@@ -536,6 +536,7 @@ GameObject:
   m_Component:
   - component: {fileID: 483414}
   - component: {fileID: 9538154}
+  - component: {fileID: 114340557554369546}
   m_Layer: 0
   m_Name: boss010
   m_TagString: Untagged
@@ -1145,7 +1146,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 181604}
   m_LocalRotation: {x: -0, y: 0.6981744, z: -0, w: 0.7159277}
-  m_LocalPosition: {x: 129.61751, y: -1.55, z: 156.96631}
+  m_LocalPosition: {x: 129.61751, y: 0, z: 156.44}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 419064}
@@ -1370,3 +1371,39 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 181604}
   m_IsPrefabParent: 1
+--- !u!114 &114340557554369546
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d074e2c00a04b4eb5117b6f4fad01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_animation: {fileID: 0}
+  m_animator: {fileID: 9538154}
+  m_sAniInfoKey:
+  - atk1
+  - idle
+  - run
+  m_sAniInfoValue:
+  - m_name: atk1
+    m_hash: 653344160
+    m_layer: 0
+    m_aniLen: 1.4000001
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle
+    m_hash: -601574123
+    m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: run
+    m_hash: 1349952704
+    m_layer: 0
+    m_aniLen: 0.40000004
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1

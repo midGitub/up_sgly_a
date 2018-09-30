@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: e35bfd2927533fe43a815fd24d9788ba
+guid: d854de30f1d5b9c4cbe12df98951c910
 timeCreated: 1535429925
 licenseType: Pro
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Bip001
     100002: Bip001 Footsteps
@@ -829,10 +829,17 @@ ModelImporter:
     7400000: idle
     9500000: //RootNode
     13700000: NPC101
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "NPC-\u8D75\u71D5\u7434"
+    second: {fileID: 2100000, guid: 4a69a03d1de6cf749afb4463484723cb, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -845,6 +852,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -857,14 +865,14 @@ ModelImporter:
       name: idle
       takeName: Take 001
       firstFrame: 0
-      lastFrame: 95
+      lastFrame: 40
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -897,6 +905,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

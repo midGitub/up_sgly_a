@@ -1428,8 +1428,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1309259996867146}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 184.98001, y: -1.8340002, z: 163.9}
+  m_LocalRotation: {x: 0.000000020736064, y: 0.49242908, z: -0.000000021471687, w: 0.87035257}
+  m_LocalPosition: {x: 183.31, y: 0, z: 173.69}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4812027263175906}
@@ -1438,7 +1438,7 @@ Transform:
   - {fileID: 4621545440366044}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 59.001003, z: 0}
 --- !u!4 &4957056103672630
 Transform:
   m_ObjectHideFlags: 1
@@ -1529,33 +1529,19 @@ MonoBehaviour:
   m_animation: {fileID: 0}
   m_animator: {fileID: 95547409395464176}
   m_sAniInfoKey:
-  - Idle
   - idle
-  - outready
-  - outready 0
+  - idle1
   m_sAniInfoValue:
-  - m_name: Idle
-    m_hash: 2081823275
-    m_layer: 0
-    m_aniLen: 1.9000001
-    m_clip: {fileID: 0}
-    m_lastNormalizedTime: -1
   - m_name: idle
     m_hash: -601574123
     m_layer: 0
+    m_aniLen: 1.3333334
+    m_clip: {fileID: 0}
+    m_lastNormalizedTime: -1
+  - m_name: idle1
+    m_hash: -287494167
+    m_layer: 0
     m_aniLen: 1.9000001
-    m_clip: {fileID: 0}
-    m_lastNormalizedTime: -1
-  - m_name: outready
-    m_hash: -1396854889
-    m_layer: 0
-    m_aniLen: 1.3333334
-    m_clip: {fileID: 0}
-    m_lastNormalizedTime: -1
-  - m_name: outready 0
-    m_hash: -1964177176
-    m_layer: 0
-    m_aniLen: 1.3333334
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
 --- !u!136 &136415767246038558

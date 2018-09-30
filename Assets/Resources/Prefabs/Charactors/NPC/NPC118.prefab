@@ -789,7 +789,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1969434372474906}
-  m_LocalRotation: {x: 0.6633227, y: 0.15751185, z: 0.68610317, w: -0.25388077}
+  m_LocalRotation: {x: 0.66332275, y: 0.15751186, z: 0.6861032, w: -0.2538808}
   m_LocalPosition: {x: 0.0010025715, y: 0.00015001475, z: -0.00088218984}
   m_LocalScale: {x: 1.0000001, y: 1, z: 0.99999994}
   m_Children:
@@ -803,8 +803,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1162776382219070}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 189.46, y: -1.8340002, z: 163.9}
+  m_LocalRotation: {x: 0.00000002278476, y: 0.46995312, z: -0.000000023593065, w: 0.88269144}
+  m_LocalPosition: {x: 183.15, y: 0, z: 170.08}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4364090585894460}
@@ -813,7 +813,7 @@ Transform:
   - {fileID: 4602133593938336}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 56.062004, z: 0}
 --- !u!4 &4362542982384476
 Transform:
   m_ObjectHideFlags: 1
@@ -1207,32 +1207,18 @@ MonoBehaviour:
   m_animator: {fileID: 95713388777922830}
   m_sAniInfoKey:
   - idle
-  - idle 0
-  - outready
-  - outready 0
+  - idle1
   m_sAniInfoValue:
   - m_name: idle
     m_hash: -601574123
     m_layer: 0
-    m_aniLen: 3.0333335
-    m_clip: {fileID: 0}
-    m_lastNormalizedTime: -1
-  - m_name: idle 0
-    m_hash: 2117761986
-    m_layer: 0
-    m_aniLen: 3.0333335
-    m_clip: {fileID: 0}
-    m_lastNormalizedTime: -1
-  - m_name: outready
-    m_hash: -1396854889
-    m_layer: 0
     m_aniLen: 1.3333334
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
-  - m_name: outready 0
-    m_hash: -1964177176
+  - m_name: idle1
+    m_hash: -287494167
     m_layer: 0
-    m_aniLen: 1.3333334
+    m_aniLen: 3.0333335
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
 --- !u!136 &136624865809712214
