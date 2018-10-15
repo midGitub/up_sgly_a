@@ -97,6 +97,10 @@ ModelImporter:
     100178: God18
     100180: //RootNode
     100182: P_Hand_R
+    100184: Bone001
+    100186: Bone002
+    100188: Bone003
+    100190: Bone004
     400000: B_bone01
     400002: B_bone07
     400004: B_bone08
@@ -189,11 +193,20 @@ ModelImporter:
     400178: God18
     400180: //RootNode
     400182: P_Hand_R
+    400184: Bone001
+    400186: Bone002
+    400188: Bone003
+    400190: Bone004
     2100000: God18
     4300000: God18
     9500000: //RootNode
     13700000: God18
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #69'
+    second: {fileID: 2100000, guid: cc06b17c094699744acc1bfe0c50a85c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: edbdfcfe11c9d1440b8eb6bba3928791
-timeCreated: 1538103552
-licenseType: Free
+timeCreated: 1539229873
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -81,7 +81,7 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape: []
-  spritePackingTag: 
+  spritePackingTag: Wing
   userData: 
   assetBundleName: 
   assetBundleVariant: 

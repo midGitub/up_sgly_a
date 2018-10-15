@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: c949a06cee9dddc4a8d8a19f9838f7e8
-timeCreated: 1538209878
+timeCreated: 1538297588
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
@@ -75,6 +75,7 @@ ModelImporter:
     100134: Dummy02
     100136: Dummy03
     100138: //RootNode
+    100140: Dummy002
     400000: Bip01
     400002: Bip01 Footsteps
     400004: Bip01 Head
@@ -145,6 +146,7 @@ ModelImporter:
     400134: Dummy02
     400136: Dummy03
     400138: //RootNode
+    400140: Dummy002
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}

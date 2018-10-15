@@ -1,50 +1,146 @@
 return {
   [1001] = {
     ["q_id"] = 1001,
-    ["q_name"] = "武器",
-    ["q_dsc"] = "人物装备的武器",
-    ["q_icon"] = "sys_btn_a1.png"
+    ["model"] = "jianxian_weapon_1502",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 1,
+    ["strengthlevel_max"] = 10,
+    ["resolve"] = "0"
   },
   [2001] = {
     ["q_id"] = 2001,
-    ["q_name"] = "头盔",
-    ["q_dsc"] = "人物装备的头盔",
-    ["q_icon"] = "sys_btn_a1.png"
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 2,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
   },
   [3001] = {
     ["q_id"] = 3001,
-    ["q_name"] = "衣服",
-    ["q_dsc"] = "人物装备的衣服",
-    ["q_icon"] = "sys_btn_a1.png"
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 3,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
   },
   [4001] = {
     ["q_id"] = 4001,
-    ["q_name"] = "护腕",
-    ["q_dsc"] = "人物装备的护腕",
-    ["q_icon"] = "sys_btn_a1.png"
+    ["model"] = "jianxian_1502",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 4,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
   },
   [5001] = {
     ["q_id"] = 5001,
-    ["q_name"] = "腰带",
-    ["q_dsc"] = "人物装备的腰带",
-    ["q_icon"] = "sys_btn_a1.png"
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 5,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
   },
   [6001] = {
     ["q_id"] = 6001,
-    ["q_name"] = "鞋子",
-    ["q_dsc"] = "人物装备的鞋子",
-    ["q_icon"] = "sys_btn_a1.png"
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 6,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
   },
   [7001] = {
     ["q_id"] = 7001,
-    ["q_name"] = "项链",
-    ["q_dsc"] = "人物装备的项链",
-    ["q_icon"] = "sys_btn_a1.png"
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 7,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
   },
   [8001] = {
     ["q_id"] = 8001,
-    ["q_name"] = "戒指",
-    ["q_dsc"] = "人物装备的戒指",
-    ["q_icon"] = "sys_btn_a1.png"
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 8,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
+  },
+  [1002] = {
+    ["q_id"] = 1002,
+    ["model"] = "tianyao_weapon_1502",
+    ["job"] = 1,
+    ["sex"] = 0,
+    ["kind"] = 1,
+    ["strengthlevel_max"] = 10,
+    ["resolve"] = "0"
+  },
+  [2002] = {
+    ["q_id"] = 2002,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 0,
+    ["kind"] = 2,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
+  },
+  [3002] = {
+    ["q_id"] = 3002,
+    ["model"] = "tianyao_1502",
+    ["job"] = 1,
+    ["sex"] = 0,
+    ["kind"] = 3,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
+  },
+  [4002] = {
+    ["q_id"] = 4002,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 0,
+    ["kind"] = 4,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
+  },
+  [5002] = {
+    ["q_id"] = 5002,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 0,
+    ["kind"] = 5,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
+  },
+  [6002] = {
+    ["q_id"] = 6002,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 0,
+    ["kind"] = 6,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
+  },
+  [7002] = {
+    ["q_id"] = 7002,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 0,
+    ["kind"] = 7,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
+  },
+  [8002] = {
+    ["q_id"] = 8002,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 0,
+    ["kind"] = 8,
+    ["strengthlevel_max"] = 20,
+    ["resolve"] = "0"
   }
 }

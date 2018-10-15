@@ -96,6 +96,10 @@ ModelImporter:
     100176: E_top
     100178: //RootNode
     100180: P_Hand_R
+    100182: Bone001
+    100184: Bone002
+    100186: Bone003
+    100188: Bone004
     400000: B_bone01
     400002: B_bone07
     400004: B_bone08
@@ -187,6 +191,10 @@ ModelImporter:
     400176: E_top
     400178: //RootNode
     400180: P_Hand_R
+    400182: Bone001
+    400184: Bone002
+    400186: Bone003
+    400188: Bone004
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}

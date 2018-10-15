@@ -53,3 +53,23 @@ gcst.INVITEDTIPS_duration = 1		--动画时间
 gcst.ARRACKTIPS_posX = 321		--受邀提示X位置
 gcst.ARRACKTIPS_posY = -165		--受邀提示出显Y位置
 
+
+--摄像机 BEGIN
+--锁定距离
+gcst.CAMERA_LOCK_DIS = 16.72
+gcst.CAMERA_LOCK_DIS_MIN = 5
+gcst.CAMERA_LOCK_DIS_MAX = 50
+--锁定俯视度
+gcst.CAMERA_LOCK_PITCH = 50
+gcst.CAMERA_LOCK_PITCH_MIN = 20
+gcst.CAMERA_LOCK_PITCH_MAX = 80
+--锁定平面度角
+gcst.CAMERA_LOCK_ANGLE = 0
+--锁定速度
+gcst.CAMERA_LOCK_SPEED = 5
+--缩放系数
+gcst.CAMERA_SCALE_K = 0.5
+--锁定物的Y轴偏移
+gcst.CAMERA_LOCK_Y_OFFSET = 1
+
+--摄像机 END

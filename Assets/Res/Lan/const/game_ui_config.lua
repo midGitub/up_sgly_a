@@ -34,8 +34,8 @@ local function _alertUI()
 	AlertUI.s_frameWidth = 520	--设置外框宽
 	AlertUI.s_maxframeWidth = 960
 	AlertUI.s_maxframeHeigh = 300
-	AlertUI.s_minframeWidth = 520	
-	AlertUI.s_minframeHeigh = 300	
+	AlertUI.s_minframeWidth = 520
+	AlertUI.s_minframeHeigh = 300
 	AlertUI.s_innerFrameOffsetW=15    --设置内框相对外框宽偏移
 	AlertUI.s_innerFrameOffsetY= 14--13--15.62  --内框与标题的距离
 	AlertUI.s_titleOffestFrame = 20--21--18.38  --标题与外框的距离
@@ -114,7 +114,7 @@ local function _progressBarUI()
 	ProgressBarUI.s_fillOrigin = gs.UI.Image.OriginHorizontal.Left	--进度条开始方向
 	ProgressBarUI.s_percentOffset = 10    					--进度条与fillAmountTitle之间的距离
 	ProgressBarUI.s_descOffset = 30			   	 			--title与进度条间的距离
-	ProgressBarUI.s_descFontPath= ""
+	ProgressBarUI.s_descFontPath= RF("founder_quasi_circle.TTF")
 	ProgressBarUI.s_fgOffset_T_B = 5					    --进度条前景与背景的上下间的间距
 	ProgressBarUI.s_fgOffset_L_R = 5						--进度条前景与背景的左右间的间距
 end
