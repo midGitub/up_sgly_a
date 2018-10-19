@@ -16,6 +16,10 @@ local TEXT_MAP = {
 ["BASE11"] = "充值",
 ["BASE12"] = "信息提示",
 ["BASE13"] = "保存",
+["BASE14"] = "<color=#%x>剩余%d天</color>",
+["BASE15"] = "<color=#%x>剩余%d小时</color>",
+["BASE16"] = "<color=#%x>剩余%d分钟</color>",
+["BASE17"] = "<color=#%x>剩余%d秒</color>",
 
 ["LOGIN1"] = "账号不能为空",
 ["LOGIN2"] = "服务器连接失败, 是否重新连接？",
@@ -83,6 +87,9 @@ local TEXT_MAP = {
 ["BASEUI522"] = "伤害加成",
 ["BASEUI523"] = "（＋%s）",
 ["BASEUI525"] = "sys_iconbg_%d.png",
+["BASEUI526"] = "出售 <res_up=-5><image=%s|25|25> <color=FFF1C1FF>%d</color>",
+["BASEUI527"] = "批量出售",
+["BASEUI528"] = "批量使用",
 
 ["BAGUI000"] = "战%d",
 ["BAGUI001"] = "背包容量：%d/%d",
@@ -100,6 +107,10 @@ local TEXT_MAP = {
 ["BAGUI013"] = "紫",
 ["BAGUI014"] = "橙",
 ["BAGUI015"] = "红",
+["BAGUI016"] = "<color=72401dff>增加5个%s格子</color><r><color=000000ff>需要花费</color><image=UI/Source/Pub/%s|%d|%d><color=72401dff>%d</color>",
+["BAGUI017"] = "扩展%s",
+["BAGUI018"] = "使用",
+["BAGUI019"] = "出售",
 
 ["CHATUI000"] = "%d\"",
 ["CHATUI001"] = "V%d",

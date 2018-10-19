@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: tianyao_weapon_rongjie
-  m_Shader: {fileID: 4800000, guid: d323c17366075bb43ab547170e4a7bfe, type: 3}
+  m_Shader: {fileID: 4800000, guid: b2fa12cafcd724348841f1eba53783ef, type: 3}
   m_ShaderKeywords: _FANZHUAN_MASK_ON _XR_SCEEN_ON
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0

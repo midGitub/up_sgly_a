@@ -5,8 +5,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 1,
-    ["strengthlevel_max"] = 10,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 10
   },
   [2001] = {
     ["q_id"] = 2001,
@@ -14,8 +13,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 2,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [3001] = {
     ["q_id"] = 3001,
@@ -23,8 +21,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 3,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [4001] = {
     ["q_id"] = 4001,
@@ -32,8 +29,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 4,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [5001] = {
     ["q_id"] = 5001,
@@ -41,8 +37,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 5,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [6001] = {
     ["q_id"] = 6001,
@@ -50,8 +45,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 6,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [7001] = {
     ["q_id"] = 7001,
@@ -59,8 +53,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 7,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [8001] = {
     ["q_id"] = 8001,
@@ -68,8 +61,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 8,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [1002] = {
     ["q_id"] = 1002,
@@ -77,8 +69,7 @@ return {
     ["job"] = 1,
     ["sex"] = 0,
     ["kind"] = 1,
-    ["strengthlevel_max"] = 10,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 10
   },
   [2002] = {
     ["q_id"] = 2002,
@@ -86,8 +77,7 @@ return {
     ["job"] = 1,
     ["sex"] = 0,
     ["kind"] = 2,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [3002] = {
     ["q_id"] = 3002,
@@ -95,8 +85,7 @@ return {
     ["job"] = 1,
     ["sex"] = 0,
     ["kind"] = 3,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [4002] = {
     ["q_id"] = 4002,
@@ -104,8 +93,7 @@ return {
     ["job"] = 1,
     ["sex"] = 0,
     ["kind"] = 4,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [5002] = {
     ["q_id"] = 5002,
@@ -113,8 +101,7 @@ return {
     ["job"] = 1,
     ["sex"] = 0,
     ["kind"] = 5,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [6002] = {
     ["q_id"] = 6002,
@@ -122,8 +109,7 @@ return {
     ["job"] = 1,
     ["sex"] = 0,
     ["kind"] = 6,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [7002] = {
     ["q_id"] = 7002,
@@ -131,8 +117,7 @@ return {
     ["job"] = 1,
     ["sex"] = 0,
     ["kind"] = 7,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   },
   [8002] = {
     ["q_id"] = 8002,
@@ -140,7 +125,6 @@ return {
     ["job"] = 1,
     ["sex"] = 0,
     ["kind"] = 8,
-    ["strengthlevel_max"] = 20,
-    ["resolve"] = "0"
+    ["strengthlevel_max"] = 20
   }
 }
