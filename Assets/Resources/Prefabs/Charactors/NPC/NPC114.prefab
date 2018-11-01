@@ -156,6 +156,7 @@ GameObject:
   - component: {fileID: 4817611766809608}
   - component: {fileID: 95107142989490360}
   - component: {fileID: 114535176834952614}
+  - component: {fileID: 114202765438511050}
   m_Layer: 0
   m_Name: NPC114
   m_TagString: Untagged
@@ -1396,6 +1397,37 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114202765438511050
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1275535992308042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4867686386741366}
+    m_offset: {x: 0, y: 0, z: 0}
+    m_radius: 1.1
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4867686386741366}
+    m_offset: {x: 0, y: -0.5698271, z: 0}
+    m_radius: 0.6413727
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4867686386741366}
+    m_offset: {x: 0, y: 0.3787105, z: 0}
+    m_radius: 0.6413727
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!114 &114535176834952614
 MonoBehaviour:
   m_ObjectHideFlags: 1

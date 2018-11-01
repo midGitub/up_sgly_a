@@ -13,7 +13,7 @@ return {
   },
   [3] = {
     ["q_id"] = 3,
-    ["q_base_id"] = 2,
+    ["q_base_id"] = 1,
     ["q_shop_list_id"] = 100003,
     ["q_weight"] = 300
   },
@@ -25,19 +25,19 @@ return {
   },
   [5] = {
     ["q_id"] = 5,
-    ["q_base_id"] = 3,
+    ["q_base_id"] = 2,
     ["q_shop_list_id"] = 100005,
     ["q_weight"] = 5
   },
   [6] = {
     ["q_id"] = 6,
-    ["q_base_id"] = 4,
+    ["q_base_id"] = 2,
     ["q_shop_list_id"] = 100005,
     ["q_weight"] = 6
   },
   [7] = {
     ["q_id"] = 7,
-    ["q_base_id"] = 5,
+    ["q_base_id"] = 2,
     ["q_shop_list_id"] = 100006,
     ["q_weight"] = 7
   }

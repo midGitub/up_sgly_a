@@ -115,6 +115,7 @@ GameObject:
   - component: {fileID: 493094}
   - component: {fileID: 9509110}
   - component: {fileID: 114604241999898570}
+  - component: {fileID: 114005917543641666}
   m_Layer: 0
   m_Name: jianxian_1504
   m_TagString: Untagged
@@ -2329,7 +2330,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 113222}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 187.36, y: -0.004806161, z: 168.197}
+  m_LocalPosition: {x: 186.807, y: -0.004806161, z: 168.197}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 492650}
@@ -2633,6 +2634,37 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1870433339495636}
   m_Mesh: {fileID: 4300002, guid: 7063dd3bf15097340bc522859c072adc, type: 3}
+--- !u!114 &114005917543641666
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 113222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 442768}
+    m_offset: {x: 0, y: -0.14164639, z: 0}
+    m_radius: 1
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 442768}
+    m_offset: {x: 0, y: -0.600821, z: 0}
+    m_radius: 0.6
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 442768}
+    m_offset: {x: 0, y: 0.26196766, z: 0}
+    m_radius: 0.6
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!114 &114604241999898570
 MonoBehaviour:
   m_ObjectHideFlags: 1

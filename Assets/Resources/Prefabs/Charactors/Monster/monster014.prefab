@@ -430,6 +430,7 @@ GameObject:
   - component: {fileID: 468448}
   - component: {fileID: 9571150}
   - component: {fileID: 114546112533906672}
+  - component: {fileID: 114637338331492214}
   m_Layer: 0
   m_Name: monster014
   m_TagString: Untagged
@@ -2320,3 +2321,39 @@ MonoBehaviour:
     m_aniLen: 0.40000004
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
+--- !u!114 &114637338331492214
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 401502}
+    m_offset: {x: -0.55737305, y: -0.2018075, z: 0}
+    m_radius: 1.3761997
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 401502}
+    m_offset: {x: 0, y: 0, z: 0}
+    m_radius: 0.7055664
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 401502}
+    m_offset: {x: -1.2351074, y: -1.1907272, z: 0}
+    m_radius: 0.37548828
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 401502}
+    m_offset: {x: -0.421875, y: -0.94511366, z: 0}
+    m_radius: 0.51068115
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1

@@ -202,6 +202,7 @@ GameObject:
   - component: {fileID: 4071764413799770}
   - component: {fileID: 95085278956552570}
   - component: {fileID: 114552314346272268}
+  - component: {fileID: 114497132054373190}
   m_Layer: 0
   m_Name: NPC123
   m_TagString: Untagged
@@ -1571,6 +1572,37 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114497132054373190
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1203072645715392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4474027452872222}
+    m_offset: {x: 0, y: 0, z: 0}
+    m_radius: 1.1
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4474027452872222}
+    m_offset: {x: -0.27470398, y: -0.6472664, z: 0}
+    m_radius: 0.7073364
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4474027452872222}
+    m_offset: {x: -0.02230835, y: 0.29621768, z: 0}
+    m_radius: 0.5498549
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!114 &114552314346272268
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -82,6 +82,7 @@ GameObject:
   - component: {fileID: 4422261909267080}
   - component: {fileID: 95053691304309038}
   - component: {fileID: 114181250666367142}
+  - component: {fileID: 114957137821896444}
   m_Layer: 0
   m_Name: NPC113
   m_TagString: Untagged
@@ -1336,6 +1337,37 @@ MonoBehaviour:
     m_aniLen: 3.6666667
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
+--- !u!114 &114957137821896444
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1116992198598542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4306508836695872}
+    m_offset: {x: 0, y: -0.113144875, z: 0}
+    m_radius: 1.1388092
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4306508836695872}
+    m_offset: {x: 0, y: -0.53725576, z: 0}
+    m_radius: 0.65
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4306508836695872}
+    m_offset: {x: 0, y: 0.27160478, z: 0}
+    m_radius: 0.65
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!137 &137491551490118292
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

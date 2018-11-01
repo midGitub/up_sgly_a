@@ -322,6 +322,7 @@ GameObject:
   - component: {fileID: 4962060780316852}
   - component: {fileID: 95332347077622684}
   - component: {fileID: 114745095355364134}
+  - component: {fileID: 114984523854404386}
   m_Layer: 0
   m_Name: NPC109
   m_TagString: Untagged
@@ -1515,6 +1516,37 @@ MonoBehaviour:
     m_aniLen: 2.3666668
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
+--- !u!114 &114984523854404386
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1434161392433692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4324198476908548}
+    m_offset: {x: 0, y: 0, z: 0}
+    m_radius: 1.2315674
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4324198476908548}
+    m_offset: {x: 0, y: -0.38471556, z: 0}
+    m_radius: 0.77197266
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4324198476908548}
+    m_offset: {x: 0, y: 0.3276391, z: 0}
+    m_radius: 0.77197266
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!137 &137887127672936334
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

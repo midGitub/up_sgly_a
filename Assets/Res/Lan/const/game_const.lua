@@ -17,7 +17,7 @@ gcst.NOTICEGETGOODS_speed = 100		--速度
 gcst.NOTICEGETGOODS_fastSpeed = 200 --快速移动速度
 gcst.NOTICEGETGOODS_showFadeTime = 0.5  --显示的渐变时间
 gcst.NOTICEGETGOODS_hideFadeTime = 0.5  --隐藏的渐变时间
-gcst.NOTICEGETGOODS_startPos = gs.VEC3_UP*-261  --开始位置
+gcst.NOTICEGETGOODS_startPos = gs.VEC3_UP*(-261)  --开始位置
 gcst.NOTICEGETGOODS_interval = 0.28  --每个提示出来的就小时间间隔
 
 
@@ -28,7 +28,7 @@ gcst.NOTICEATTR_speed = 100		--速度
 gcst.NOTICEATTR_fastSpeed = 400 --快速移动速度
 gcst.NOTICEATTR_showFadeTime = 0.5  --显示的渐变时间
 gcst.NOTICEATTR_hideFadeTime = 0.5  --隐藏的渐变时间
-gcst.NOTICEATTR_startPos = gs.VEC3_UP*-261  --开始位置
+gcst.NOTICEATTR_startPos =  gs.VEC3_UP*(-261)  --开始位置
 gcst.NOTICEATTR_interval = 0.28  --每个提示出来的就小时间间隔
 
 gcst.NOTICEPOWER_scaleSize = 3  		--动画结束后的放大倍数
@@ -59,18 +59,37 @@ gcst.ARRACKTIPS_posY = -165		--受邀提示出显Y位置
 gcst.CAMERA_LOCK_DIS = 19
 gcst.CAMERA_LOCK_DIS_MIN = 10
 gcst.CAMERA_LOCK_DIS_MAX = 19
+gcst.CAMERA_LOCK_DIS_SPEED = 10
 --锁定俯视度
-gcst.CAMERA_LOCK_PITCH = 40
-gcst.CAMERA_LOCK_PITCH_MIN = 40
-gcst.CAMERA_LOCK_PITCH_MAX = 40
-gcst.CAMERA_LOCK_DIS_MIN_PITCH = 30
+gcst.CAMERA_ANGLE_Y = 45
+gcst.CAMERA_ANGLE_Y_MIN = 20
+gcst.CAMERA_ANGLE_Y_MAX = 65
+--gcst.CAMERA_LOCK_DIS_MIN_PITCH = 30
 --初始平面度角
-gcst.CAMERA_LOCK_ANGLE = 40
+gcst.CAMERA_ANGLE_X = 40
 --旋转速度
-gcst.CAMERA_LOCK_SPEED = 5
---缩放系数
-gcst.CAMERA_SCALE_K = 0.5
+gcst.CAMERA_ANGLE_Y_SPEED = 40
+gcst.CAMERA_ANGLE_X_SPEED = 80
+
 --锁定物的Y轴偏移
 gcst.CAMERA_LOCK_Y_OFFSET = 1
+--视口参数
+gcst.CAMERA_FIELD_VIEW = 60
+gcst.CAMERA_FIELD_VIEW_MIN = 30
+gcst.CAMERA_FIELD_VIEW_MAX = 80
+gcst.CAMERA_FIELD_VIEW_SPEED = 80
+--边界视口时, y轴角度的调整值
+gcst.CAMERA_FIELD_VIEW_MIN_ANGLE_Y = 30
+gcst.CAMERA_FIELD_VIEW_NOR_ANGLE_Y = 60
+
+gcst.CURRENCY_GOLD=1	--元宝
+gcst.CURRENCY_MONEY=2	--铜币
+gcst.CURRENCY_SOUlSTONE=5	--	魂石（兑换天神碎片）
+gcst.CURRENCY_HONOR=6	--荣誉（竞技场币）
+gcst.CURRENCY_MERIT=7	--功勋（帮会战币）
+gcst.CURRENCY_GUILD_COUNTRIBUTON=9		--帮会贡献
+gcst.CURRENCY_GUILD_FUNDS=10			--	帮会资金
+gcst.CURRENCY_TIANJING=3				--	天晶（抽取元神货币）
+gcst.CURRENCY_SOUL_MARROW=13			--元神精华（用于元神升级）
 
 --摄像机 END

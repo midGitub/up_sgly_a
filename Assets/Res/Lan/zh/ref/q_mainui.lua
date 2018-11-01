@@ -13,7 +13,7 @@ return {
     ["q_name"] = "锻造",
     ["q_type"] = 1,
     ["q_order"] = 2,
-    ["q_icon"] = "zjm_icon_a1.png",
+    ["q_icon"] = "zjm_icon_a2.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_FORGE"
   },
@@ -22,7 +22,7 @@ return {
     ["q_name"] = "预览",
     ["q_type"] = 1,
     ["q_order"] = 3,
-    ["q_icon"] = "zjm_icon_a1.png",
+    ["q_icon"] = "zjm_icon_a3.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_PREVIEW"
   },
@@ -31,7 +31,7 @@ return {
     ["q_name"] = "帮会",
     ["q_type"] = 1,
     ["q_order"] = 4,
-    ["q_icon"] = "zjm_icon_a1.png",
+    ["q_icon"] = "zjm_icon_a4.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_GAME"
   },
@@ -40,7 +40,7 @@ return {
     ["q_name"] = "商店",
     ["q_type"] = 1,
     ["q_order"] = 5,
-    ["q_icon"] = "zjm_icon_a1.png",
+    ["q_icon"] = "zjm_icon_a5.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_SHOP"
   },
@@ -49,8 +49,8 @@ return {
     ["q_name"] = "成就",
     ["q_type"] = 1,
     ["q_order"] = 6,
-    ["q_icon"] = "zjm_icon_a1.png",
-    ["q_reqlvl"] = 25,
+    ["q_icon"] = "zjm_icon_a6.png",
+    ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_ACHIEVEMEN"
   },
   [7] = {
@@ -58,8 +58,8 @@ return {
     ["q_name"] = "神将",
     ["q_type"] = 1,
     ["q_order"] = 7,
-    ["q_icon"] = "zjm_icon_a1.png",
-    ["q_reqlvl"] = 5,
+    ["q_icon"] = "zjm_icon_a7.png",
+    ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_HEAVENLY_GENERAL"
   },
   [8] = {
@@ -67,8 +67,8 @@ return {
     ["q_name"] = "图鉴",
     ["q_type"] = 1,
     ["q_order"] = 8,
-    ["q_icon"] = "zjm_icon_a1.png",
-    ["q_reqlvl"] = 60,
+    ["q_icon"] = "zjm_icon_a8.png",
+    ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_LLLUSTATION"
   },
   [9] = {
@@ -76,7 +76,7 @@ return {
     ["q_name"] = "设置",
     ["q_type"] = 1,
     ["q_order"] = 9,
-    ["q_icon"] = "zjm_icon_a1.png",
+    ["q_icon"] = "zjm_icon_a9.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_SETTIMG"
   },
@@ -85,8 +85,8 @@ return {
     ["q_name"] = "合成",
     ["q_type"] = 1,
     ["q_order"] = 10,
-    ["q_icon"] = "zjm_icon_a1.png",
-    ["q_reqlvl"] = 16,
+    ["q_icon"] = "zjm_icon_a10.png",
+    ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_FUSION"
   },
   [11] = {
@@ -95,7 +95,7 @@ return {
     ["q_type"] = 2,
     ["q_order"] = 1,
     ["q_icon"] = "zjm_icon_c1.png",
-    ["q_reqlvl"] = 17,
+    ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_OFFICAL_POS"
   },
   [12] = {
@@ -103,8 +103,8 @@ return {
     ["q_name"] = "玩法",
     ["q_type"] = 2,
     ["q_order"] = 2,
-    ["q_icon"] = "zjm_icon_c1.png",
-    ["q_reqlvl"] = 10,
+    ["q_icon"] = "zjm_icon_c2.png",
+    ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_DESCRIPTION"
   },
   [13] = {
@@ -121,7 +121,7 @@ return {
     ["q_name"] = "运营活动",
     ["q_type"] = 3,
     ["q_order"] = 2,
-    ["q_icon"] = "zjm_icon_b1.png",
+    ["q_icon"] = "zjm_icon_b2.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_OPERATION_ACTIVITY"
   },
@@ -130,7 +130,7 @@ return {
     ["q_name"] = "日常活动",
     ["q_type"] = 3,
     ["q_order"] = 3,
-    ["q_icon"] = "zjm_icon_b1.png",
+    ["q_icon"] = "zjm_icon_b3.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_DAILY_ACTIVITY"
   },
@@ -139,7 +139,7 @@ return {
     ["q_name"] = "请神",
     ["q_type"] = 3,
     ["q_order"] = 4,
-    ["q_icon"] = "zjm_icon_b1.png",
+    ["q_icon"] = "zjm_icon_b4.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_INVITIMG_GOD"
   },
@@ -148,8 +148,8 @@ return {
     ["q_name"] = "竞技场",
     ["q_type"] = 3,
     ["q_order"] = 5,
-    ["q_icon"] = "zjm_icon_b1.png",
-    ["q_reqlvl"] = 80,
+    ["q_icon"] = "zjm_icon_b5.png",
+    ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_ARENA"
   },
   [18] = {
@@ -157,7 +157,7 @@ return {
     ["q_name"] = "排行榜",
     ["q_type"] = 3,
     ["q_order"] = 6,
-    ["q_icon"] = "zjm_icon_b1.png",
+    ["q_icon"] = "zjm_icon_b6.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_RANK"
   },
@@ -166,7 +166,7 @@ return {
     ["q_name"] = "封神榜",
     ["q_type"] = 3,
     ["q_order"] = 7,
-    ["q_icon"] = "zjm_icon_b1.png",
+    ["q_icon"] = "zjm_icon_b7.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_INVESTITURE_GOD"
   },
@@ -175,7 +175,7 @@ return {
     ["q_name"] = "背包",
     ["q_type"] = 4,
     ["q_order"] = 1,
-    ["q_icon"] = "zjm_icon_a1.png",
+    ["q_icon"] = "zjm_icon_d1.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_BAG"
   },
@@ -184,7 +184,7 @@ return {
     ["q_name"] = "社交",
     ["q_type"] = 4,
     ["q_order"] = 2,
-    ["q_icon"] = "zjm_icon_a1.png",
+    ["q_icon"] = "zjm_icon_d2.png",
     ["q_reqlvl"] = 1,
     ["q_link"] = "MAINUI_OPEN_SOCIAL"
   }

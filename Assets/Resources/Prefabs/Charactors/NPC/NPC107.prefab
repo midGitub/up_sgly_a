@@ -36,6 +36,7 @@ GameObject:
   - component: {fileID: 4873228895621920}
   - component: {fileID: 95415691418741534}
   - component: {fileID: 114548736070137344}
+  - component: {fileID: 114699293062432984}
   m_Layer: 0
   m_Name: NPC107
   m_TagString: Untagged
@@ -1266,7 +1267,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1059843170872924}
   m_LocalRotation: {x: -0, y: 0.69467723, z: -0, w: 0.71932167}
-  m_LocalPosition: {x: 176.44, y: 0, z: 156.62}
+  m_LocalPosition: {x: 176.46, y: 0, z: 156.78}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4876758873949398}
@@ -1396,6 +1397,37 @@ MonoBehaviour:
     m_aniLen: 2.966667
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
+--- !u!114 &114699293062432984
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1059843170872924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4876758873949398}
+    m_offset: {x: 0, y: 0, z: 0}
+    m_radius: 1.1
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4876758873949398}
+    m_offset: {x: 0, y: -0.60602593, z: 0}
+    m_radius: 0.5557697
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 4876758873949398}
+    m_offset: {x: 0, y: 0.19982123, z: 0}
+    m_radius: 0.5557697
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!136 &136730849260256384
 CapsuleCollider:
   m_ObjectHideFlags: 1

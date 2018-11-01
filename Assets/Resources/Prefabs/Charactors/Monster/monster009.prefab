@@ -70,6 +70,7 @@ GameObject:
   - component: {fileID: 483880}
   - component: {fileID: 9579700}
   - component: {fileID: 114967826006004028}
+  - component: {fileID: 114729100169365560}
   m_Layer: 0
   m_Name: monster009
   m_TagString: Untagged
@@ -1965,6 +1966,37 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 108582}
   m_IsPrefabParent: 1
+--- !u!114 &114729100169365560
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 108582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 408888}
+    m_offset: {x: 0, y: -0.20459938, z: 0}
+    m_radius: 1.0655853
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 408888}
+    m_offset: {x: 0, y: -0.6680274, z: 0}
+    m_radius: 0.57986414
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 408888}
+    m_offset: {x: 0, y: 0.32278705, z: 0}
+    m_radius: 0.4949646
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!114 &114967826006004028
 MonoBehaviour:
   m_ObjectHideFlags: 1

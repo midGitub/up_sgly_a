@@ -160,6 +160,7 @@ GameObject:
   - component: {fileID: 419598}
   - component: {fileID: 9547760}
   - component: {fileID: 114530650412716368}
+  - component: {fileID: 114131189134481900}
   m_Layer: 0
   m_Name: tianyao_1503
   m_TagString: Untagged
@@ -2583,6 +2584,37 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1838638528188926}
   m_Mesh: {fileID: 4300002, guid: fb7b8cedec78d9f42b5c572654abc3a7, type: 3}
+--- !u!114 &114131189134481900
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 113448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 493800}
+    m_offset: {x: 0, y: -0.17594051, z: 0}
+    m_radius: 1.1120133
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 493800}
+    m_offset: {x: 0, y: -0.72900057, z: 0}
+    m_radius: 0.6
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 493800}
+    m_offset: {x: 0, y: 0.32875657, z: 0}
+    m_radius: 0.6
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!114 &114530650412716368
 MonoBehaviour:
   m_ObjectHideFlags: 1

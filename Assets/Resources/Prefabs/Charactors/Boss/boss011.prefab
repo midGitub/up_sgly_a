@@ -1077,6 +1077,7 @@ GameObject:
   - component: {fileID: 496484}
   - component: {fileID: 9556342}
   - component: {fileID: 114926330483067122}
+  - component: {fileID: 114481510559924054}
   m_Layer: 0
   m_Name: boss011
   m_TagString: Untagged
@@ -2270,6 +2271,37 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 199410}
   m_IsPrefabParent: 1
+--- !u!114 &114481510559924054
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 199410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 466284}
+    m_offset: {x: -0.04647827, y: 0.15027809, z: 0}
+    m_radius: 2.344925
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 466284}
+    m_offset: {x: 0, y: -0.7379899, z: 0}
+    m_radius: 1.1811981
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 466284}
+    m_offset: {x: 0, y: 1.0872477, z: 0}
+    m_radius: 1.1811981
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!114 &114926330483067122
 MonoBehaviour:
   m_ObjectHideFlags: 1

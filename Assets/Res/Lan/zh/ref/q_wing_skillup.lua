@@ -5,7 +5,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 1,
     ["need_winglevel"] = 3,
-    ["cost"] = "100001,1;100003,1",
+    ["cost"] = "15000003,1;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">500</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -16,7 +16,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 2,
     ["need_winglevel"] = 3,
-    ["cost"] = "100001,2;100003,2",
+    ["cost"] = "15000003,2;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">1000</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -27,7 +27,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 3,
     ["need_winglevel"] = 3,
-    ["cost"] = "100001,3;100003,3",
+    ["cost"] = "15000003,3;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">1500</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -38,7 +38,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 4,
     ["need_winglevel"] = 4,
-    ["cost"] = "100001,4;100003,4",
+    ["cost"] = "15000003,4;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">2000</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -49,7 +49,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 5,
     ["need_winglevel"] = 5,
-    ["cost"] = "100001,5;100003,5",
+    ["cost"] = "15000003,5;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">2500</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -60,7 +60,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 6,
     ["need_winglevel"] = 6,
-    ["cost"] = "100001,6;100003,6",
+    ["cost"] = "15000003,6;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">3000</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -71,7 +71,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 7,
     ["need_winglevel"] = 7,
-    ["cost"] = "100001,7;100003,7",
+    ["cost"] = "15000003,7;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">3500</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -82,7 +82,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 8,
     ["need_winglevel"] = 8,
-    ["cost"] = "100001,8;100003,8",
+    ["cost"] = "15000003,8;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">4000</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -93,7 +93,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 9,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,9;100003,9",
+    ["cost"] = "15000003,9;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">4500</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -104,7 +104,7 @@ return {
     ["name"] = "神鬼莫测",
     ["skill_level"] = 10,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,10;100003,10",
+    ["cost"] = "15000003,10;2,100",
     ["description"] = "效果：使你的攻击更容易命中敌人的致命部位，令你的暴击值增加增加<font color=\"#ffffff\">5000</font>(Max5000)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -115,7 +115,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 1,
     ["need_winglevel"] = 5,
-    ["cost"] = "100001,1;100003,1",
+    ["cost"] = "15000003,1;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">4%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -126,7 +126,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 2,
     ["need_winglevel"] = 5,
-    ["cost"] = "100001,2;100003,2",
+    ["cost"] = "15000003,2;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">8%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -137,7 +137,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 3,
     ["need_winglevel"] = 5,
-    ["cost"] = "100001,3;100003,3",
+    ["cost"] = "15000003,3;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">12%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -148,7 +148,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 4,
     ["need_winglevel"] = 6,
-    ["cost"] = "100001,4;100003,4",
+    ["cost"] = "15000003,4;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">16%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -159,7 +159,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 5,
     ["need_winglevel"] = 6,
-    ["cost"] = "100001,5;100003,5",
+    ["cost"] = "15000003,5;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">20%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -170,7 +170,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 6,
     ["need_winglevel"] = 7,
-    ["cost"] = "100001,6;100003,6",
+    ["cost"] = "15000003,6;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">24%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -181,7 +181,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 7,
     ["need_winglevel"] = 7,
-    ["cost"] = "100001,7;100003,7",
+    ["cost"] = "15000003,7;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">28%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -192,7 +192,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 8,
     ["need_winglevel"] = 8,
-    ["cost"] = "100001,8;100003,8",
+    ["cost"] = "15000003,8;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">32%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -203,7 +203,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 9,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,9;100003,9",
+    ["cost"] = "15000003,9;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">36%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -214,7 +214,7 @@ return {
     ["name"] = "天降打击",
     ["skill_level"] = 10,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,10;100003,10",
+    ["cost"] = "15000003,10;2,100",
     ["description"] = "效果：在你对敌人进行暴击时，使你的暴击伤害增加<font color=\"#ffffff\">40%</font>(%40)",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -225,7 +225,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 1,
     ["need_winglevel"] = 7,
-    ["cost"] = "100001,1;100003,1",
+    ["cost"] = "15000003,1;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">500</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -236,7 +236,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 2,
     ["need_winglevel"] = 7,
-    ["cost"] = "100001,2;100003,2",
+    ["cost"] = "15000003,2;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">1000</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -247,7 +247,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 3,
     ["need_winglevel"] = 7,
-    ["cost"] = "100001,3;100003,3",
+    ["cost"] = "15000003,3;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">1500</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -258,7 +258,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 4,
     ["need_winglevel"] = 7,
-    ["cost"] = "100001,4;100003,4",
+    ["cost"] = "15000003,4;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">2000</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -269,7 +269,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 5,
     ["need_winglevel"] = 8,
-    ["cost"] = "100001,5;100003,5",
+    ["cost"] = "15000003,5;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">2500</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -280,7 +280,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 6,
     ["need_winglevel"] = 8,
-    ["cost"] = "100001,6;100003,6",
+    ["cost"] = "15000003,6;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">3000</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -291,7 +291,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 7,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,7;100003,7",
+    ["cost"] = "15000003,7;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">3500</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -302,7 +302,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 8,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,8;100003,8",
+    ["cost"] = "15000003,8;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">4000</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -313,7 +313,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 9,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,9;100003,9",
+    ["cost"] = "15000003,9;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">4500</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -324,7 +324,7 @@ return {
     ["name"] = "天使之力",
     ["skill_level"] = 10,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,10;100003,10",
+    ["cost"] = "15000003,10;2,100",
     ["description"] = "效果：使你的所有攻击在攻击时附加<font color=\"#ffffff\">5000</font>(Max5000)点真实伤害",
     ["triggerrate"] = 10000,
     ["effecttime"] = -1
@@ -335,7 +335,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 1,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,1;100003,1",
+    ["cost"] = "15000003,1;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">2%</font>(%40)概率沉默，持续时间3秒。沉默期间无法使用技能。",
     ["triggerrate"] = 200,
     ["effecttime"] = 3
@@ -346,7 +346,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 2,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,2;100003,2",
+    ["cost"] = "15000003,2;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">4%</font>(%40)概率沉默，持续时间4秒。沉默期间无法使用技能。",
     ["triggerrate"] = 400,
     ["effecttime"] = 3
@@ -357,7 +357,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 3,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,3;100003,3",
+    ["cost"] = "15000003,3;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">6%</font>(%40)概率沉默，持续时间5秒。沉默期间无法使用技能。",
     ["triggerrate"] = 600,
     ["effecttime"] = 3
@@ -368,7 +368,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 4,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,4;100003,4",
+    ["cost"] = "15000003,4;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">8%</font>(%40)概率沉默，持续时间6秒。沉默期间无法使用技能。",
     ["triggerrate"] = 800,
     ["effecttime"] = 3
@@ -379,7 +379,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 5,
     ["need_winglevel"] = 9,
-    ["cost"] = "100001,5;100003,5",
+    ["cost"] = "15000003,5;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">10%</font>(%40)概率沉默，持续时间7秒。沉默期间无法使用技能。",
     ["triggerrate"] = 1000,
     ["effecttime"] = 3
@@ -390,7 +390,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 6,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,6;100003,6",
+    ["cost"] = "15000003,6;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">12%</font>(%40)概率沉默，持续时间8秒。沉默期间无法使用技能。",
     ["triggerrate"] = 1200,
     ["effecttime"] = 3
@@ -401,7 +401,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 7,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,7;100003,7",
+    ["cost"] = "15000003,7;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">14%</font>(%40)概率沉默，持续时间9秒。沉默期间无法使用技能。",
     ["triggerrate"] = 1400,
     ["effecttime"] = 3
@@ -412,7 +412,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 8,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,8;100003,8",
+    ["cost"] = "15000003,8;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">16%</font>(%40)概率沉默，持续时间10秒。沉默期间无法使用技能。",
     ["triggerrate"] = 1600,
     ["effecttime"] = 3
@@ -423,7 +423,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 9,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,9;100003,9",
+    ["cost"] = "15000003,9;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">18%</font>(%40)概率沉默，持续时间11秒。沉默期间无法使用技能。",
     ["triggerrate"] = 1800,
     ["effecttime"] = 3
@@ -434,7 +434,7 @@ return {
     ["name"] = "风神领域",
     ["skill_level"] = 10,
     ["need_winglevel"] = 10,
-    ["cost"] = "100001,10;100003,10",
+    ["cost"] = "15000003,10;2,100",
     ["description"] = "效果：使你的所有攻击在攻击敌人时都有<font color=\"#ffffff\">20%</font>(%40)概率沉默，持续时间12秒。沉默期间无法使用技能。",
     ["triggerrate"] = 2000,
     ["effecttime"] = 3

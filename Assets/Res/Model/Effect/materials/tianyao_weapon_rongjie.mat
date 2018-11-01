@@ -7,9 +7,9 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: tianyao_weapon_rongjie
-  m_Shader: {fileID: 4800000, guid: b2fa12cafcd724348841f1eba53783ef, type: 3}
-  m_ShaderKeywords: _FANZHUAN_MASK_ON _XR_SCEEN_ON
-  m_LightmapFlags: 5
+  m_Shader: {fileID: 4800000, guid: da1bae3ae1e556840b6cff666a99b80a, type: 3}
+  m_ShaderKeywords: _EMISSION _FANZHUAN_MASK_ON _XR_SCEEN_ON
+  m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -26,12 +26,28 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DissolveSrc:
         m_Texture: {fileID: 2800000, guid: 452c94bad2026984e86c76d0072472ef, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissolveSrcBump:
         m_Texture: {fileID: 2800000, guid: b675e0eea5a78d8489db46e1ff535d72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Illum:
@@ -44,6 +60,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Mask:
         m_Texture: {fileID: 2800000, guid: 8d3305e2c86b92f409e47327f9362667, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _node_5168:
@@ -72,16 +100,31 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Amount: 0
+    - _BumpScale: 1
     - _Cutoff: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
     - _EmissionLM: 0
     - _FanZhuan_Mask: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
     - _Illuminate: 0.241
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
     - _Shininess: 0.073
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
     - _StartAmount: -5.37
     - _Tile: 0.24
+    - _UVSec: 0
     - _XR_Sceen: 1
     - _XiaoRong: 0
     - _XiaoRong_Bian: 0.031
+    - _ZWrite: 1
     - _ZiFaGuang: 1.5
     - _node_3263: 2.34
     - _node_3949: 0.87
@@ -94,5 +137,6 @@ Material:
     - _ColorAnimate: {r: 1, g: 1, b: 1, a: 1}
     - _Color_copy: {r: 1, g: 1, b: 1, a: 1}
     - _DissColor: {r: 1, g: 0.810142, b: 0.4705882, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 1, g: 0.87170386, b: 0.1544118, a: 1}
     - _XR_color: {r: 1, g: 0.8991887, b: 0.47794116, a: 1}

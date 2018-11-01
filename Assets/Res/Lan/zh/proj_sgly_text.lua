@@ -20,6 +20,7 @@ local TEXT_MAP = {
 ["BASE15"] = "<color=#%x>剩余%d小时</color>",
 ["BASE16"] = "<color=#%x>剩余%d分钟</color>",
 ["BASE17"] = "<color=#%x>剩余%d秒</color>",
+["BASE18"] = "<color=#%x>%d</color>",
 
 ["LOGIN1"] = "账号不能为空",
 ["LOGIN2"] = "服务器连接失败, 是否重新连接？",
@@ -64,7 +65,7 @@ local TEXT_MAP = {
 ["BASEUI20"] = "sys_icon_dj%d.png",
 
 ["BASEUI500"] = "%d级",
-["BASEUI501"] = "等级:",
+["BASEUI501"] = "职业:",
 ["BASEUI502"] = "类型:",
 ["BASEUI503"] = "物品描述",
 ["BASEUI504"] = "基础属性",
@@ -90,6 +91,18 @@ local TEXT_MAP = {
 ["BASEUI526"] = "出售 <res_up=-5><image=%s|25|25> <color=FFF1C1FF>%d</color>",
 ["BASEUI527"] = "批量出售",
 ["BASEUI528"] = "批量使用",
+["BASEUI529"] = "剑仙",
+["BASEUI530"] = "天妖",
+["BASEUI531"] = "武器",
+["BASEUI532"] = "头盔",
+["BASEUI533"] = "衣服",
+["BASEUI534"] = "腰带",
+["BASEUI535"] = "护腕",
+["BASEUI536"] = "鞋子",
+["BASEUI537"] = "项链",
+["BASEUI538"] = "戒指",
+["BASEUI539"] = "<image=%s|25|25> %d",
+["BASEUI540"] = "<color=#%x>%d</color>/%d",
 
 ["BAGUI000"] = "战%d",
 ["BAGUI001"] = "背包容量：%d/%d",
@@ -107,10 +120,15 @@ local TEXT_MAP = {
 ["BAGUI013"] = "紫",
 ["BAGUI014"] = "橙",
 ["BAGUI015"] = "红",
-["BAGUI016"] = "<color=72401dff>增加5个%s格子</color><r><color=000000ff>需要花费</color><image=UI/Source/Pub/%s|%d|%d><color=72401dff>%d</color>",
+["BAGUI016"] = "<color=72401dff>增加5个%s格子</color><r><color=000000ff>需要花费</color>",
 ["BAGUI017"] = "扩展%s",
 ["BAGUI018"] = "使用",
 ["BAGUI019"] = "出售",
+["BAGUI020"] = "穿戴",
+["BAGUI021"] = "卸下",
+["BAGUI022"] = "镶嵌",
+["BAGUI023"] = "<res_up=%d><image=%s|%d|%d><color=%x>%d</color>",
+
 
 ["CHATUI000"] = "%d\"",
 ["CHATUI001"] = "V%d",
@@ -136,6 +154,7 @@ local TEXT_MAP = {
 ["CHATUI021"] = "电台",
 ["CHATUI022"] = "系统",
 
+
 ["FORGEUI000"] = "锻造",
 ["FORGEUI001"] = "强化",
 ["FORGEUI002"] = "宝石",
@@ -147,6 +166,30 @@ local TEXT_MAP = {
 ["FORGEUI008"] = "选择镶嵌宝石",
 ["FORGEUI009"] = "属性预览",
 ["FORGEUI010"] = "强化消耗",
+["FORGEUI011"] = "装备洗练",
+["FORGEUI012"] = "当前属性",
+["FORGEUI013"] = "洗练属性",
+["FORGEUI014"] = "洗练",
+["FORGEUI015"] = "属性替换",
+["FORGEUI016"] = "当前无装备",
+["FORGEUI017"] = "当前不可强化",
+["FORGEUI018"] = "<color=#%x>成功率 %g%%</color>",
+["FORGEUI019"] = "<color=#%x>暂未开放</color>",
+["FORGEUI020"] = "<color=#%x>%d解锁</color>",
+["FORGEUI021"] = "<color=#%x>%s %d</color>",
+["FORGEUI022"] = "<color=#%x>可镶嵌</color>",
+["FORGEUI023"] = "一键强化",
+["FORGEUI024"] = "一键镶嵌",
+["FORGEUI025"] = "需要：全身装备+%d",
+["FORGEUI026"] = "需要：全身宝石总等级%d级",
+["FORGEUI027"] = "当前强化大师无属性",
+["FORGEUI028"] = "当前宝石共鸣无属性",
+["FORGEUI029"] = "当前强化大师已满级",
+["FORGEUI030"] = "当前宝石共鸣已满级",
+
+["CREATEITEM000"] = "合成",
+["CREATEITEM001"] = "全部合成",
+["CREATEITEM002"] = "可合成：%d",
 
 ["SHOP1"] = "商城",
 ["SHOP2"] = "购买",
@@ -225,6 +268,8 @@ local TEXT_MAP = {
 ["PLAYER32"] = "升级消耗:",
 ["PLAYER33"] = "当前技能",
 ["PLAYER34"] = "技能升级",
+["PLAYER35"] = "%d/<color=#%x>%d</color>",
+["PLAYER36"] = "+%s%%",
 
 ["MAIN1"] = "和平",
 ["MAIN2"] = "不能攻击玩家",
@@ -248,6 +293,14 @@ local TEXT_MAP = {
 ["MAIN20"] = "组队大厅",
 ["MAIN21"] = "任务",
 ["MAIN22"] = "队伍",
+["MAIN23"] = "持续永久",
+["MAIN24"] = "剩余: %d %s",
+["MAIN25"] = "天",
+["MAIN26"] = "小时",
+["MAIN27"] = "分钟",
+["MAIN28"] = "秒",
+["MAIN29"] = "BUFF*%d",
+
 
 ["RANK1"] = "排行榜",
 ["RANK2"] = "对比",
@@ -257,6 +310,22 @@ local TEXT_MAP = {
 ["RANK6"] = "膜拜",
 ["RANK7"] = "我要变强",
 ["RANK8"] = "我的排名: %d",
+
+--坐骑相关
+["MOUNT1"] = "坐骑属性",
+["MOUNT2"] = "坐骑升星",
+["MOUNT3"] = "升级坐骑材料",
+["MOUNT4"] = "一键升星",
+["MOUNT5"] = "%d/%d",
+["MOUNT6"] = "坐骑",
+["MOUNT7"] = "坐骑预览",
+["MOUNT8"] = "战",
+
+--设置相关
+["SETTING1"] = "设置",
+["SETTING2"] = "游戏",
+["SETTING3"] = "推送",
+
 }
 
 

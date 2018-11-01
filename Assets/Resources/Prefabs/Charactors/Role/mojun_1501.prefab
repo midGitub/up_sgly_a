@@ -10,6 +10,7 @@ GameObject:
   - component: {fileID: 445496}
   - component: {fileID: 9542194}
   - component: {fileID: 114356512391418390}
+  - component: {fileID: 114388699813839142}
   m_Layer: 0
   m_Name: mojun_1501
   m_TagString: Untagged
@@ -1151,7 +1152,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100218}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 187.2, y: -0.004806161, z: 154.14}
+  m_LocalPosition: {x: 187.2, y: -0.004806161, z: 152.908}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 464072}
@@ -1953,3 +1954,34 @@ MonoBehaviour:
     m_aniLen: 2.2333333
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
+--- !u!114 &114388699813839142
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 464072}
+    m_offset: {x: 0, y: -0.17955923, z: 0}
+    m_radius: 1.2628174
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 464072}
+    m_offset: {x: 0, y: -0.6183729, z: 0}
+    m_radius: 0.6
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 464072}
+    m_offset: {x: 0, y: 0.31595993, z: 0}
+    m_radius: 0.6
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1

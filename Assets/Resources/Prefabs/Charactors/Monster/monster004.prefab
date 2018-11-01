@@ -205,6 +205,7 @@ GameObject:
   - component: {fileID: 400300}
   - component: {fileID: 9583730}
   - component: {fileID: 114987554406367112}
+  - component: {fileID: 114008454890749530}
   m_Layer: 0
   m_Name: monster004
   m_TagString: Untagged
@@ -1435,6 +1436,27 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 134322}
   m_IsPrefabParent: 1
+--- !u!114 &114008454890749530
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_roughSpeckles: []
+  m_subtleSpeckles:
+  - m_id: 0
+    m_owner: {fileID: 0}
+    m_blind: {fileID: 409520}
+    m_offset: {x: -0.63534546, y: 0, z: 0}
+    m_radius: 0.83636904
+  m_isDrawArea: 1
+  m_isDrawLine: 1
+  m_isDrawPos: 1
 --- !u!114 &114987554406367112
 MonoBehaviour:
   m_ObjectHideFlags: 1
