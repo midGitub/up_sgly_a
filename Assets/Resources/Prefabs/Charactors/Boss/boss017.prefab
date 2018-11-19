@@ -765,7 +765,7 @@ Transform:
   m_LocalPosition: {x: 129.8211, y: -0.009999953, z: 148.8589}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 4297716087342898}
+  - {fileID: 4492347101986628}
   - {fileID: 413364}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -974,7 +974,7 @@ Transform:
   - {fileID: 449992}
   - {fileID: 444194}
   - {fileID: 408578}
-  m_Father: {fileID: 4297716087342898}
+  m_Father: {fileID: 4492347101986628}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -83.123695, y: 0, z: 89.9999}
 --- !u!4 &430536
@@ -1100,7 +1100,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 4297716087342898}
+  m_Father: {fileID: 4492347101986628}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &449992
@@ -1297,7 +1297,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 7.827824, y: 7.827824, z: 7.827824}
   m_Children: []
-  m_Father: {fileID: 4297716087342898}
+  m_Father: {fileID: 4492347101986628}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 90, y: -180, z: 0}
 --- !u!4 &476914
@@ -1546,14 +1546,14 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 109586}
   m_IsPrefabParent: 1
---- !u!1 &1852458014114034
+--- !u!1 &1059331876682398
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4297716087342898}
+  - component: {fileID: 4492347101986628}
   m_Layer: 0
   m_Name: monster006
   m_TagString: Untagged
@@ -1561,15 +1561,15 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!1 &1966232857242074
+--- !u!1 &1852458014114034
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4693858098079438}
-  - component: {fileID: 137602095462958558}
+  - component: {fileID: 4297716087342898}
+  - component: {fileID: 137744549854327790}
   m_Layer: 0
   m_Name: monster006
   m_TagString: Untagged
@@ -1583,30 +1583,30 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1852458014114034}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 7.827824, y: 7.827824, z: 7.827824}
+  m_Children: []
+  m_Father: {fileID: 4492347101986628}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!4 &4492347101986628
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1059331876682398}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.7, y: 1.7, z: 1.7}
   m_Children:
   - {fileID: 428748}
-  - {fileID: 4693858098079438}
+  - {fileID: 4297716087342898}
   - {fileID: 473460}
   - {fileID: 444926}
   m_Father: {fileID: 401364}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &4693858098079438
-Transform:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1966232857242074}
-  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 7.827824, y: 7.827824, z: 7.827824}
-  m_Children: []
-  m_Father: {fileID: 4297716087342898}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!114 &114464788999021184
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1669,12 +1669,12 @@ MonoBehaviour:
     m_aniLen: 0.40000004
     m_clip: {fileID: 0}
     m_lastNormalizedTime: -1
---- !u!137 &137602095462958558
+--- !u!137 &137744549854327790
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1966232857242074}
+  m_GameObject: {fileID: 1852458014114034}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1

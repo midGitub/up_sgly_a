@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 765ea0a5142100643ae004abc655da9f
-timeCreated: 1540203071
+timeCreated: 1541681505
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -71,7 +71,7 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape: []
-  spritePackingTag: Icon
+  spritePackingTag: Horseicon
   userData: 
   assetBundleName: 
   assetBundleVariant: 

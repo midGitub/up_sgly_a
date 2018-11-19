@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 6ce7dfb2ebaec3b429cdc4fd92acd415
-timeCreated: 1540202398
-licenseType: Free
+timeCreated: 1541680347
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -81,7 +81,7 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape: []
-  spritePackingTag: 
+  spritePackingTag: Gang
   userData: 
   assetBundleName: 
   assetBundleVariant: 

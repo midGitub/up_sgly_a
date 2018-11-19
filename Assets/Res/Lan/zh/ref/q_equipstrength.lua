@@ -6,6 +6,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "",
     ["success_rate"] = "",
+    ["affixquality"] = "",
     ["fixedattrnum"] = "",
     ["attrs"] = ""
   },
@@ -16,6 +17,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,1",
     ["success_rate"] = 10000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,11"
   },
@@ -26,6 +28,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,2",
     ["success_rate"] = 9000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,12"
   },
@@ -36,6 +39,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,3",
     ["success_rate"] = 8000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,13"
   },
@@ -46,6 +50,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,4",
     ["success_rate"] = 7000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,14"
   },
@@ -56,6 +61,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,5",
     ["success_rate"] = 6000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,15;2,1000"
   },
@@ -66,6 +72,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,6",
     ["success_rate"] = 5000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,16;2,2000"
   },
@@ -76,6 +83,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,7",
     ["success_rate"] = 4000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,17;2,3000"
   },
@@ -86,6 +94,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,8",
     ["success_rate"] = 3000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,18;2,4000;15,2000"
   },
@@ -96,6 +105,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,9",
     ["success_rate"] = 2000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,19;2,5000;15,3000"
   },
@@ -106,6 +116,7 @@ return {
     ["kind"] = 1,
     ["cost_item"] = "2,1000;15000005,10",
     ["success_rate"] = 1000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,20;2,6000;15,4000"
   },
@@ -116,6 +127,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "",
     ["success_rate"] = "",
+    ["affixquality"] = "",
     ["fixedattrnum"] = "",
     ["attrs"] = ""
   },
@@ -126,6 +138,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,1",
     ["success_rate"] = 10000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,22"
   },
@@ -136,6 +149,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,2",
     ["success_rate"] = 9000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,23"
   },
@@ -146,6 +160,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,3",
     ["success_rate"] = 8000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,24"
   },
@@ -156,6 +171,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,4",
     ["success_rate"] = 7000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,25"
   },
@@ -166,6 +182,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,5",
     ["success_rate"] = 6000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,26;5,100"
   },
@@ -176,6 +193,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,6",
     ["success_rate"] = 5000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,27;5,110"
   },
@@ -186,6 +204,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,7",
     ["success_rate"] = 4000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,28;5,200"
   },
@@ -196,6 +215,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,8",
     ["success_rate"] = 3000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,29;5,300;11,100"
   },
@@ -206,6 +226,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,9",
     ["success_rate"] = 2000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,30;5,400;11,200"
   },
@@ -216,6 +237,7 @@ return {
     ["kind"] = 2,
     ["cost_item"] = "2,1000;15000005,10",
     ["success_rate"] = 1000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,31;5,500;11,300"
   },
@@ -226,6 +248,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "",
     ["success_rate"] = "",
+    ["affixquality"] = "",
     ["fixedattrnum"] = "",
     ["attrs"] = ""
   },
@@ -236,6 +259,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,1",
     ["success_rate"] = 10000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,33"
   },
@@ -246,6 +270,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,2",
     ["success_rate"] = 9000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,34"
   },
@@ -256,6 +281,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,3",
     ["success_rate"] = 8000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,35"
   },
@@ -266,6 +292,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,4",
     ["success_rate"] = 7000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,36"
   },
@@ -276,6 +303,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,5",
     ["success_rate"] = 6000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,37;6,1000"
   },
@@ -286,6 +314,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,6",
     ["success_rate"] = 5000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,38;6,1500"
   },
@@ -296,6 +325,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,7",
     ["success_rate"] = 4000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,39;6,2000"
   },
@@ -306,6 +336,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,8",
     ["success_rate"] = 3000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,40;6,2500;22,10"
   },
@@ -316,6 +347,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,9",
     ["success_rate"] = 2000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,41;6,3000;22,20"
   },
@@ -326,6 +358,7 @@ return {
     ["kind"] = 3,
     ["cost_item"] = "2,1000;15000005,10",
     ["success_rate"] = 1000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,42;6,3000;22,30"
   },
@@ -336,6 +369,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "",
     ["success_rate"] = "",
+    ["affixquality"] = "",
     ["fixedattrnum"] = "",
     ["attrs"] = ""
   },
@@ -346,6 +380,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,1",
     ["success_rate"] = 10000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,44"
   },
@@ -356,6 +391,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,2",
     ["success_rate"] = 9000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,45"
   },
@@ -366,6 +402,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,3",
     ["success_rate"] = 8000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,46"
   },
@@ -376,6 +413,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,4",
     ["success_rate"] = 7000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,47"
   },
@@ -386,6 +424,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,5",
     ["success_rate"] = 6000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,48;14,200"
   },
@@ -396,6 +435,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,6",
     ["success_rate"] = 5000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,49;14,400"
   },
@@ -406,6 +446,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,7",
     ["success_rate"] = 4000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,50;14,600"
   },
@@ -416,6 +457,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,8",
     ["success_rate"] = 3000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,51;14,700"
   },
@@ -426,6 +468,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,9",
     ["success_rate"] = 2000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,52;10,100;14,800"
   },
@@ -436,6 +479,7 @@ return {
     ["kind"] = 4,
     ["cost_item"] = "2,1000;15000005,10",
     ["success_rate"] = 1000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,53;10,300;14,1000"
   },
@@ -446,6 +490,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "",
     ["success_rate"] = "",
+    ["affixquality"] = "",
     ["fixedattrnum"] = "",
     ["attrs"] = ""
   },
@@ -456,6 +501,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,1",
     ["success_rate"] = 10000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,55"
   },
@@ -466,6 +512,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,2",
     ["success_rate"] = 9000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,56"
   },
@@ -476,6 +523,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,3",
     ["success_rate"] = 8000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,57"
   },
@@ -486,6 +534,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,4",
     ["success_rate"] = 7000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,58"
   },
@@ -496,6 +545,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,5",
     ["success_rate"] = 6000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,59;9,100"
   },
@@ -506,6 +556,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,6",
     ["success_rate"] = 5000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,60;9,200"
   },
@@ -516,6 +567,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,7",
     ["success_rate"] = 4000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,61;9,300"
   },
@@ -526,6 +578,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,8",
     ["success_rate"] = 3000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,62;9,400;3,100"
   },
@@ -536,6 +589,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,9",
     ["success_rate"] = 2000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,63;9,400;3,200"
   },
@@ -546,6 +600,7 @@ return {
     ["kind"] = 5,
     ["cost_item"] = "2,1000;15000005,10",
     ["success_rate"] = 1000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,64;9,400;3,300"
   },
@@ -556,6 +611,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "",
     ["success_rate"] = "",
+    ["affixquality"] = "",
     ["fixedattrnum"] = "",
     ["attrs"] = ""
   },
@@ -566,6 +622,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,1",
     ["success_rate"] = 10000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,66"
   },
@@ -576,6 +633,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,2",
     ["success_rate"] = 9000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,67"
   },
@@ -586,6 +644,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,3",
     ["success_rate"] = 8000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,68"
   },
@@ -596,6 +655,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,4",
     ["success_rate"] = 7000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,69"
   },
@@ -606,6 +666,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,5",
     ["success_rate"] = 6000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,70;7,100"
   },
@@ -616,6 +677,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,6",
     ["success_rate"] = 5000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,71;7,200"
   },
@@ -626,6 +688,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,7",
     ["success_rate"] = 4000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,72;7,300"
   },
@@ -636,6 +699,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,8",
     ["success_rate"] = 3000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,73;7,400;25,10"
   },
@@ -646,6 +710,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,9",
     ["success_rate"] = 2000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,74;7,500;25,15"
   },
@@ -656,6 +721,7 @@ return {
     ["kind"] = 6,
     ["cost_item"] = "2,1000;15000005,10",
     ["success_rate"] = 1000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,75;7,600;25,20"
   },
@@ -666,6 +732,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "",
     ["success_rate"] = "",
+    ["affixquality"] = "",
     ["fixedattrnum"] = "",
     ["attrs"] = ""
   },
@@ -676,6 +743,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,1",
     ["success_rate"] = 10000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,77"
   },
@@ -686,6 +754,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,2",
     ["success_rate"] = 9000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,78"
   },
@@ -696,6 +765,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,3",
     ["success_rate"] = 8000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,79"
   },
@@ -706,6 +776,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,4",
     ["success_rate"] = 7000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,80"
   },
@@ -716,6 +787,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,5",
     ["success_rate"] = 6000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,81;26,100"
   },
@@ -726,6 +798,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,6",
     ["success_rate"] = 5000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,82;26,200"
   },
@@ -736,6 +809,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,7",
     ["success_rate"] = 4000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,83;26,300"
   },
@@ -746,6 +820,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,8",
     ["success_rate"] = 3000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,84;26,300;20,1000"
   },
@@ -756,6 +831,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,9",
     ["success_rate"] = 2000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,85;26,350;20,1000;2,500"
   },
@@ -766,6 +842,7 @@ return {
     ["kind"] = 7,
     ["cost_item"] = "2,1000;15000005,10",
     ["success_rate"] = 1000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,86;26,400;20,2000;2,500"
   },
@@ -776,6 +853,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "",
     ["success_rate"] = "",
+    ["affixquality"] = "",
     ["fixedattrnum"] = "",
     ["attrs"] = ""
   },
@@ -786,6 +864,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,1",
     ["success_rate"] = 10000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,88"
   },
@@ -796,6 +875,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,2",
     ["success_rate"] = 9000,
+    ["affixquality"] = 1,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,89"
   },
@@ -806,6 +886,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,3",
     ["success_rate"] = 8000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 1,
     ["attrs"] = "1,90"
   },
@@ -816,6 +897,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,4",
     ["success_rate"] = 7000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,91"
   },
@@ -826,6 +908,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,5",
     ["success_rate"] = 6000,
+    ["affixquality"] = 2,
     ["fixedattrnum"] = 2,
     ["attrs"] = "1,92;19,500"
   },
@@ -836,6 +919,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,6",
     ["success_rate"] = 5000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,93;19,600"
   },
@@ -846,6 +930,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,7",
     ["success_rate"] = 4000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,94;19,800"
   },
@@ -856,6 +941,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,8",
     ["success_rate"] = 3000,
+    ["affixquality"] = 3,
     ["fixedattrnum"] = 3,
     ["attrs"] = "1,95;19,1000;21,100"
   },
@@ -866,6 +952,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,9",
     ["success_rate"] = 2000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,96;19,1000;21,500"
   },
@@ -876,6 +963,7 @@ return {
     ["kind"] = 8,
     ["cost_item"] = "2,1000;15000005,10",
     ["success_rate"] = 1000,
+    ["affixquality"] = 4,
     ["fixedattrnum"] = 4,
     ["attrs"] = "1,97;19,2000;21,1000"
   }

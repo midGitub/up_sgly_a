@@ -2051,7 +2051,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 154108}
   m_LocalRotation: {x: -0, y: 0.6981744, z: -0, w: 0.7159277}
-  m_LocalPosition: {x: 129.75859, y: -0.009999953, z: 152.07}
+  m_LocalPosition: {x: 112.1, y: -0.009999953, z: 190.62}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 403790}
@@ -3058,6 +3058,6 @@ MonoBehaviour:
     m_blind: {fileID: 403790}
     m_offset: {x: 0, y: 0, z: 0}
     m_radius: 1.7139435
-  m_isDrawArea: 1
-  m_isDrawLine: 1
-  m_isDrawPos: 1
+  m_isDrawArea: 0
+  m_isDrawLine: 0
+  m_isDrawPos: 0

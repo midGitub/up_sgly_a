@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 6da29186a97c59a4190c2fe82761252a
+timeCreated: 1524208472
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "30\u5EA6\u6444\u50CF\u673A"
+    100002: "30\u5EA6\u6444\u50CF\u673A.Target"
+    100004: Dummy01
+    100006: Dummy02
+    100008: Dummy03
+    100010: Dummy04
+    100012: Dummy05
+    100014: Dummy06
+    100016: Dummy07
+    100018: Dummy08
+    100020: FFX Object Src001
+    100022: FFX Object Src002
+    100024: IK Chain01
+    100026: IK Chain02
+    100028: IK Chain03
+    100030: IK Chain04
+    100032: //RootNode
+    100034: Omni01
+    100036: Omni01_Point
+    100038: Omni02
+    100040: Omni02_Point
+    100042: pln_weaponAR23_028
+    100044: Spot08
+    100046: Spot08.Target
+    100048: Spot08_Point
+    100050: spot08_Point02
+    400000: "30\u5EA6\u6444\u50CF\u673A"
+    400002: "30\u5EA6\u6444\u50CF\u673A.Target"
+    400004: Dummy01
+    400006: Dummy02
+    400008: Dummy03
+    400010: Dummy04
+    400012: Dummy05
+    400014: Dummy06
+    400016: Dummy07
+    400018: Dummy08
+    400020: FFX Object Src001
+    400022: FFX Object Src002
+    400024: IK Chain01
+    400026: IK Chain02
+    400028: IK Chain03
+    400030: IK Chain04
+    400032: //RootNode
+    400034: Omni01
+    400036: Omni01_Point
+    400038: Omni02
+    400040: Omni02_Point
+    400042: pln_weaponAR23_028
+    400044: Spot08
+    400046: Spot08.Target
+    400048: Spot08_Point
+    400050: spot08_Point02
+    2300000: pln_weaponAR23_028
+    2300002: //RootNode
+    3300000: pln_weaponAR23_028
+    3300002: //RootNode
+    4300000: pln_weaponAR23_028
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

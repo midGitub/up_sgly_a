@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 0035b848741e1de4a8a736d2010f1cb4
-timeCreated: 1540203060
+timeCreated: 1541683271
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -81,7 +81,7 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape: []
-  spritePackingTag: Icon
+  spritePackingTag: Equipicon
   userData: 
   assetBundleName: 
   assetBundleVariant: 

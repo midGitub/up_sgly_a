@@ -32,7 +32,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Splat1:
         m_Texture: {fileID: 2800000, guid: a58e51783d025824c8151b11d790c559, type: 3}
-        m_Scale: {x: 40, y: 40}
+        m_Scale: {x: 50, y: 52.8}
         m_Offset: {x: 0, y: 0}
     - _Splat2:
         m_Texture: {fileID: 2800000, guid: 6f148feceb5f0d8458a962580e9eda37, type: 3}

@@ -112,7 +112,7 @@ local TEXT_MAP = {
 ["BAGUI005"] = "熔炼",
 ["BAGUI006"] = "全部",
 ["BAGUI007"] = "角色装备",
-["BAGUI008"] = "天神装备",
+["BAGUI008"] = "整理（%d）",
 ["BAGUI009"] = "道具",
 ["BAGUI010"] = "整理",
 ["BAGUI011"] = "绿",
@@ -190,6 +190,7 @@ local TEXT_MAP = {
 ["CREATEITEM000"] = "合成",
 ["CREATEITEM001"] = "全部合成",
 ["CREATEITEM002"] = "可合成：%d",
+["CREATEITEM003"] = "合成物品为空",
 
 ["SHOP1"] = "商城",
 ["SHOP2"] = "购买",
@@ -243,7 +244,7 @@ local TEXT_MAP = {
 ["PLAYER8"] = "官职",
 ["PLAYER9"] = "战",
 ["PLAYER10"] = "封神公会",
-["PLAYER11"] = "%.2f%%",
+["PLAYER11"] = "%s%%",
 ["PLAYER12"] = "说明标题",
 ["PLAYER13"] = "说明小标题1",
 ["PLAYER14"] = "说明小标题内容1",
@@ -325,6 +326,9 @@ local TEXT_MAP = {
 ["SETTING1"] = "设置",
 ["SETTING2"] = "游戏",
 ["SETTING3"] = "推送",
+--成就
+["ACHIEVE100"] = "成就",
+["ACHIEVE101"] = "称号",
 
 }
 

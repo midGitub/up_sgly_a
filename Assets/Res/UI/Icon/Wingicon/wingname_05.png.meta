@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: ea17ca794e38d9d4480bd8e8da521add
-timeCreated: 1540203115
+timeCreated: 1541683458
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -71,7 +71,7 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape: []
-  spritePackingTag: Icon
+  spritePackingTag: Wingicon
   userData: 
   assetBundleName: 
   assetBundleVariant: 

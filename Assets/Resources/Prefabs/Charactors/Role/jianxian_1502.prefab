@@ -207,7 +207,6 @@ GameObject:
   - component: {fileID: 9560106}
   - component: {fileID: 114101596515187842}
   - component: {fileID: 114578069853707630}
-  - component: {fileID: 114837299976685402}
   m_Layer: 0
   m_Name: jianxian_1502
   m_TagString: Untagged
@@ -2424,8 +2423,8 @@ Animator:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 115614}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 4fbe76d826d5d254898d50a5636aeead, type: 3}
-  m_Controller: {fileID: 9100000, guid: bd38992302c3d0c4e997684a2fae2fb4, type: 2}
+  m_Avatar: {fileID: 9000000, guid: 3dadab8c66de6ed45a2bd61575f6817e, type: 3}
+  m_Controller: {fileID: 9100000, guid: cceef39f2a7bff24ba9d78cb2427f130, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2460,7 +2459,7 @@ SkinnedMeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 607521f5bc7333d4e81524fa35c382c1, type: 2}
+  - {fileID: 2100000, guid: 7e0a702d1f8324a46ae7ea2380738e71, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2484,7 +2483,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300000, guid: 4fbe76d826d5d254898d50a5636aeead, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 3dadab8c66de6ed45a2bd61575f6817e, type: 3}
   m_Bones:
   - {fileID: 468552}
   - {fileID: 402042}
@@ -2772,21 +2771,5 @@ MonoBehaviour:
     m_offset: {x: 0, y: -0.23586917, z: 0.11190796}
     m_radius: 0.47517395
   m_isDrawArea: 1
-  m_isDrawLine: 1
-  m_isDrawPos: 1
---- !u!114 &114837299976685402
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 115614}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 98b9ce85012a81d42b730ddf0250f528, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_roughSpeckles: []
-  m_subtleSpeckles: []
-  m_isDrawArea: 0
   m_isDrawLine: 1
   m_isDrawPos: 1

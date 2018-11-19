@@ -305,7 +305,7 @@ return {
     ["subid"] = "",
     ["description"] = "洗练装备消耗道具",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "itemicon_12.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -318,17 +318,17 @@ return {
     ["sell_goldtype"] = 2,
     ["sell_goldprice"] = 1,
     ["issell"] = 1,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [15000002] = {
     ["q_id"] = 15000002,
-    ["name"] = "伊卡洛斯之羽",
+    ["name"] = "化外金丝",
     ["type"] = 15,
     ["subid"] = "",
     ["description"] = "翅膀升阶道具",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "itemicon_21.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -341,15 +341,38 @@ return {
     ["sell_goldtype"] = 2,
     ["sell_goldprice"] = 1,
     ["issell"] = 1,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [15000003] = {
     ["q_id"] = 15000003,
-    ["name"] = "炽天使之灵",
+    ["name"] = "化外神羽",
     ["type"] = 15,
     ["subid"] = "",
     ["description"] = "翅膀技能升级道具",
+    ["count"] = 999,
+    ["itemicon"] = "itemicon_22.png",
+    ["quality"] = 1,
+    ["iconeffect"] = "",
+    ["dropid"] = "",
+    ["buff"] = "",
+    ["limit_time"] = "",
+    ["player_level"] = 1,
+    ["player_rebornlevel"] = "",
+    ["itemlevel"] = 1,
+    ["usetype"] = 1,
+    ["sell_goldtype"] = 2,
+    ["sell_goldprice"] = 1,
+    ["issell"] = 1,
+    ["channelid"] = 1,
+    ["notice"] = ""
+  },
+  [15000004] = {
+    ["q_id"] = 15000004,
+    ["name"] = "化外仙骨",
+    ["type"] = 15,
+    ["subid"] = "",
+    ["description"] = "翅膀精炼道具",
     ["count"] = 999,
     ["itemicon"] = "itemicon_23.png",
     ["quality"] = 1,
@@ -364,30 +387,7 @@ return {
     ["sell_goldtype"] = 2,
     ["sell_goldprice"] = 1,
     ["issell"] = 1,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
-    ["notice"] = ""
-  },
-  [15000004] = {
-    ["q_id"] = 15000004,
-    ["name"] = "天使骨翼",
-    ["type"] = 15,
-    ["subid"] = "",
-    ["description"] = "翅膀精炼道具",
-    ["count"] = 999,
-    ["itemicon"] = "ringicon_02.png",
-    ["quality"] = 1,
-    ["iconeffect"] = "",
-    ["dropid"] = "",
-    ["buff"] = "",
-    ["limit_time"] = "",
-    ["player_level"] = 1,
-    ["player_rebornlevel"] = "",
-    ["itemlevel"] = 1,
-    ["usetype"] = 1,
-    ["sell_goldtype"] = 2,
-    ["sell_goldprice"] = 1,
-    ["issell"] = 1,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [15000005] = {
@@ -397,7 +397,7 @@ return {
     ["subid"] = "",
     ["description"] = "强化装备道具",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "itemicon_11.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -410,7 +410,7 @@ return {
     ["sell_goldtype"] = 2,
     ["sell_goldprice"] = 1,
     ["issell"] = 1,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [15000006] = {
@@ -420,7 +420,7 @@ return {
     ["subid"] = "",
     ["description"] = "坐骑升星道具",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_23.png",
+    ["itemicon"] = "itemicon_31.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -433,7 +433,7 @@ return {
     ["sell_goldtype"] = 2,
     ["sell_goldprice"] = 1,
     ["issell"] = 1,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [15000007] = {
@@ -443,7 +443,7 @@ return {
     ["subid"] = "",
     ["description"] = "坐骑升星道具",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_24.png",
+    ["itemicon"] = "itemicon_32.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -456,7 +456,7 @@ return {
     ["sell_goldtype"] = 2,
     ["sell_goldprice"] = 1,
     ["issell"] = 1,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [15000008] = {
@@ -466,7 +466,7 @@ return {
     ["subid"] = "",
     ["description"] = "坐骑升星道具",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_25.png",
+    ["itemicon"] = "itemicon_33.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -479,7 +479,7 @@ return {
     ["sell_goldtype"] = 2,
     ["sell_goldprice"] = 1,
     ["issell"] = 1,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001001] = {
@@ -489,7 +489,7 @@ return {
     ["subid"] = 1001,
     ["description"] = "1级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -502,7 +502,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001002] = {
@@ -512,7 +512,7 @@ return {
     ["subid"] = 1002,
     ["description"] = "2级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_02.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -525,7 +525,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001003] = {
@@ -535,7 +535,7 @@ return {
     ["subid"] = 1003,
     ["description"] = "3级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_03.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -548,7 +548,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001004] = {
@@ -558,7 +558,7 @@ return {
     ["subid"] = 1004,
     ["description"] = "4级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_04.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -571,7 +571,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001005] = {
@@ -581,7 +581,7 @@ return {
     ["subid"] = 1005,
     ["description"] = "5级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_05.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -594,7 +594,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001006] = {
@@ -604,7 +604,7 @@ return {
     ["subid"] = 1006,
     ["description"] = "6级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_06.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -617,7 +617,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001007] = {
@@ -627,7 +627,7 @@ return {
     ["subid"] = 1007,
     ["description"] = "7级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_07.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -640,7 +640,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001008] = {
@@ -650,7 +650,7 @@ return {
     ["subid"] = 1008,
     ["description"] = "8级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_08.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -663,7 +663,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001009] = {
@@ -673,7 +673,7 @@ return {
     ["subid"] = 1009,
     ["description"] = "9级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_09.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -686,7 +686,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3001010] = {
@@ -696,7 +696,7 @@ return {
     ["subid"] = 1010,
     ["description"] = "10级攻击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_01.png",
+    ["itemicon"] = "gematk_10.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -709,7 +709,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005001] = {
@@ -719,7 +719,7 @@ return {
     ["subid"] = 5001,
     ["description"] = "1生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -732,7 +732,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005002] = {
@@ -742,7 +742,7 @@ return {
     ["subid"] = 5002,
     ["description"] = "2生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_02.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -755,7 +755,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005003] = {
@@ -765,7 +765,7 @@ return {
     ["subid"] = 5003,
     ["description"] = "3生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_03.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -778,7 +778,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005004] = {
@@ -788,7 +788,7 @@ return {
     ["subid"] = 5004,
     ["description"] = "4生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_04.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -801,7 +801,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005005] = {
@@ -811,7 +811,7 @@ return {
     ["subid"] = 5005,
     ["description"] = "5生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_05.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -824,7 +824,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005006] = {
@@ -834,7 +834,7 @@ return {
     ["subid"] = 5006,
     ["description"] = "6生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_06.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -847,7 +847,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005007] = {
@@ -857,7 +857,7 @@ return {
     ["subid"] = 5007,
     ["description"] = "7生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_07.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -870,7 +870,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005008] = {
@@ -880,7 +880,7 @@ return {
     ["subid"] = 5008,
     ["description"] = "8生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_08.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -893,7 +893,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005009] = {
@@ -903,7 +903,7 @@ return {
     ["subid"] = 5009,
     ["description"] = "9生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_09.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -916,7 +916,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3005010] = {
@@ -926,7 +926,7 @@ return {
     ["subid"] = 5010,
     ["description"] = "10生命宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_02.png",
+    ["itemicon"] = "gemhp_10.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -939,7 +939,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009001] = {
@@ -949,7 +949,7 @@ return {
     ["subid"] = 9001,
     ["description"] = "1命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -962,7 +962,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009002] = {
@@ -972,7 +972,7 @@ return {
     ["subid"] = 9002,
     ["description"] = "2命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_02.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -985,7 +985,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009003] = {
@@ -995,7 +995,7 @@ return {
     ["subid"] = 9003,
     ["description"] = "3命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_03.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1008,7 +1008,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009004] = {
@@ -1018,7 +1018,7 @@ return {
     ["subid"] = 9004,
     ["description"] = "4命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_04.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1031,7 +1031,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009005] = {
@@ -1041,7 +1041,7 @@ return {
     ["subid"] = 9005,
     ["description"] = "5命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_05.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1054,7 +1054,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009006] = {
@@ -1064,7 +1064,7 @@ return {
     ["subid"] = 9006,
     ["description"] = "6命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_06.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1077,7 +1077,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009007] = {
@@ -1087,7 +1087,7 @@ return {
     ["subid"] = 9007,
     ["description"] = "7命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_07.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1100,7 +1100,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009008] = {
@@ -1110,7 +1110,7 @@ return {
     ["subid"] = 9008,
     ["description"] = "8命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_08.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1123,7 +1123,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009009] = {
@@ -1133,7 +1133,7 @@ return {
     ["subid"] = 9009,
     ["description"] = "9命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_09.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1146,7 +1146,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3009010] = {
@@ -1156,7 +1156,7 @@ return {
     ["subid"] = 9010,
     ["description"] = "10命中宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_03.png",
+    ["itemicon"] = "gemhit_10.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1169,7 +1169,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010001] = {
@@ -1179,7 +1179,7 @@ return {
     ["subid"] = 10001,
     ["description"] = "1级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_01png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1192,7 +1192,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010002] = {
@@ -1202,7 +1202,7 @@ return {
     ["subid"] = 10002,
     ["description"] = "2级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_02png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1215,7 +1215,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010003] = {
@@ -1225,7 +1225,7 @@ return {
     ["subid"] = 10003,
     ["description"] = "3级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_03png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1238,7 +1238,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010004] = {
@@ -1248,7 +1248,7 @@ return {
     ["subid"] = 10004,
     ["description"] = "4级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_04png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1261,7 +1261,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010005] = {
@@ -1271,7 +1271,7 @@ return {
     ["subid"] = 10005,
     ["description"] = "5级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_05png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1284,7 +1284,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010006] = {
@@ -1294,7 +1294,7 @@ return {
     ["subid"] = 10006,
     ["description"] = "6级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_06png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1307,7 +1307,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010007] = {
@@ -1317,7 +1317,7 @@ return {
     ["subid"] = 10007,
     ["description"] = "7级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_07png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1330,7 +1330,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010008] = {
@@ -1340,7 +1340,7 @@ return {
     ["subid"] = 10008,
     ["description"] = "8级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_08png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1353,7 +1353,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010009] = {
@@ -1363,7 +1363,7 @@ return {
     ["subid"] = 10009,
     ["description"] = "9级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_09png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1376,7 +1376,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3010010] = {
@@ -1386,7 +1386,7 @@ return {
     ["subid"] = 10010,
     ["description"] = "10级闪避宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_04.png",
+    ["itemicon"] = "gemdodge_10png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1399,7 +1399,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011001] = {
@@ -1409,7 +1409,7 @@ return {
     ["subid"] = 11001,
     ["description"] = "1级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1422,7 +1422,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011002] = {
@@ -1432,7 +1432,7 @@ return {
     ["subid"] = 11002,
     ["description"] = "2级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_02.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1445,7 +1445,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011003] = {
@@ -1455,7 +1455,7 @@ return {
     ["subid"] = 11003,
     ["description"] = "3级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_03.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1468,7 +1468,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011004] = {
@@ -1478,7 +1478,7 @@ return {
     ["subid"] = 11004,
     ["description"] = "4级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_04.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1491,7 +1491,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011005] = {
@@ -1501,7 +1501,7 @@ return {
     ["subid"] = 11005,
     ["description"] = "5级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_05.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1514,7 +1514,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011006] = {
@@ -1524,7 +1524,7 @@ return {
     ["subid"] = 11006,
     ["description"] = "6级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_06.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1537,7 +1537,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011007] = {
@@ -1547,7 +1547,7 @@ return {
     ["subid"] = 11007,
     ["description"] = "7级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_07.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1560,7 +1560,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011008] = {
@@ -1570,7 +1570,7 @@ return {
     ["subid"] = 11008,
     ["description"] = "8级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_08.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1583,7 +1583,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011009] = {
@@ -1593,7 +1593,7 @@ return {
     ["subid"] = 11009,
     ["description"] = "9级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_09.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1606,7 +1606,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3011010] = {
@@ -1616,7 +1616,7 @@ return {
     ["subid"] = 11010,
     ["description"] = "10级暴击宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_05.png",
+    ["itemicon"] = "gemcrit_10.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1629,7 +1629,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012001] = {
@@ -1639,7 +1639,7 @@ return {
     ["subid"] = 12001,
     ["description"] = "1级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1652,7 +1652,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012002] = {
@@ -1662,7 +1662,7 @@ return {
     ["subid"] = 12002,
     ["description"] = "2级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_02.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1675,7 +1675,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012003] = {
@@ -1685,7 +1685,7 @@ return {
     ["subid"] = 12003,
     ["description"] = "3级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_03.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1698,7 +1698,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012004] = {
@@ -1708,7 +1708,7 @@ return {
     ["subid"] = 12004,
     ["description"] = "4级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_04.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1721,7 +1721,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012005] = {
@@ -1731,7 +1731,7 @@ return {
     ["subid"] = 12005,
     ["description"] = "5级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_05.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1744,7 +1744,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012006] = {
@@ -1754,7 +1754,7 @@ return {
     ["subid"] = 12006,
     ["description"] = "6级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_06.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1767,7 +1767,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012007] = {
@@ -1777,7 +1777,7 @@ return {
     ["subid"] = 12007,
     ["description"] = "7级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_07.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1790,7 +1790,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012008] = {
@@ -1800,7 +1800,7 @@ return {
     ["subid"] = 12008,
     ["description"] = "8级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_08.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1813,7 +1813,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012009] = {
@@ -1823,7 +1823,7 @@ return {
     ["subid"] = 12009,
     ["description"] = "9级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_09.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1836,7 +1836,7 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
   [3012010] = {
@@ -1846,7 +1846,7 @@ return {
     ["subid"] = 12010,
     ["description"] = "10级抗暴宝石",
     ["count"] = 999,
-    ["itemicon"] = "itemicon_06.png",
+    ["itemicon"] = "gemcritdef_10.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1859,14 +1859,14 @@ return {
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
     ["issell"] = 0,
-    ["channelid"] = "sys_icon_tj1.png,元宝商店，MAINUI_OPEN_SHOP,1,1;sys_icon_tj1.png,神秘商店，MAINUI_OPEN_SHOP,1,2",
+    ["channelid"] = 1,
     ["notice"] = ""
   },
-  ["1012011"] = {
-    ["q_id"] = "1012011",
+  [1012011] = {
+    ["q_id"] = 1012011,
     ["name"] = "直剑",
     ["type"] = 1,
-    ["subid"] = "12011",
+    ["subid"] = 12011,
     ["description"] = "行走江湖的必备品，作为防身用还算趁手。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -1885,11 +1885,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021011"] = {
-    ["q_id"] = "1021011",
+  [1021011] = {
+    ["q_id"] = 1021011,
     ["name"] = "长枪",
     ["type"] = 1,
-    ["subid"] = "21011",
+    ["subid"] = 21011,
     ["description"] = "普通士兵所持武器，身形高大之人更能发挥出它的威力。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -1908,11 +1908,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012012"] = {
-    ["q_id"] = "1012012",
+  [1012012] = {
+    ["q_id"] = 1012012,
     ["name"] = "粗布头巾",
     ["type"] = 1,
-    ["subid"] = "12012",
+    ["subid"] = 12012,
     ["description"] = "男子成年独当一面的象征，尽管无任何保护作用。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -1931,11 +1931,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021012"] = {
-    ["q_id"] = "1021012",
+  [1021012] = {
+    ["q_id"] = 1021012,
     ["name"] = "竹发簪",
     ["type"] = 1,
-    ["subid"] = "21012",
+    ["subid"] = 21012,
     ["description"] = "竹木做成的发簪，对于平常人家的女孩来说是不可多得的装饰。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -1954,14 +1954,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012013"] = {
-    ["q_id"] = "1012013",
+  [1012013] = {
+    ["q_id"] = 1012013,
     ["name"] = "粗麻布衣",
     ["type"] = 1,
-    ["subid"] = "12013",
+    ["subid"] = 12013,
     ["description"] = "既不耐寒亦不禁打，唯独一点是特别耐穿，穷苦百姓的追求大抵如此。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -1977,14 +1977,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021013"] = {
-    ["q_id"] = "1021013",
+  [1021013] = {
+    ["q_id"] = 1021013,
     ["name"] = "粗麻布衣",
     ["type"] = 1,
-    ["subid"] = "21013",
+    ["subid"] = 21013,
     ["description"] = "既不耐寒亦不禁打，唯独一点是特别耐穿，穷苦百姓的追求大抵如此。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -2000,11 +2000,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012014"] = {
-    ["q_id"] = "1012014",
+  [1012014] = {
+    ["q_id"] = 1012014,
     ["name"] = "棉布束腕",
     ["type"] = 1,
-    ["subid"] = "12014",
+    ["subid"] = 12014,
     ["description"] = "仅仅一块布将衣肘缠住，便可使得行动变得迅捷，劳动人民智慧的体现。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -2023,11 +2023,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021014"] = {
-    ["q_id"] = "1021014",
+  [1021014] = {
+    ["q_id"] = 1021014,
     ["name"] = "棉布束腕",
     ["type"] = 1,
-    ["subid"] = "21014",
+    ["subid"] = 21014,
     ["description"] = "仅仅一块布将衣肘缠住，便可使得行动变得迅捷，劳动人民智慧的体现。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -2046,11 +2046,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012015"] = {
-    ["q_id"] = "1012015",
+  [1012015] = {
+    ["q_id"] = 1012015,
     ["name"] = "粗布腰带",
     ["type"] = 1,
-    ["subid"] = "12015",
+    ["subid"] = 12015,
     ["description"] = "收紧一点，再收紧一点，这样就可以让自己感觉没那么糟。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -2069,11 +2069,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021015"] = {
-    ["q_id"] = "1021015",
+  [1021015] = {
+    ["q_id"] = 1021015,
     ["name"] = "粗布腰带",
     ["type"] = 1,
-    ["subid"] = "21015",
+    ["subid"] = 21015,
     ["description"] = "收紧一点，再收紧一点，这样就可以让自己感觉没那么糟。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -2092,11 +2092,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012016"] = {
-    ["q_id"] = "1012016",
+  [1012016] = {
+    ["q_id"] = 1012016,
     ["name"] = "草鞋",
     ["type"] = 1,
-    ["subid"] = "12016",
+    ["subid"] = 12016,
     ["description"] = "要小心别踩到了尖石。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -2115,11 +2115,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021016"] = {
-    ["q_id"] = "1021016",
+  [1021016] = {
+    ["q_id"] = 1021016,
     ["name"] = "草鞋",
     ["type"] = 1,
-    ["subid"] = "21016",
+    ["subid"] = 21016,
     ["description"] = "要小心别踩到了尖石。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -2138,11 +2138,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000017"] = {
-    ["q_id"] = "1000017",
+  [1000017] = {
+    ["q_id"] = 1000017,
     ["name"] = "麻绳圈",
     ["type"] = 1,
-    ["subid"] = "00017",
+    ["subid"] = 17,
     ["description"] = "在衣服被划破时可以做应急处理。",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -2161,11 +2161,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000018"] = {
-    ["q_id"] = "1000018",
+  [1000018] = {
+    ["q_id"] = 1000018,
     ["name"] = "草戒",
     ["type"] = 1,
-    ["subid"] = "00018",
+    ["subid"] = 18,
     ["description"] = "带着它可以让你想起一些被遗忘的事情，比如说儿时的约定。",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -2184,11 +2184,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012021"] = {
-    ["q_id"] = "1012021",
+  [1012021] = {
+    ["q_id"] = 1012021,
     ["name"] = "陨铁剑",
     ["type"] = 1,
-    ["subid"] = "12021",
+    ["subid"] = 12021,
     ["description"] = "使用难以加工的陨铁打造，使用需要一定的臂力。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -2207,11 +2207,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021021"] = {
-    ["q_id"] = "1021021",
+  [1021021] = {
+    ["q_id"] = 1021021,
     ["name"] = "三尖枪",
     ["type"] = 1,
-    ["subid"] = "21021",
+    ["subid"] = 21021,
     ["description"] = "尖细的枪刺让人胆寒，对于枪法不精者更有可能伤及自身。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -2230,11 +2230,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012022"] = {
-    ["q_id"] = "1012022",
+  [1012022] = {
+    ["q_id"] = 1012022,
     ["name"] = "猎户兜帽",
     ["type"] = 1,
-    ["subid"] = "12022",
+    ["subid"] = 12022,
     ["description"] = "猎人与贼人的区别只在于目标对象。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -2253,11 +2253,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021022"] = {
-    ["q_id"] = "1021022",
+  [1021022] = {
+    ["q_id"] = 1021022,
     ["name"] = "猎户斗笠",
     ["type"] = 1,
-    ["subid"] = "21022",
+    ["subid"] = 21022,
     ["description"] = "在森林中，女人并不受欢迎，带上这个可以避开所有鄙夷的视线，专心于狩猎当中。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -2276,14 +2276,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012023"] = {
-    ["q_id"] = "1012023",
+  [1012023] = {
+    ["q_id"] = 1012023,
     ["name"] = "猎户蓑衣",
     ["type"] = 1,
-    ["subid"] = "12023",
+    ["subid"] = 12023,
     ["description"] = "狩猎即为耐心与等待，岂可因晨露与夜雨半途而废。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -2299,14 +2299,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021023"] = {
-    ["q_id"] = "1021023",
+  [1021023] = {
+    ["q_id"] = 1021023,
     ["name"] = "猎户蓑衣",
     ["type"] = 1,
-    ["subid"] = "21023",
+    ["subid"] = 21023,
     ["description"] = "狩猎即为耐心与等待，岂可因晨露与夜雨半途而废。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 1,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -2322,11 +2322,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012024"] = {
-    ["q_id"] = "1012024",
+  [1012024] = {
+    ["q_id"] = 1012024,
     ["name"] = "木甲护腕",
     ["type"] = 1,
-    ["subid"] = "12024",
+    ["subid"] = 12024,
     ["description"] = "每当能佩戴上成对的护腕时，总是让人感到安心。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -2345,11 +2345,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021024"] = {
-    ["q_id"] = "1021024",
+  [1021024] = {
+    ["q_id"] = 1021024,
     ["name"] = "木甲护腕",
     ["type"] = 1,
-    ["subid"] = "21024",
+    ["subid"] = 21024,
     ["description"] = "每当能佩戴上成对的护腕时，总是让人感到安心。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -2368,11 +2368,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012025"] = {
-    ["q_id"] = "1012025",
+  [1012025] = {
+    ["q_id"] = 1012025,
     ["name"] = "鹿皮腰带",
     ["type"] = 1,
-    ["subid"] = "12025",
+    ["subid"] = 12025,
     ["description"] = "它的气味能让你更加容易地靠近鹿群，但同样的也更容易吸引来别的猎手。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -2391,11 +2391,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021025"] = {
-    ["q_id"] = "1021025",
+  [1021025] = {
+    ["q_id"] = 1021025,
     ["name"] = "鹿皮腰带",
     ["type"] = 1,
-    ["subid"] = "21025",
+    ["subid"] = 21025,
     ["description"] = "它的气味能让你更加容易地靠近鹿群，但同样的也更容易吸引来别的猎手。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -2414,11 +2414,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012026"] = {
-    ["q_id"] = "1012026",
+  [1012026] = {
+    ["q_id"] = 1012026,
     ["name"] = "登山绑腿",
     ["type"] = 1,
-    ["subid"] = "12026",
+    ["subid"] = 12026,
     ["description"] = "如果不想在逃命时被绊倒，每天出发前最好检查一遍。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -2437,11 +2437,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021026"] = {
-    ["q_id"] = "1021026",
+  [1021026] = {
+    ["q_id"] = 1021026,
     ["name"] = "登山绑腿",
     ["type"] = 1,
-    ["subid"] = "21026",
+    ["subid"] = 21026,
     ["description"] = "如果不想在逃命时被绊倒，每天出发前最好检查一遍。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -2460,11 +2460,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000027"] = {
-    ["q_id"] = "1000027",
+  [1000027] = {
+    ["q_id"] = 1000027,
     ["name"] = "兽牙项链",
     ["type"] = 1,
-    ["subid"] = "00027",
+    ["subid"] = 27,
     ["description"] = "上面的牙齿越锋利，意味着越是凶险的过去。",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -2483,11 +2483,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000028"] = {
-    ["q_id"] = "1000028",
+  [1000028] = {
+    ["q_id"] = 1000028,
     ["name"] = "骨戒",
     ["type"] = 1,
-    ["subid"] = "00028",
+    ["subid"] = 28,
     ["description"] = "你可以猜猜这用的是什么骨头。",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -2506,11 +2506,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012031"] = {
-    ["q_id"] = "1012031",
+  [1012031] = {
+    ["q_id"] = 1012031,
     ["name"] = "侍卫佩剑",
     ["type"] = 1,
-    ["subid"] = "12031",
+    ["subid"] = 12031,
     ["description"] = "它代表了正直与忠诚，而不是仗势欺人。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -2529,11 +2529,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021031"] = {
-    ["q_id"] = "1021031",
+  [1021031] = {
+    ["q_id"] = 1021031,
     ["name"] = "侍卫斧钺",
     ["type"] = 1,
-    ["subid"] = "21031",
+    ["subid"] = 21031,
     ["description"] = "宫廷卫士的标准装备，宽大的斧刃可吓退胆敢冒进之人。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -2552,11 +2552,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012032"] = {
-    ["q_id"] = "1012032",
+  [1012032] = {
+    ["q_id"] = 1012032,
     ["name"] = "戍卫军盔",
     ["type"] = 1,
-    ["subid"] = "12032",
+    ["subid"] = 12032,
     ["description"] = "十五从军去，最后只有它得归。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -2575,11 +2575,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021032"] = {
-    ["q_id"] = "1021032",
+  [1021032] = {
+    ["q_id"] = 1021032,
     ["name"] = "戍卫军盔",
     ["type"] = 1,
-    ["subid"] = "21032",
+    ["subid"] = 21032,
     ["description"] = "十五从军去，最后只有它得归。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -2598,14 +2598,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012033"] = {
-    ["q_id"] = "1012033",
+  [1012033] = {
+    ["q_id"] = 1012033,
     ["name"] = "戍卫甲胄",
     ["type"] = 1,
-    ["subid"] = "12033",
+    ["subid"] = 12033,
     ["description"] = "实际上每个人身上的盔甲都略有不同，但这并不是为了防盗，穿上不习惯的装备可是会要人命的。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -2621,14 +2621,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021033"] = {
-    ["q_id"] = "1021033",
+  [1021033] = {
+    ["q_id"] = 1021033,
     ["name"] = "戍卫甲胄",
     ["type"] = 1,
-    ["subid"] = "21033",
+    ["subid"] = 21033,
     ["description"] = "实际上每个人身上的盔甲都略有不同，但这并不是为了防盗，穿上不习惯的装备可是会要人命的。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -2644,11 +2644,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012034"] = {
-    ["q_id"] = "1012034",
+  [1012034] = {
+    ["q_id"] = 1012034,
     ["name"] = "石布束腕",
     ["type"] = 1,
-    ["subid"] = "12034",
+    ["subid"] = 12034,
     ["description"] = "摸上去如石头一般粗糙，却是用布制成。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -2667,11 +2667,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021034"] = {
-    ["q_id"] = "1021034",
+  [1021034] = {
+    ["q_id"] = 1021034,
     ["name"] = "石布束腕",
     ["type"] = 1,
-    ["subid"] = "21034",
+    ["subid"] = 21034,
     ["description"] = "摸上去如石头一般粗糙，却是用布制成。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -2690,11 +2690,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012035"] = {
-    ["q_id"] = "1012035",
+  [1012035] = {
+    ["q_id"] = 1012035,
     ["name"] = "铜板护腰",
     ["type"] = 1,
-    ["subid"] = "12035",
+    ["subid"] = 12035,
     ["description"] = "实际上只有前面的一部分镶有铜板。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -2713,11 +2713,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021035"] = {
-    ["q_id"] = "1021035",
+  [1021035] = {
+    ["q_id"] = 1021035,
     ["name"] = "铜板护腰",
     ["type"] = 1,
-    ["subid"] = "21035",
+    ["subid"] = 21035,
     ["description"] = "实际上只有前面的一部分镶有铜板。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -2736,11 +2736,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012036"] = {
-    ["q_id"] = "1012036",
+  [1012036] = {
+    ["q_id"] = 1012036,
     ["name"] = "虎头军履",
     ["type"] = 1,
-    ["subid"] = "12036",
+    ["subid"] = 12036,
     ["description"] = "腿部只是装饰，上面的大人物是不会懂的。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -2759,11 +2759,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021036"] = {
-    ["q_id"] = "1021036",
+  [1021036] = {
+    ["q_id"] = 1021036,
     ["name"] = "虎头军履",
     ["type"] = 1,
-    ["subid"] = "21036",
+    ["subid"] = 21036,
     ["description"] = "腿部只是装饰，上面的大人物是不会懂的。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -2782,11 +2782,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000037"] = {
-    ["q_id"] = "1000037",
+  [1000037] = {
+    ["q_id"] = 1000037,
     ["name"] = "银质挂坠",
     ["type"] = 1,
-    ["subid"] = "00037",
+    ["subid"] = 37,
     ["description"] = "据说这是给能活着回去的人唯一的报酬。",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -2805,11 +2805,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000038"] = {
-    ["q_id"] = "1000038",
+  [1000038] = {
+    ["q_id"] = 1000038,
     ["name"] = "银戒",
     ["type"] = 1,
-    ["subid"] = "00038",
+    ["subid"] = 38,
     ["description"] = "若是你讨得将军的欢心，偶尔会得到这种无用之物。",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -2828,11 +2828,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012041"] = {
-    ["q_id"] = "1012041",
+  [1012041] = {
+    ["q_id"] = 1012041,
     ["name"] = "太乙直剑",
     ["type"] = 1,
-    ["subid"] = "12041",
+    ["subid"] = 12041,
     ["description"] = "深受江湖道士喜爱的款式，冠上太乙之名只是为了宣传。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -2851,11 +2851,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021041"] = {
-    ["q_id"] = "1021041",
+  [1021041] = {
+    ["q_id"] = 1021041,
     ["name"] = "冰焰长枪",
     ["type"] = 1,
-    ["subid"] = "21041",
+    ["subid"] = 21041,
     ["description"] = "传说为妖界工匠打造，如同被冰冻了的火焰一般。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -2874,11 +2874,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012042"] = {
-    ["q_id"] = "1012042",
+  [1012042] = {
+    ["q_id"] = 1012042,
     ["name"] = "华阳巾",
     ["type"] = 1,
-    ["subid"] = "12042",
+    ["subid"] = 12042,
     ["description"] = "道士的常用装束。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -2897,11 +2897,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021042"] = {
-    ["q_id"] = "1021042",
+  [1021042] = {
+    ["q_id"] = 1021042,
     ["name"] = "华阳巾",
     ["type"] = 1,
-    ["subid"] = "21042",
+    ["subid"] = 21042,
     ["description"] = "道士的常用装束。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -2920,14 +2920,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012043"] = {
-    ["q_id"] = "1012043",
+  [1012043] = {
+    ["q_id"] = 1012043,
     ["name"] = "阐教道袍",
     ["type"] = 1,
-    ["subid"] = "12043",
+    ["subid"] = 12043,
     ["description"] = "据说比起乱收徒弟的截教，门徒稀少的阐教衣服更有收藏价值。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -2943,14 +2943,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021043"] = {
-    ["q_id"] = "1021043",
+  [1021043] = {
+    ["q_id"] = 1021043,
     ["name"] = "阐教道袍",
     ["type"] = 1,
-    ["subid"] = "21043",
+    ["subid"] = 21043,
     ["description"] = "据说比起乱收徒弟的截教，门徒稀少的阐教衣服更有收藏价值。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 2,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -2966,11 +2966,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012044"] = {
-    ["q_id"] = "1012044",
+  [1012044] = {
+    ["q_id"] = 1012044,
     ["name"] = "锦绣护手",
     ["type"] = 1,
-    ["subid"] = "12044",
+    ["subid"] = 12044,
     ["description"] = "也许只有到了一定经历的人才能懂得它的价值，并非出于实用，而是出于彰显。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -2989,11 +2989,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021044"] = {
-    ["q_id"] = "1021044",
+  [1021044] = {
+    ["q_id"] = 1021044,
     ["name"] = "锦绣护手",
     ["type"] = 1,
-    ["subid"] = "21044",
+    ["subid"] = 21044,
     ["description"] = "也许只有到了一定经历的人才能懂得它的价值，并非出于实用，而是出于彰显。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -3012,11 +3012,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012045"] = {
-    ["q_id"] = "1012045",
+  [1012045] = {
+    ["q_id"] = 1012045,
     ["name"] = "道士腰带",
     ["type"] = 1,
-    ["subid"] = "12045",
+    ["subid"] = 12045,
     ["description"] = "非常朴素的腰带，不是因为勤俭，只是因为道袍会把它给遮住。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -3035,11 +3035,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021045"] = {
-    ["q_id"] = "1021045",
+  [1021045] = {
+    ["q_id"] = 1021045,
     ["name"] = "道士腰带",
     ["type"] = 1,
-    ["subid"] = "21045",
+    ["subid"] = 21045,
     ["description"] = "非常朴素的腰带，不是因为勤俭，只是因为道袍会把它给遮住。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -3058,11 +3058,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012046"] = {
-    ["q_id"] = "1012046",
+  [1012046] = {
+    ["q_id"] = 1012046,
     ["name"] = "十方鞋",
     ["type"] = 1,
-    ["subid"] = "12046",
+    ["subid"] = 12046,
     ["description"] = "与其闭门苦修，不如云游十方。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -3081,11 +3081,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021046"] = {
-    ["q_id"] = "1021046",
+  [1021046] = {
+    ["q_id"] = 1021046,
     ["name"] = "十方鞋",
     ["type"] = 1,
-    ["subid"] = "21046",
+    ["subid"] = 21046,
     ["description"] = "与其闭门苦修，不如云游十方。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -3104,11 +3104,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000047"] = {
-    ["q_id"] = "1000047",
+  [1000047] = {
+    ["q_id"] = 1000047,
     ["name"] = "两仪挂坠",
     ["type"] = 1,
-    ["subid"] = "00047",
+    ["subid"] = 47,
     ["description"] = "两仪即为阴阳，阴阳即为万物。",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -3127,11 +3127,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000048"] = {
-    ["q_id"] = "1000048",
+  [1000048] = {
+    ["q_id"] = 1000048,
     ["name"] = "阐教扳指",
     ["type"] = 1,
-    ["subid"] = "00048",
+    ["subid"] = 48,
     ["description"] = "作为阐教的象征物之一，往往发挥着挑起与平息事端的作用。",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -3150,11 +3150,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012051"] = {
-    ["q_id"] = "1012051",
+  [1012051] = {
+    ["q_id"] = 1012051,
     ["name"] = "红殇",
     ["type"] = 1,
-    ["subid"] = "12051",
+    ["subid"] = 12051,
     ["description"] = "通身血红的不祥之剑，据说此剑见血后会发出骇人的红光。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -3173,11 +3173,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021051"] = {
-    ["q_id"] = "1021051",
+  [1021051] = {
+    ["q_id"] = 1021051,
     ["name"] = "猩红刺",
     ["type"] = 1,
-    ["subid"] = "21051",
+    ["subid"] = 21051,
     ["description"] = "它让人想起了各种不祥之物，比如毒蛇，蝎子，毒蜘蛛。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -3196,11 +3196,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012052"] = {
-    ["q_id"] = "1012052",
+  [1012052] = {
+    ["q_id"] = 1012052,
     ["name"] = "腾龙头盔",
     ["type"] = 1,
-    ["subid"] = "12052",
+    ["subid"] = 12052,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -3219,11 +3219,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021052"] = {
-    ["q_id"] = "1021052",
+  [1021052] = {
+    ["q_id"] = 1021052,
     ["name"] = "腾龙头盔",
     ["type"] = 1,
-    ["subid"] = "21052",
+    ["subid"] = 21052,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -3242,14 +3242,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012053"] = {
-    ["q_id"] = "1012053",
+  [1012053] = {
+    ["q_id"] = 1012053,
     ["name"] = "腾龙铠甲",
     ["type"] = 1,
-    ["subid"] = "12053",
+    ["subid"] = 12053,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -3265,14 +3265,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021053"] = {
-    ["q_id"] = "1021053",
+  [1021053] = {
+    ["q_id"] = 1021053,
     ["name"] = "腾龙铠甲",
     ["type"] = 1,
-    ["subid"] = "21053",
+    ["subid"] = 21053,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -3288,11 +3288,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012054"] = {
-    ["q_id"] = "1012054",
+  [1012054] = {
+    ["q_id"] = 1012054,
     ["name"] = "腾龙护腕",
     ["type"] = 1,
-    ["subid"] = "12054",
+    ["subid"] = 12054,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -3311,11 +3311,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021054"] = {
-    ["q_id"] = "1021054",
+  [1021054] = {
+    ["q_id"] = 1021054,
     ["name"] = "腾龙护腕",
     ["type"] = 1,
-    ["subid"] = "21054",
+    ["subid"] = 21054,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -3334,11 +3334,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012055"] = {
-    ["q_id"] = "1012055",
+  [1012055] = {
+    ["q_id"] = 1012055,
     ["name"] = "腾龙腰带",
     ["type"] = 1,
-    ["subid"] = "12055",
+    ["subid"] = 12055,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -3357,11 +3357,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021055"] = {
-    ["q_id"] = "1021055",
+  [1021055] = {
+    ["q_id"] = 1021055,
     ["name"] = "腾龙腰带",
     ["type"] = 1,
-    ["subid"] = "21055",
+    ["subid"] = 21055,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -3380,11 +3380,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012056"] = {
-    ["q_id"] = "1012056",
+  [1012056] = {
+    ["q_id"] = 1012056,
     ["name"] = "腾龙靴",
     ["type"] = 1,
-    ["subid"] = "12056",
+    ["subid"] = 12056,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -3403,11 +3403,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021056"] = {
-    ["q_id"] = "1021056",
+  [1021056] = {
+    ["q_id"] = 1021056,
     ["name"] = "腾龙靴",
     ["type"] = 1,
-    ["subid"] = "21056",
+    ["subid"] = 21056,
     ["description"] = "模仿龙的鳞甲打造的盔甲，红色的涂装更显杀气。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -3426,11 +3426,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000057"] = {
-    ["q_id"] = "1000057",
+  [1000057] = {
+    ["q_id"] = 1000057,
     ["name"] = "琥珀项链",
     ["type"] = 1,
-    ["subid"] = "00057",
+    ["subid"] = 57,
     ["description"] = "不可描述的物品",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -3449,11 +3449,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000058"] = {
-    ["q_id"] = "1000058",
+  [1000058] = {
+    ["q_id"] = 1000058,
     ["name"] = "琥珀戒指",
     ["type"] = 1,
-    ["subid"] = "00058",
+    ["subid"] = 58,
     ["description"] = "不可描述的物品",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -3472,11 +3472,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012061"] = {
-    ["q_id"] = "1012061",
+  [1012061] = {
+    ["q_id"] = 1012061,
     ["name"] = "定光剑",
     ["type"] = 1,
-    ["subid"] = "12061",
+    ["subid"] = 12061,
     ["description"] = "传说此剑为殷帝太甲所铸，帝王之物流落民间，天下之势亦如此。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -3495,11 +3495,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021061"] = {
-    ["q_id"] = "1021061",
+  [1021061] = {
+    ["q_id"] = 1021061,
     ["name"] = "混天魔尖枪",
     ["type"] = 1,
-    ["subid"] = "21061",
+    ["subid"] = 21061,
     ["description"] = "只有身形异于凡人的妖族才可驾驭。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -3518,11 +3518,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012062"] = {
-    ["q_id"] = "1012062",
+  [1012062] = {
+    ["q_id"] = 1012062,
     ["name"] = "天策头盔",
     ["type"] = 1,
-    ["subid"] = "12062",
+    ["subid"] = 12062,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -3541,11 +3541,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021062"] = {
-    ["q_id"] = "1021062",
+  [1021062] = {
+    ["q_id"] = 1021062,
     ["name"] = "天策头盔",
     ["type"] = 1,
-    ["subid"] = "21062",
+    ["subid"] = 21062,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -3564,14 +3564,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012063"] = {
-    ["q_id"] = "1012063",
+  [1012063] = {
+    ["q_id"] = 1012063,
     ["name"] = "天策战衣",
     ["type"] = 1,
-    ["subid"] = "12063",
+    ["subid"] = 12063,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -3587,14 +3587,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021063"] = {
-    ["q_id"] = "1021063",
+  [1021063] = {
+    ["q_id"] = 1021063,
     ["name"] = "天策战衣",
     ["type"] = 1,
-    ["subid"] = "21063",
+    ["subid"] = 21063,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 3,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -3610,11 +3610,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012064"] = {
-    ["q_id"] = "1012064",
+  [1012064] = {
+    ["q_id"] = 1012064,
     ["name"] = "天策护腕",
     ["type"] = 1,
-    ["subid"] = "12064",
+    ["subid"] = 12064,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -3633,11 +3633,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021064"] = {
-    ["q_id"] = "1021064",
+  [1021064] = {
+    ["q_id"] = 1021064,
     ["name"] = "天策护腕",
     ["type"] = 1,
-    ["subid"] = "21064",
+    ["subid"] = 21064,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -3656,11 +3656,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012065"] = {
-    ["q_id"] = "1012065",
+  [1012065] = {
+    ["q_id"] = 1012065,
     ["name"] = "天策腰带",
     ["type"] = 1,
-    ["subid"] = "12065",
+    ["subid"] = 12065,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -3679,11 +3679,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021065"] = {
-    ["q_id"] = "1021065",
+  [1021065] = {
+    ["q_id"] = 1021065,
     ["name"] = "天策腰带",
     ["type"] = 1,
-    ["subid"] = "21065",
+    ["subid"] = 21065,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -3702,11 +3702,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012066"] = {
-    ["q_id"] = "1012066",
+  [1012066] = {
+    ["q_id"] = 1012066,
     ["name"] = "天策战靴",
     ["type"] = 1,
-    ["subid"] = "12066",
+    ["subid"] = 12066,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -3725,11 +3725,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021066"] = {
-    ["q_id"] = "1021066",
+  [1021066] = {
+    ["q_id"] = 1021066,
     ["name"] = "天策战靴",
     ["type"] = 1,
-    ["subid"] = "21066",
+    ["subid"] = 21066,
     ["description"] = "据说是殷商名臣傅说命人打造的装备，体现了那个国家最鼎盛时的实力。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -3748,11 +3748,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000067"] = {
-    ["q_id"] = "1000067",
+  [1000067] = {
+    ["q_id"] = 1000067,
     ["name"] = "龙石项链",
     ["type"] = 1,
-    ["subid"] = "00067",
+    ["subid"] = 67,
     ["description"] = "用龙石种翡翠打造的项链，色泽温润，极为罕有。",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -3771,11 +3771,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000068"] = {
-    ["q_id"] = "1000068",
+  [1000068] = {
+    ["q_id"] = 1000068,
     ["name"] = "龙石戒指",
     ["type"] = 1,
-    ["subid"] = "00068",
+    ["subid"] = 68,
     ["description"] = "用龙石种翡翠打造的戒指，色泽温润，极为罕有。",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -3794,11 +3794,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012071"] = {
-    ["q_id"] = "1012071",
+  [1012071] = {
+    ["q_id"] = 1012071,
     ["name"] = "火精剑",
     ["type"] = 1,
-    ["subid"] = "12071",
+    ["subid"] = 12071,
     ["description"] = "神铁遇明主，则自炼为剑。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -3817,11 +3817,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021071"] = {
-    ["q_id"] = "1021071",
+  [1021071] = {
+    ["q_id"] = 1021071,
     ["name"] = "流星一闪",
     ["type"] = 1,
-    ["subid"] = "21071",
+    ["subid"] = 21071,
     ["description"] = "枪刃中镶有火焰珠，枪尖划过时犹如流星一般，因此而得名。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -3840,11 +3840,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012072"] = {
-    ["q_id"] = "1012072",
+  [1012072] = {
+    ["q_id"] = 1012072,
     ["name"] = "纯阳护额",
     ["type"] = 1,
-    ["subid"] = "12072",
+    ["subid"] = 12072,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -3863,11 +3863,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021072"] = {
-    ["q_id"] = "1021072",
+  [1021072] = {
+    ["q_id"] = 1021072,
     ["name"] = "纯阳护额",
     ["type"] = 1,
-    ["subid"] = "21072",
+    ["subid"] = 21072,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -3886,14 +3886,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012073"] = {
-    ["q_id"] = "1012073",
+  [1012073] = {
+    ["q_id"] = 1012073,
     ["name"] = "纯阳战袍",
     ["type"] = 1,
-    ["subid"] = "12073",
+    ["subid"] = 12073,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 4,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -3909,14 +3909,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021073"] = {
-    ["q_id"] = "1021073",
+  [1021073] = {
+    ["q_id"] = 1021073,
     ["name"] = "纯阳战袍",
     ["type"] = 1,
-    ["subid"] = "21073",
+    ["subid"] = 21073,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 4,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -3932,11 +3932,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012074"] = {
-    ["q_id"] = "1012074",
+  [1012074] = {
+    ["q_id"] = 1012074,
     ["name"] = "纯阳护腕",
     ["type"] = 1,
-    ["subid"] = "12074",
+    ["subid"] = 12074,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -3955,11 +3955,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021074"] = {
-    ["q_id"] = "1021074",
+  [1021074] = {
+    ["q_id"] = 1021074,
     ["name"] = "纯阳护腕",
     ["type"] = 1,
-    ["subid"] = "21074",
+    ["subid"] = 21074,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -3978,11 +3978,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012075"] = {
-    ["q_id"] = "1012075",
+  [1012075] = {
+    ["q_id"] = 1012075,
     ["name"] = "纯阳腰带",
     ["type"] = 1,
-    ["subid"] = "12075",
+    ["subid"] = 12075,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -4001,11 +4001,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021075"] = {
-    ["q_id"] = "1021075",
+  [1021075] = {
+    ["q_id"] = 1021075,
     ["name"] = "纯阳腰带",
     ["type"] = 1,
-    ["subid"] = "21075",
+    ["subid"] = 21075,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -4024,11 +4024,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012076"] = {
-    ["q_id"] = "1012076",
+  [1012076] = {
+    ["q_id"] = 1012076,
     ["name"] = "纯阳战靴",
     ["type"] = 1,
-    ["subid"] = "12076",
+    ["subid"] = 12076,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -4047,11 +4047,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021076"] = {
-    ["q_id"] = "1021076",
+  [1021076] = {
+    ["q_id"] = 1021076,
     ["name"] = "纯阳战靴",
     ["type"] = 1,
-    ["subid"] = "21076",
+    ["subid"] = 21076,
     ["description"] = "九九大数，谓之纯阳，代表着极致的力量。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -4070,11 +4070,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000077"] = {
-    ["q_id"] = "1000077",
+  [1000077] = {
+    ["q_id"] = 1000077,
     ["name"] = "龙骨项链",
     ["type"] = 1,
-    ["subid"] = "00077",
+    ["subid"] = 77,
     ["description"] = "据说每一个打造龙骨制品的人，最后都会落得不得好死下场，这也就是为什么龙骨饰品稀有的原因。",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -4093,11 +4093,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000078"] = {
-    ["q_id"] = "1000078",
+  [1000078] = {
+    ["q_id"] = 1000078,
     ["name"] = "龙骨戒指",
     ["type"] = 1,
-    ["subid"] = "00078",
+    ["subid"] = 78,
     ["description"] = "据说每一个打造龙骨制品的人，最后都会落得不得好死下场，这也就是为什么龙骨饰品稀有的原因。",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -4116,11 +4116,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012081"] = {
-    ["q_id"] = "1012081",
+  [1012081] = {
+    ["q_id"] = 1012081,
     ["name"] = "伪·青萍剑",
     ["type"] = 1,
-    ["subid"] = "12081",
+    ["subid"] = 12081,
     ["description"] = "某名匠耗尽其一生仿造的神兵，但他无法企及真品的境界，因此他将自己的灵魂也封入了剑中。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -4139,11 +4139,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021081"] = {
-    ["q_id"] = "1021081",
+  [1021081] = {
+    ["q_id"] = 1021081,
     ["name"] = "魔龙焰型枪",
     ["type"] = 1,
-    ["subid"] = "21081",
+    ["subid"] = 21081,
     ["description"] = "魔龙缠绕枪身，化作兵刃屠戮生灵。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -4162,11 +4162,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012082"] = {
-    ["q_id"] = "1012082",
+  [1012082] = {
+    ["q_id"] = 1012082,
     ["name"] = "精元头冠",
     ["type"] = 1,
-    ["subid"] = "12082",
+    ["subid"] = 12082,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -4185,11 +4185,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021082"] = {
-    ["q_id"] = "1021082",
+  [1021082] = {
+    ["q_id"] = 1021082,
     ["name"] = "精元头冠",
     ["type"] = 1,
-    ["subid"] = "21082",
+    ["subid"] = 21082,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -4208,14 +4208,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012083"] = {
-    ["q_id"] = "1012083",
+  [1012083] = {
+    ["q_id"] = 1012083,
     ["name"] = "精元法袍",
     ["type"] = 1,
-    ["subid"] = "12083",
+    ["subid"] = 12083,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 4,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -4231,14 +4231,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021083"] = {
-    ["q_id"] = "1021083",
+  [1021083] = {
+    ["q_id"] = 1021083,
     ["name"] = "精元法袍",
     ["type"] = 1,
-    ["subid"] = "21083",
+    ["subid"] = 21083,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 4,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -4254,11 +4254,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012084"] = {
-    ["q_id"] = "1012084",
+  [1012084] = {
+    ["q_id"] = 1012084,
     ["name"] = "精元护腕",
     ["type"] = 1,
-    ["subid"] = "12084",
+    ["subid"] = 12084,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -4277,11 +4277,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021084"] = {
-    ["q_id"] = "1021084",
+  [1021084] = {
+    ["q_id"] = 1021084,
     ["name"] = "精元护腕",
     ["type"] = 1,
-    ["subid"] = "21084",
+    ["subid"] = 21084,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -4300,11 +4300,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012085"] = {
-    ["q_id"] = "1012085",
+  [1012085] = {
+    ["q_id"] = 1012085,
     ["name"] = "精元腰带",
     ["type"] = 1,
-    ["subid"] = "12085",
+    ["subid"] = 12085,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -4323,11 +4323,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021085"] = {
-    ["q_id"] = "1021085",
+  [1021085] = {
+    ["q_id"] = 1021085,
     ["name"] = "精元腰带",
     ["type"] = 1,
-    ["subid"] = "21085",
+    ["subid"] = 21085,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -4346,11 +4346,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012086"] = {
-    ["q_id"] = "1012086",
+  [1012086] = {
+    ["q_id"] = 1012086,
     ["name"] = "精元道靴",
     ["type"] = 1,
-    ["subid"] = "12086",
+    ["subid"] = 12086,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -4369,11 +4369,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021086"] = {
-    ["q_id"] = "1021086",
+  [1021086] = {
+    ["q_id"] = 1021086,
     ["name"] = "精元道靴",
     ["type"] = 1,
-    ["subid"] = "21086",
+    ["subid"] = 21086,
     ["description"] = "“维天之命，於穆不已”",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -4392,11 +4392,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000087"] = {
-    ["q_id"] = "1000087",
+  [1000087] = {
+    ["q_id"] = 1000087,
     ["name"] = "绯金项链",
     ["type"] = 1,
-    ["subid"] = "00087",
+    ["subid"] = 87,
     ["description"] = "据说绯金是龙吃下黄金后拉出来的金属，虽然听起来很恶心，但是它的品质实在让人爱不释手。",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -4415,11 +4415,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000088"] = {
-    ["q_id"] = "1000088",
+  [1000088] = {
+    ["q_id"] = 1000088,
     ["name"] = "绯金戒指",
     ["type"] = 1,
-    ["subid"] = "00088",
+    ["subid"] = 88,
     ["description"] = "据说绯金是龙吃下黄金后拉出来的金属，虽然听起来很恶心，但是它的品质实在让人爱不释手。",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -4438,11 +4438,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012091"] = {
-    ["q_id"] = "1012091",
+  [1012091] = {
+    ["q_id"] = 1012091,
     ["name"] = "光之剑",
     ["type"] = 1,
-    ["subid"] = "12091",
+    ["subid"] = 12091,
     ["description"] = "闪闪发光的大剑，并非华夏之物而是来自遥远的西方，持剑之人称它为克劳索拉斯。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -4461,11 +4461,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021091"] = {
-    ["q_id"] = "1021091",
+  [1021091] = {
+    ["q_id"] = 1021091,
     ["name"] = "黑魔之主",
     ["type"] = 1,
-    ["subid"] = "21091",
+    ["subid"] = 21091,
     ["description"] = "传为西方大神湿婆之法器，挥动时会发出有如宣告世界终末一般的嘶鸣。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -4484,11 +4484,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012092"] = {
-    ["q_id"] = "1012092",
+  [1012092] = {
+    ["q_id"] = 1012092,
     ["name"] = "玄奇之盔",
     ["type"] = 1,
-    ["subid"] = "12092",
+    ["subid"] = 12092,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -4507,11 +4507,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021092"] = {
-    ["q_id"] = "1021092",
+  [1021092] = {
+    ["q_id"] = 1021092,
     ["name"] = "玄奇之盔",
     ["type"] = 1,
-    ["subid"] = "21092",
+    ["subid"] = 21092,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -4530,14 +4530,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012093"] = {
-    ["q_id"] = "1012093",
+  [1012093] = {
+    ["q_id"] = 1012093,
     ["name"] = "玄奇之铠",
     ["type"] = 1,
-    ["subid"] = "12093",
+    ["subid"] = 12093,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 4,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -4553,14 +4553,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021093"] = {
-    ["q_id"] = "1021093",
+  [1021093] = {
+    ["q_id"] = 1021093,
     ["name"] = "玄奇之铠",
     ["type"] = 1,
-    ["subid"] = "21093",
+    ["subid"] = 21093,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 4,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -4576,11 +4576,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012094"] = {
-    ["q_id"] = "1012094",
+  [1012094] = {
+    ["q_id"] = 1012094,
     ["name"] = "玄奇护手",
     ["type"] = 1,
-    ["subid"] = "12094",
+    ["subid"] = 12094,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -4599,11 +4599,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021094"] = {
-    ["q_id"] = "1021094",
+  [1021094] = {
+    ["q_id"] = 1021094,
     ["name"] = "玄奇护手",
     ["type"] = 1,
-    ["subid"] = "21094",
+    ["subid"] = 21094,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -4622,11 +4622,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012095"] = {
-    ["q_id"] = "1012095",
+  [1012095] = {
+    ["q_id"] = 1012095,
     ["name"] = "玄奇腰带",
     ["type"] = 1,
-    ["subid"] = "12095",
+    ["subid"] = 12095,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -4645,11 +4645,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021095"] = {
-    ["q_id"] = "1021095",
+  [1021095] = {
+    ["q_id"] = 1021095,
     ["name"] = "玄奇腰带",
     ["type"] = 1,
-    ["subid"] = "21095",
+    ["subid"] = 21095,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -4668,11 +4668,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012096"] = {
-    ["q_id"] = "1012096",
+  [1012096] = {
+    ["q_id"] = 1012096,
     ["name"] = "玄奇之靴",
     ["type"] = 1,
-    ["subid"] = "12096",
+    ["subid"] = 12096,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -4691,11 +4691,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021096"] = {
-    ["q_id"] = "1021096",
+  [1021096] = {
+    ["q_id"] = 1021096,
     ["name"] = "玄奇之靴",
     ["type"] = 1,
-    ["subid"] = "21096",
+    ["subid"] = 21096,
     ["description"] = "根据长相怪异的西方来客的装备打造而成，但据一些到过西方探险的人说，西方只有无尽的荒漠。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -4714,11 +4714,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000097"] = {
-    ["q_id"] = "1000097",
+  [1000097] = {
+    ["q_id"] = 1000097,
     ["name"] = "初开之项链",
     ["type"] = 1,
-    ["subid"] = "00097",
+    ["subid"] = 97,
     ["description"] = "不可描述的物品",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -4737,11 +4737,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000098"] = {
-    ["q_id"] = "1000098",
+  [1000098] = {
+    ["q_id"] = 1000098,
     ["name"] = "初开之戒",
     ["type"] = 1,
-    ["subid"] = "00098",
+    ["subid"] = 98,
     ["description"] = "不可描述的物品",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",
@@ -4760,11 +4760,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012101"] = {
-    ["q_id"] = "1012101",
+  [1012101] = {
+    ["q_id"] = 1012101,
     ["name"] = "血龙狂舞",
     ["type"] = 1,
-    ["subid"] = "12101",
+    ["subid"] = 12101,
     ["description"] = "屠龙之人，终成恶龙。",
     ["count"] = 1,
     ["itemicon"] = "swordicon_01.png",
@@ -4783,11 +4783,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021101"] = {
-    ["q_id"] = "1021101",
+  [1021101] = {
+    ["q_id"] = 1021101,
     ["name"] = "烛龙枪",
     ["type"] = 1,
-    ["subid"] = "21101",
+    ["subid"] = 21101,
     ["description"] = "寄宿着烛龙之力，舞为火，刺为雷。",
     ["count"] = 1,
     ["itemicon"] = "pikeicon_01.png",
@@ -4806,11 +4806,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012102"] = {
-    ["q_id"] = "1012102",
+  [1012102] = {
+    ["q_id"] = 1012102,
     ["name"] = "倚天鬼面",
     ["type"] = 1,
-    ["subid"] = "12102",
+    ["subid"] = 12102,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -4829,11 +4829,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021102"] = {
-    ["q_id"] = "1021102",
+  [1021102] = {
+    ["q_id"] = 1021102,
     ["name"] = "倚天鬼面",
     ["type"] = 1,
-    ["subid"] = "21102",
+    ["subid"] = 21102,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
     ["itemicon"] = "headicon_01.png",
@@ -4852,14 +4852,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012103"] = {
-    ["q_id"] = "1012103",
+  [1012103] = {
+    ["q_id"] = 1012103,
     ["name"] = "倚天战甲",
     ["type"] = 1,
-    ["subid"] = "12103",
+    ["subid"] = 12103,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonmale_01.png",
     ["quality"] = 5,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -4875,14 +4875,14 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021103"] = {
-    ["q_id"] = "1021103",
+  [1021103] = {
+    ["q_id"] = 1021103,
     ["name"] = "倚天战甲",
     ["type"] = 1,
-    ["subid"] = "21103",
+    ["subid"] = 21103,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
-    ["itemicon"] = "coaticon_01.png",
+    ["itemicon"] = "coaticonfemale_01.png",
     ["quality"] = 5,
     ["iconeffect"] = "",
     ["dropid"] = "",
@@ -4898,11 +4898,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012104"] = {
-    ["q_id"] = "1012104",
+  [1012104] = {
+    ["q_id"] = 1012104,
     ["name"] = "倚天臂铠",
     ["type"] = 1,
-    ["subid"] = "12104",
+    ["subid"] = 12104,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -4921,11 +4921,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021104"] = {
-    ["q_id"] = "1021104",
+  [1021104] = {
+    ["q_id"] = 1021104,
     ["name"] = "倚天臂铠",
     ["type"] = 1,
-    ["subid"] = "21104",
+    ["subid"] = 21104,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
     ["itemicon"] = "armicon_01.png",
@@ -4944,11 +4944,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012105"] = {
-    ["q_id"] = "1012105",
+  [1012105] = {
+    ["q_id"] = 1012105,
     ["name"] = "倚天腰带",
     ["type"] = 1,
-    ["subid"] = "12105",
+    ["subid"] = 12105,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -4967,11 +4967,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021105"] = {
-    ["q_id"] = "1021105",
+  [1021105] = {
+    ["q_id"] = 1021105,
     ["name"] = "倚天腰带",
     ["type"] = 1,
-    ["subid"] = "21105",
+    ["subid"] = 21105,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
     ["itemicon"] = "belticon_01.png",
@@ -4990,11 +4990,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1012106"] = {
-    ["q_id"] = "1012106",
+  [1012106] = {
+    ["q_id"] = 1012106,
     ["name"] = "倚天战靴",
     ["type"] = 1,
-    ["subid"] = "12106",
+    ["subid"] = 12106,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -5013,11 +5013,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1021106"] = {
-    ["q_id"] = "1021106",
+  [1021106] = {
+    ["q_id"] = 1021106,
     ["name"] = "倚天战靴",
     ["type"] = 1,
-    ["subid"] = "21106",
+    ["subid"] = 21106,
     ["description"] = "最接近天界的力量，凡人所能达到极限所在。",
     ["count"] = 1,
     ["itemicon"] = "shoeicon_01.png",
@@ -5036,11 +5036,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000107"] = {
-    ["q_id"] = "1000107",
+  [1000107] = {
+    ["q_id"] = 1000107,
     ["name"] = "补天石项链",
     ["type"] = 1,
-    ["subid"] = "00107",
+    ["subid"] = 107,
     ["description"] = "传闻为使用女娲补天后剩余的补天石做制成的项链，越是接近得道之人越能发挥其实力。",
     ["count"] = 1,
     ["itemicon"] = "neckicon_01.png",
@@ -5059,11 +5059,11 @@ return {
     ["channelid"] = "",
     ["notice"] = ""
   },
-  ["1000108"] = {
-    ["q_id"] = "1000108",
+  [1000108] = {
+    ["q_id"] = 1000108,
     ["name"] = "补天石戒指",
     ["type"] = 1,
-    ["subid"] = "00108",
+    ["subid"] = 108,
     ["description"] = "传闻为使用女娲补天后剩余的补天石做制成的戒指，越是接近得道之人越能发挥其实力。",
     ["count"] = 1,
     ["itemicon"] = "ringicon_01.png",

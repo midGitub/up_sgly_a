@@ -1,42 +1,62 @@
 return {
   [1] = {
     ["q_id"] = 1,
-    ["itemid"] = 100001
+    ["dropid"] = 10003,
+    ["itemid"] = 100001,
+    ["count"] = 10
   },
   [2] = {
     ["q_id"] = 2,
-    ["itemid"] = 300002
+    ["dropid"] = 10003,
+    ["itemid"] = 300002,
+    ["count"] = 1
   },
   [3] = {
     ["q_id"] = 3,
-    ["itemid"] = 300003
+    ["dropid"] = 10003,
+    ["itemid"] = 300003,
+    ["count"] = 1
   },
   [4] = {
     ["q_id"] = 4,
-    ["itemid"] = 300004
+    ["dropid"] = 10003,
+    ["itemid"] = 300004,
+    ["count"] = 1
   },
   [5] = {
     ["q_id"] = 5,
-    ["itemid"] = 300005
+    ["dropid"] = 10003,
+    ["itemid"] = 300005,
+    ["count"] = 1
   },
   [6] = {
     ["q_id"] = 6,
-    ["itemid"] = 100003
+    ["dropid"] = 10004,
+    ["itemid"] = 100003,
+    ["count"] = 5
   },
   [7] = {
     ["q_id"] = 7,
-    ["itemid"] = 300011
+    ["dropid"] = 10004,
+    ["itemid"] = 300011,
+    ["count"] = 1
   },
   [8] = {
     ["q_id"] = 8,
-    ["itemid"] = 300012
+    ["dropid"] = 10004,
+    ["itemid"] = 300012,
+    ["count"] = 1
   },
   [9] = {
     ["q_id"] = 9,
-    ["itemid"] = 300013
+    ["dropid"] = 10004,
+    ["itemid"] = 300013,
+    ["count"] = 1
   },
   [10] = {
     ["q_id"] = 10,
-    ["itemid"] = 300014
+    ["dropid"] = 10004,
+    ["itemid"] = 300014,
+    ["count"] = 1
   }
 }

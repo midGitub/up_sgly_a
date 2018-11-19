@@ -6,6 +6,8 @@ return {
     ["q_order"] = 1,
     ["q_icon"] = "zjm_icon_a1.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_PLAYER"
   },
   [2] = {
@@ -15,6 +17,8 @@ return {
     ["q_order"] = 2,
     ["q_icon"] = "zjm_icon_a2.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_FORGE"
   },
   [3] = {
@@ -24,6 +28,8 @@ return {
     ["q_order"] = 3,
     ["q_icon"] = "zjm_icon_a3.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_PREVIEW"
   },
   [4] = {
@@ -33,6 +39,8 @@ return {
     ["q_order"] = 4,
     ["q_icon"] = "zjm_icon_a4.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_GAME"
   },
   [5] = {
@@ -42,6 +50,8 @@ return {
     ["q_order"] = 5,
     ["q_icon"] = "zjm_icon_a5.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_SHOP"
   },
   [6] = {
@@ -51,6 +61,8 @@ return {
     ["q_order"] = 6,
     ["q_icon"] = "zjm_icon_a6.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_ACHIEVEMEN"
   },
   [7] = {
@@ -60,6 +72,8 @@ return {
     ["q_order"] = 7,
     ["q_icon"] = "zjm_icon_a7.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_HEAVENLY_GENERAL"
   },
   [8] = {
@@ -69,6 +83,8 @@ return {
     ["q_order"] = 8,
     ["q_icon"] = "zjm_icon_a8.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_LLLUSTATION"
   },
   [9] = {
@@ -78,6 +94,8 @@ return {
     ["q_order"] = 9,
     ["q_icon"] = "zjm_icon_a9.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_SETTIMG"
   },
   [10] = {
@@ -87,6 +105,8 @@ return {
     ["q_order"] = 10,
     ["q_icon"] = "zjm_icon_a10.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_FUSION"
   },
   [11] = {
@@ -96,6 +116,8 @@ return {
     ["q_order"] = 1,
     ["q_icon"] = "zjm_icon_c1.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_OFFICAL_POS"
   },
   [12] = {
@@ -105,6 +127,8 @@ return {
     ["q_order"] = 2,
     ["q_icon"] = "zjm_icon_c2.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_DESCRIPTION"
   },
   [13] = {
@@ -114,6 +138,8 @@ return {
     ["q_order"] = 1,
     ["q_icon"] = "zjm_icon_b1.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_RECHARGE_ACTIVITY"
   },
   [14] = {
@@ -123,6 +149,8 @@ return {
     ["q_order"] = 2,
     ["q_icon"] = "zjm_icon_b2.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_OPERATION_ACTIVITY"
   },
   [15] = {
@@ -132,6 +160,8 @@ return {
     ["q_order"] = 3,
     ["q_icon"] = "zjm_icon_b3.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_DAILY_ACTIVITY"
   },
   [16] = {
@@ -141,6 +171,8 @@ return {
     ["q_order"] = 4,
     ["q_icon"] = "zjm_icon_b4.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_INVITIMG_GOD"
   },
   [17] = {
@@ -150,6 +182,8 @@ return {
     ["q_order"] = 5,
     ["q_icon"] = "zjm_icon_b5.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_ARENA"
   },
   [18] = {
@@ -159,6 +193,8 @@ return {
     ["q_order"] = 6,
     ["q_icon"] = "zjm_icon_b6.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_RANK"
   },
   [19] = {
@@ -168,6 +204,8 @@ return {
     ["q_order"] = 7,
     ["q_icon"] = "zjm_icon_b7.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 1,
     ["q_link"] = "MAINUI_OPEN_INVESTITURE_GOD"
   },
   [20] = {
@@ -177,6 +215,8 @@ return {
     ["q_order"] = 1,
     ["q_icon"] = "zjm_icon_d1.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_BAG"
   },
   [21] = {
@@ -186,6 +226,8 @@ return {
     ["q_order"] = 2,
     ["q_icon"] = "zjm_icon_d2.png",
     ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_SOCIAL"
   }
 }

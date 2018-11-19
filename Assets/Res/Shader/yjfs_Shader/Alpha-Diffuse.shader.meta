@@ -3,7 +3,8 @@ guid: 68a8ef8e34238b64aaf439ef3136ed83
 timeCreated: 1457074163
 licenseType: Pro
 ShaderImporter:
+  externalObjects: {}
   defaultTextures: []
   userData: 
-  assetBundleName: shader/legacy-shaders/transparent/diffuse.shader.unity3d
+  assetBundleName: 
   assetBundleVariant: 

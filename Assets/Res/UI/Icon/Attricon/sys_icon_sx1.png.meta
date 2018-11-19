@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b0a23561b6fc20949af11659f43a001b
-timeCreated: 1540203057
+timeCreated: 1541683223
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -81,7 +81,7 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape: []
-  spritePackingTag: Icon
+  spritePackingTag: Attricon
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -4,6 +4,7 @@ return {
     ["name"] = "活力",
     ["description"] = "增加{0}点攻击",
     ["attrtype"] = 1,
+    ["quality_attrlimit"] = "1,1000,1200;2,2000,2200;3,3000,3200;4,4000,4200",
     ["ispercent"] = 0
   },
   [2001] = {
@@ -11,6 +12,7 @@ return {
     ["name"] = "威力",
     ["description"] = "增加{0}点生命",
     ["attrtype"] = 5,
+    ["quality_attrlimit"] = "1,1000,1200;2,2000,2200;3,3000,3200;4,4000,4200",
     ["ispercent"] = 0
   },
   [3001] = {
@@ -18,6 +20,7 @@ return {
     ["name"] = "专注",
     ["description"] = "增加{0}点命中",
     ["attrtype"] = 9,
+    ["quality_attrlimit"] = "1,1000,1200;2,2000,2200;3,3000,3200;4,4000,4200",
     ["ispercent"] = 0
   },
   [4001] = {
@@ -25,6 +28,7 @@ return {
     ["name"] = "敏捷",
     ["description"] = "增加{0}点闪避",
     ["attrtype"] = 10,
+    ["quality_attrlimit"] = "1,1000,1200;2,2000,2200;3,3000,3200;4,4000,4200",
     ["ispercent"] = 0
   },
   [5001] = {
@@ -32,6 +36,7 @@ return {
     ["name"] = "狂热",
     ["description"] = "增加{0}点暴击",
     ["attrtype"] = 11,
+    ["quality_attrlimit"] = "1,1000,1200;2,2000,2200;3,3000,3200;4,4000,4200",
     ["ispercent"] = 0
   },
   [6001] = {
@@ -39,6 +44,7 @@ return {
     ["name"] = "刚毅",
     ["description"] = "增加{0}点抗暴",
     ["attrtype"] = 12,
+    ["quality_attrlimit"] = "1,1000,1200;2,2000,2200;3,3000,3200;4,4000,4200",
     ["ispercent"] = 0
   },
   [7001] = {
@@ -46,6 +52,7 @@ return {
     ["name"] = "穿透",
     ["description"] = "增加{0}点暴烈",
     ["attrtype"] = 17,
+    ["quality_attrlimit"] = "1,1000,1200;2,2000,2200;3,3000,3200;4,4000,4200",
     ["ispercent"] = 0
   },
   [8001] = {
@@ -53,6 +60,7 @@ return {
     ["name"] = "韧性",
     ["description"] = "增加{0}点坚韧",
     ["attrtype"] = 18,
+    ["quality_attrlimit"] = "1,1000,1200;2,2000,2200;3,3000,3200;4,4000,4200",
     ["ispercent"] = 0
   }
 }

@@ -3,7 +3,8 @@ guid: 7f629e8ecaca57946a275bfb712ed9de
 timeCreated: 1457074166
 licenseType: Pro
 ShaderImporter:
+  externalObjects: {}
   defaultTextures: []
   userData: 
-  assetBundleName: shader/legacy-shaders/transparent/vertexlit.shader.unity3d
+  assetBundleName: 
   assetBundleVariant: 

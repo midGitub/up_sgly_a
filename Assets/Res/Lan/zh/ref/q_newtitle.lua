@@ -1,0 +1,62 @@
+return {
+  [4001] = {
+    ["q_id"] = 4001,
+    ["name"] = "神之觉醒",
+    ["color"] = 5,
+    ["tinyIcon"] = "titleicon01.png",
+    ["appendLight"] = "",
+    ["open"] = 1,
+    ["type"] = 1,
+    ["levelCond"] = "",
+    ["effectTime"] = 79200,
+    ["addAttrs"] = "1,100;2,220",
+    ["buff"] = "",
+    ["channelid"] = 1,
+    ["channel_desc"] = ""
+  },
+  [4002] = {
+    ["q_id"] = 4002,
+    ["name"] = "神之主宰",
+    ["color"] = 5,
+    ["tinyIcon"] = "titleicon02.png",
+    ["appendLight"] = "",
+    ["open"] = 1,
+    ["type"] = 1,
+    ["levelCond"] = "",
+    ["effectTime"] = 79200,
+    ["addAttrs"] = "1,100;2,221",
+    ["buff"] = "",
+    ["channelid"] = 1,
+    ["channel_desc"] = ""
+  },
+  [4003] = {
+    ["q_id"] = 4003,
+    ["name"] = "圣之觉醒",
+    ["color"] = 5,
+    ["tinyIcon"] = "titleicon03.png",
+    ["appendLight"] = "",
+    ["open"] = 1,
+    ["type"] = 1,
+    ["levelCond"] = "",
+    ["effectTime"] = 79200,
+    ["addAttrs"] = "1,100;2,222",
+    ["buff"] = "",
+    ["channelid"] = 1,
+    ["channel_desc"] = ""
+  },
+  [4004] = {
+    ["q_id"] = 4004,
+    ["name"] = "王之觉醒",
+    ["color"] = 5,
+    ["tinyIcon"] = "titleicon04.png",
+    ["appendLight"] = "",
+    ["open"] = 1,
+    ["type"] = 1,
+    ["levelCond"] = "",
+    ["effectTime"] = 79200,
+    ["addAttrs"] = "1,100;2,223",
+    ["buff"] = "",
+    ["channelid"] = 1,
+    ["channel_desc"] = ""
+  }
+}

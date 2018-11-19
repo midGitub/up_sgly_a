@@ -93,3 +93,60 @@ gcst.CURRENCY_TIANJING=3				--	天晶（抽取元神货币）
 gcst.CURRENCY_SOUL_MARROW=13			--元神精华（用于元神升级）
 
 --摄像机 END
+
+--玩家数据表格属性BEGIN
+gcst.ATK=1	--基础物理攻击
+gcst.MATK=2	--基础法术攻击
+gcst.ATK_RATE=3	--物理攻击百分比加成
+gcst.MATK_RATE=	4	--法术攻击百分比加成
+gcst.ATK_REVISE=5	--修正物理攻击
+gcst.MATK_REVISE=6	--修正法术攻击
+gcst.ATK_RESULT=7	--面板物理攻击
+gcst.MATK_RESULT=8	--面板法术攻击
+gcst.DEF=9			--基础物理防御
+gcst.MDEF=10		--基础法术防御
+gcst.DEF_RATE=11		--物理防御百分比加成
+gcst.MDEF_RATE=12	--法术防御百分比加成
+gcst.DEF_Revise=13	--修正物理防御
+gcst.MDEF_Revise=14	--修正法术防御
+gcst.DEF_RESULT=15	--面板物理防御
+gcst.MDEF_RESULT=16	--面板法术防御
+gcst.MAX_HP=17		--基础最大生命
+gcst.MAX_HP_RATE=18	--最大生命百分比加成
+gcst.MAX_HP_Revise=19	--修正最大生命
+gcst.MAX_HP_RESULT=20	--面板生命
+gcst.HIT_RATE=21		--命中率
+gcst.DODGE_RATE=22	--闪避率
+gcst.CRIT_RATE=23	--暴击率
+gcst.ANTI_CRIT_RATE=24	--抗暴率
+gcst.CRIT_ADD_RATE=25		--暴伤增加率
+gcst.CRIT_reduce_RATE=26	--暴伤减少率
+gcst.DMG_ADD_RATE=27		--伤害增加率
+gcst.DMG_RUDUCE_RATE=28	--伤害减少率
+gcst.MOVE_SPEEd_BASE=29	--基础移动速度
+gcst.RECOVERY_FREE=30	--空闲回复速率
+gcst.RECOVERY_WAR=31		--战争回复速率
+gcst.ELEMENT_ADD1=32		--元素精通点1
+gcst.ELEMENT_ADD2=33		--元素精通点2
+gcst.ELEMENT_ADD3=34		--元素精通点3
+gcst.ELEMENT_ADD4=35		--元素精通点4
+gcst.ELEMENT_ADD5=36		--元素精通点5
+gcst.ELEMENT_REDUCE1=37		--元素抗性点1
+gcst.ELEMENT_REDUCE2=38		--元素抗性点2
+gcst.ELEMENT_REDUCE3=39		--元素抗性点3
+gcst.ELEMENT_REDUCE4=40		--元素抗性点4
+gcst.ELEMENT_REDUCE5=41		--元素抗性点5
+
+gcst.EQUIPKIND_WEAPON=1		--武器,刀枪剑戟,扇杖锤钩,等
+gcst.EQUIPKIND_HELMET=2		--头盔,帽子
+gcst.EQUIPKIND_ARMOR=3		--盔甲,衣服
+gcst.EQUIPKIND_BELT=4		--腰带
+gcst.EQUIPKIND_WRISTER=5	--护腕,手环
+gcst.EQUIPKIND_BOOTS=6		--鞋子,战靴
+gcst.EQUIPKIND_NECKLACE=7	--项链,吊坠,护符
+gcst.EQUIPKIND_RING=8		--戒指
+
+--玩家数据表格属性END
+
+gcst.MAP_GDATA_PATH="GData/Scene/Grid/"
+gcst.MAP_HDATA_PATH="GData/Scene/Height/"
