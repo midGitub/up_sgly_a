@@ -148,5 +148,17 @@ gcst.EQUIPKIND_RING=8		--戒指
 
 --玩家数据表格属性END
 
+--地图配置数据路径 BEGIN
 gcst.MAP_GDATA_PATH="GData/Scene/Grid/"
 gcst.MAP_HDATA_PATH="GData/Scene/Height/"
+--地图配置数据路径 END
+
+--组件跟摄像机的显示距离 BEGIN
+gcst.ASSEMBLY_NAME_DIST = 50
+gcst.ASSEMBLY_GUILD_DIST = 50
+gcst.ASSEMBLY_TITLE_DIST = 50
+gcst.ASSEMBLY_TASK_ICON_DIST = 50
+gcst.ASSEMBLY_WING_DIST = 50
+gcst.ASSEMBLY_WEAPON_DIST = 50
+gcst.ASSEMBLY_MOUNT_DIST = 50
+--组件跟摄像机的显示距离 END

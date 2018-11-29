@@ -13,13 +13,13 @@ return {
     ["quality"] = 1,
     ["winglevel"] = 1,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,3",
-    ["openskill"] = 0,
-    ["needbless"] = 100,
-    ["bless_min"] = 4,
-    ["bless_max"] = 6,
-    ["isempty"] = 0,
-    ["wingattrs"] = "1,100;5,100"
+    ["cost"] = "",
+    ["openskill"] = "",
+    ["needbless"] = "",
+    ["bless_min"] = "",
+    ["bless_max"] = "",
+    ["isempty"] = "",
+    ["wingattrs"] = "21,10;22,10;23,5;24,5"
   },
   [1002] = {
     ["q_id"] = 1002,
@@ -35,13 +35,13 @@ return {
     ["quality"] = 2,
     ["winglevel"] = 2,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,5",
+    ["cost"] = "1500002,3",
     ["openskill"] = 0,
     ["needbless"] = 400,
     ["bless_min"] = 5,
     ["bless_max"] = 7,
     ["isempty"] = 0,
-    ["wingattrs"] = "1,200;5,200"
+    ["wingattrs"] = "21,12;22,12;23,6;24,6"
   },
   [1003] = {
     ["q_id"] = 1003,
@@ -57,13 +57,13 @@ return {
     ["quality"] = 3,
     ["winglevel"] = 3,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,7",
+    ["cost"] = "1500002,5",
     ["openskill"] = 500101,
     ["needbless"] = 800,
     ["bless_min"] = 6,
     ["bless_max"] = 8,
     ["isempty"] = 0,
-    ["wingattrs"] = "1,100;5,101"
+    ["wingattrs"] = "21,14;22,14;23,7;24,7"
   },
   [1004] = {
     ["q_id"] = 1004,
@@ -79,13 +79,13 @@ return {
     ["quality"] = 4,
     ["winglevel"] = 4,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,9",
+    ["cost"] = "1500002,7",
     ["openskill"] = 0,
     ["needbless"] = 1200,
     ["bless_min"] = 7,
     ["bless_max"] = 9,
     ["isempty"] = 0,
-    ["wingattrs"] = "1,200;5,201"
+    ["wingattrs"] = "21,16;22,16;23,8;24,8"
   },
   [1005] = {
     ["q_id"] = 1005,
@@ -101,13 +101,13 @@ return {
     ["quality"] = 5,
     ["winglevel"] = 5,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,11",
+    ["cost"] = "1500002,9",
     ["openskill"] = 500201,
     ["needbless"] = 1800,
     ["bless_min"] = 8,
     ["bless_max"] = 10,
     ["isempty"] = 0,
-    ["wingattrs"] = "1,100;5,102"
+    ["wingattrs"] = "21,18;22,18;23,9;24,9"
   },
   [1006] = {
     ["q_id"] = 1006,
@@ -123,13 +123,13 @@ return {
     ["quality"] = 5,
     ["winglevel"] = 6,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,13",
+    ["cost"] = "1500002,11",
     ["openskill"] = 0,
     ["needbless"] = 2500,
     ["bless_min"] = 9,
     ["bless_max"] = 11,
     ["isempty"] = 0,
-    ["wingattrs"] = "1,200;5,202"
+    ["wingattrs"] = "21,20;22,20;23,10;24,10"
   },
   [1007] = {
     ["q_id"] = 1007,
@@ -145,13 +145,13 @@ return {
     ["quality"] = 5,
     ["winglevel"] = 7,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,15",
+    ["cost"] = "1500002,13",
     ["openskill"] = 500301,
     ["needbless"] = 3200,
     ["bless_min"] = 10,
     ["bless_max"] = 12,
     ["isempty"] = 1,
-    ["wingattrs"] = "1,100;5,103"
+    ["wingattrs"] = "21,22;22,22;23,11;24,11"
   },
   [1008] = {
     ["q_id"] = 1008,
@@ -167,13 +167,13 @@ return {
     ["quality"] = 5,
     ["winglevel"] = 8,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,17",
+    ["cost"] = "1500002,15",
     ["openskill"] = 0,
     ["needbless"] = 4000,
     ["bless_min"] = 11,
     ["bless_max"] = 13,
     ["isempty"] = 1,
-    ["wingattrs"] = "1,200;5,203"
+    ["wingattrs"] = "21,24;22,24;23,12;24,12"
   },
   [1009] = {
     ["q_id"] = 1009,
@@ -189,13 +189,13 @@ return {
     ["quality"] = 5,
     ["winglevel"] = 9,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,19",
+    ["cost"] = "1500002,17",
     ["openskill"] = 500401,
     ["needbless"] = 5000,
     ["bless_min"] = 12,
     ["bless_max"] = 14,
     ["isempty"] = 1,
-    ["wingattrs"] = "1,100;5,104"
+    ["wingattrs"] = "21,26;22,26;23,13;24,13"
   },
   [1010] = {
     ["q_id"] = 1010,
@@ -211,12 +211,12 @@ return {
     ["quality"] = 5,
     ["winglevel"] = 10,
     ["needlevel"] = 1,
-    ["cost"] = "15000002,21",
+    ["cost"] = "1500002,19",
     ["openskill"] = 0,
     ["needbless"] = 7000,
     ["bless_min"] = 13,
     ["bless_max"] = 15,
     ["isempty"] = 1,
-    ["wingattrs"] = "1,200;5,204"
+    ["wingattrs"] = "21,28;22,28;23,14;24,14"
   }
 }

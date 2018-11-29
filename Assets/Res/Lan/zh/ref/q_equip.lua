@@ -1,6 +1,6 @@
 return {
-  [12011] = {
-    ["q_id"] = 12011,
+  [12001] = {
+    ["q_id"] = 12001,
     ["model"] = "jianxian_weapon_1501",
     ["job"] = 1,
     ["sex"] = 2,
@@ -17,8 +17,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21011] = {
-    ["q_id"] = 21011,
+  [21001] = {
+    ["q_id"] = 21001,
     ["model"] = "tianyao_weapon_1501",
     ["job"] = 2,
     ["sex"] = 1,
@@ -35,8 +35,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12012] = {
-    ["q_id"] = 12012,
+  [12002] = {
+    ["q_id"] = 12002,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -53,8 +53,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21012] = {
-    ["q_id"] = 21012,
+  [21002] = {
+    ["q_id"] = 21002,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -71,8 +71,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12013] = {
-    ["q_id"] = 12013,
+  [12003] = {
+    ["q_id"] = 12003,
     ["model"] = "jianxian_1501",
     ["job"] = 1,
     ["sex"] = 2,
@@ -89,8 +89,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21013] = {
-    ["q_id"] = 21013,
+  [21003] = {
+    ["q_id"] = 21003,
     ["model"] = "tianyao_1501",
     ["job"] = 2,
     ["sex"] = 1,
@@ -107,8 +107,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12014] = {
-    ["q_id"] = 12014,
+  [12004] = {
+    ["q_id"] = 12004,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -125,8 +125,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21014] = {
-    ["q_id"] = 21014,
+  [21004] = {
+    ["q_id"] = 21004,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -143,8 +143,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12015] = {
-    ["q_id"] = 12015,
+  [12005] = {
+    ["q_id"] = 12005,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -161,8 +161,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21015] = {
-    ["q_id"] = 21015,
+  [21005] = {
+    ["q_id"] = 21005,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -179,8 +179,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12016] = {
-    ["q_id"] = 12016,
+  [12006] = {
+    ["q_id"] = 12006,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -197,8 +197,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21016] = {
-    ["q_id"] = 21016,
+  [21006] = {
+    ["q_id"] = 21006,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -215,8 +215,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [17] = {
-    ["q_id"] = 17,
+  [13001] = {
+    ["q_id"] = 13001,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -233,8 +233,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [18] = {
-    ["q_id"] = 18,
+  [13002] = {
+    ["q_id"] = 13002,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -251,8 +251,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12021] = {
-    ["q_id"] = 12021,
+  [12007] = {
+    ["q_id"] = 12007,
     ["model"] = "jianxian_weapon_1502",
     ["job"] = 1,
     ["sex"] = 2,
@@ -269,8 +269,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21021] = {
-    ["q_id"] = 21021,
+  [21007] = {
+    ["q_id"] = 21007,
     ["model"] = "tianyao_weapon_1502",
     ["job"] = 2,
     ["sex"] = 1,
@@ -287,8 +287,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12022] = {
-    ["q_id"] = 12022,
+  [12008] = {
+    ["q_id"] = 12008,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -305,8 +305,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21022] = {
-    ["q_id"] = 21022,
+  [21008] = {
+    ["q_id"] = 21008,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -323,8 +323,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12023] = {
-    ["q_id"] = 12023,
+  [12009] = {
+    ["q_id"] = 12009,
     ["model"] = "jianxian_1502",
     ["job"] = 1,
     ["sex"] = 2,
@@ -341,8 +341,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21023] = {
-    ["q_id"] = 21023,
+  [21009] = {
+    ["q_id"] = 21009,
     ["model"] = "tianyao_1502",
     ["job"] = 2,
     ["sex"] = 1,
@@ -359,8 +359,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12024] = {
-    ["q_id"] = 12024,
+  [12010] = {
+    ["q_id"] = 12010,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -377,8 +377,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21024] = {
-    ["q_id"] = 21024,
+  [21010] = {
+    ["q_id"] = 21010,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -395,8 +395,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12025] = {
-    ["q_id"] = 12025,
+  [12011] = {
+    ["q_id"] = 12011,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -413,8 +413,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21025] = {
-    ["q_id"] = 21025,
+  [21011] = {
+    ["q_id"] = 21011,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -431,8 +431,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12026] = {
-    ["q_id"] = 12026,
+  [12012] = {
+    ["q_id"] = 12012,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -449,8 +449,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21026] = {
-    ["q_id"] = 21026,
+  [21012] = {
+    ["q_id"] = 21012,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -467,8 +467,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [27] = {
-    ["q_id"] = 27,
+  [13003] = {
+    ["q_id"] = 13003,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -485,8 +485,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [28] = {
-    ["q_id"] = 28,
+  [13004] = {
+    ["q_id"] = 13004,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -503,8 +503,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12031] = {
-    ["q_id"] = 12031,
+  [12013] = {
+    ["q_id"] = 12013,
     ["model"] = "jianxian_weapon_1503",
     ["job"] = 1,
     ["sex"] = 2,
@@ -521,13 +521,769 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21031] = {
-    ["q_id"] = 21031,
+  [21013] = {
+    ["q_id"] = 21013,
     ["model"] = "tianyao_weapon_1503",
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 1,
     ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12014] = {
+    ["q_id"] = 12014,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 2,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21014] = {
+    ["q_id"] = 21014,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 2,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12015] = {
+    ["q_id"] = 12015,
+    ["model"] = "jianxian_1503",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 3,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21015] = {
+    ["q_id"] = 21015,
+    ["model"] = "tianyao_1503",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 3,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12016] = {
+    ["q_id"] = 12016,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 4,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21016] = {
+    ["q_id"] = 21016,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 4,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12017] = {
+    ["q_id"] = 12017,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 5,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21017] = {
+    ["q_id"] = 21017,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 5,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12018] = {
+    ["q_id"] = 12018,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 6,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21018] = {
+    ["q_id"] = 21018,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 6,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [13005] = {
+    ["q_id"] = 13005,
+    ["model"] = "",
+    ["job"] = 0,
+    ["sex"] = 0,
+    ["kind"] = 7,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [13006] = {
+    ["q_id"] = 13006,
+    ["model"] = "",
+    ["job"] = 0,
+    ["sex"] = 0,
+    ["kind"] = 8,
+    ["strengthlevel_max"] = 5,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12019] = {
+    ["q_id"] = 12019,
+    ["model"] = "jianxian_weapon_1504",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 1,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21019] = {
+    ["q_id"] = 21019,
+    ["model"] = "tianyao_weapon_1504",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 1,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12020] = {
+    ["q_id"] = 12020,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 2,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21020] = {
+    ["q_id"] = 21020,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 2,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12021] = {
+    ["q_id"] = 12021,
+    ["model"] = "jianxian_1504",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 3,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21021] = {
+    ["q_id"] = 21021,
+    ["model"] = "tianyao_1504",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 3,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12022] = {
+    ["q_id"] = 12022,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 4,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21022] = {
+    ["q_id"] = 21022,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 4,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12023] = {
+    ["q_id"] = 12023,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 5,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21023] = {
+    ["q_id"] = 21023,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 5,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12024] = {
+    ["q_id"] = 12024,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 6,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21024] = {
+    ["q_id"] = 21024,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 6,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [13007] = {
+    ["q_id"] = 13007,
+    ["model"] = "",
+    ["job"] = 0,
+    ["sex"] = 0,
+    ["kind"] = 7,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [13008] = {
+    ["q_id"] = 13008,
+    ["model"] = "",
+    ["job"] = 0,
+    ["sex"] = 0,
+    ["kind"] = 8,
+    ["strengthlevel_max"] = 7,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12025] = {
+    ["q_id"] = 12025,
+    ["model"] = "jianxian_weapon_1505",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 1,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21025] = {
+    ["q_id"] = 21025,
+    ["model"] = "tianyao_weapon_1505",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 1,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12026] = {
+    ["q_id"] = 12026,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 2,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21026] = {
+    ["q_id"] = 21026,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 2,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12027] = {
+    ["q_id"] = 12027,
+    ["model"] = "jianxian_1505",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 3,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21027] = {
+    ["q_id"] = 21027,
+    ["model"] = "tianyao_1505",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 3,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12028] = {
+    ["q_id"] = 12028,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 4,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21028] = {
+    ["q_id"] = 21028,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 4,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12029] = {
+    ["q_id"] = 12029,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 5,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21029] = {
+    ["q_id"] = 21029,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 5,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12030] = {
+    ["q_id"] = 12030,
+    ["model"] = "",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 6,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21030] = {
+    ["q_id"] = 21030,
+    ["model"] = "",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 6,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [13009] = {
+    ["q_id"] = 13009,
+    ["model"] = "",
+    ["job"] = 0,
+    ["sex"] = 0,
+    ["kind"] = 7,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [13010] = {
+    ["q_id"] = 13010,
+    ["model"] = "",
+    ["job"] = 0,
+    ["sex"] = 0,
+    ["kind"] = 8,
+    ["strengthlevel_max"] = 9,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [12031] = {
+    ["q_id"] = 12031,
+    ["model"] = "jianxian_weapon_1506",
+    ["job"] = 1,
+    ["sex"] = 2,
+    ["kind"] = 1,
+    ["strengthlevel_max"] = 11,
+    ["fix_quality"] = "",
+    ["randattr1"] = "",
+    ["randattr2"] = "",
+    ["randattr3"] = "",
+    ["randattr4"] = "",
+    ["isrepeat"] = 1,
+    ["fixedattr1"] = 0,
+    ["fixedattr2"] = 0,
+    ["fixedattr3"] = 0,
+    ["fixedattr4"] = 0
+  },
+  [21031] = {
+    ["q_id"] = 21031,
+    ["model"] = "tianyao_weapon_1506",
+    ["job"] = 2,
+    ["sex"] = 1,
+    ["kind"] = 1,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -545,7 +1301,7 @@ return {
     ["job"] = 1,
     ["sex"] = 2,
     ["kind"] = 2,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -563,7 +1319,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 2,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -577,11 +1333,11 @@ return {
   },
   [12033] = {
     ["q_id"] = 12033,
-    ["model"] = "jianxian_1503",
+    ["model"] = "jianxian_1506",
     ["job"] = 1,
     ["sex"] = 2,
     ["kind"] = 3,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -595,11 +1351,11 @@ return {
   },
   [21033] = {
     ["q_id"] = 21033,
-    ["model"] = "tianyao_1503",
+    ["model"] = "tianyao_1506",
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 3,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -617,7 +1373,7 @@ return {
     ["job"] = 1,
     ["sex"] = 2,
     ["kind"] = 4,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -635,7 +1391,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 4,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -653,7 +1409,7 @@ return {
     ["job"] = 1,
     ["sex"] = 2,
     ["kind"] = 5,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -671,7 +1427,7 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 5,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -689,7 +1445,7 @@ return {
     ["job"] = 1,
     ["sex"] = 2,
     ["kind"] = 6,
-    ["strengthlevel_max"] = 5,
+    ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
     ["randattr2"] = "",
@@ -707,564 +1463,6 @@ return {
     ["job"] = 2,
     ["sex"] = 1,
     ["kind"] = 6,
-    ["strengthlevel_max"] = 5,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [37] = {
-    ["q_id"] = 37,
-    ["model"] = "",
-    ["job"] = 0,
-    ["sex"] = 0,
-    ["kind"] = 7,
-    ["strengthlevel_max"] = 5,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [38] = {
-    ["q_id"] = 38,
-    ["model"] = "",
-    ["job"] = 0,
-    ["sex"] = 0,
-    ["kind"] = 8,
-    ["strengthlevel_max"] = 5,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12041] = {
-    ["q_id"] = 12041,
-    ["model"] = "jianxian_weapon_1504",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 1,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21041] = {
-    ["q_id"] = 21041,
-    ["model"] = "tianyao_weapon_1504",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 1,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12042] = {
-    ["q_id"] = 12042,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 2,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21042] = {
-    ["q_id"] = 21042,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 2,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12043] = {
-    ["q_id"] = 12043,
-    ["model"] = "jianxian_1504",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 3,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21043] = {
-    ["q_id"] = 21043,
-    ["model"] = "tianyao_1504",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 3,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12044] = {
-    ["q_id"] = 12044,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 4,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21044] = {
-    ["q_id"] = 21044,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 4,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12045] = {
-    ["q_id"] = 12045,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 5,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21045] = {
-    ["q_id"] = 21045,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 5,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12046] = {
-    ["q_id"] = 12046,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 6,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21046] = {
-    ["q_id"] = 21046,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 6,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [47] = {
-    ["q_id"] = 47,
-    ["model"] = "",
-    ["job"] = 0,
-    ["sex"] = 0,
-    ["kind"] = 7,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [48] = {
-    ["q_id"] = 48,
-    ["model"] = "",
-    ["job"] = 0,
-    ["sex"] = 0,
-    ["kind"] = 8,
-    ["strengthlevel_max"] = 7,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12051] = {
-    ["q_id"] = 12051,
-    ["model"] = "jianxian_weapon_1505",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 1,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21051] = {
-    ["q_id"] = 21051,
-    ["model"] = "tianyao_weapon_1505",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 1,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12052] = {
-    ["q_id"] = 12052,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 2,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21052] = {
-    ["q_id"] = 21052,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 2,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12053] = {
-    ["q_id"] = 12053,
-    ["model"] = "jianxian_1505",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 3,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21053] = {
-    ["q_id"] = 21053,
-    ["model"] = "tianyao_1505",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 3,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12054] = {
-    ["q_id"] = 12054,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 4,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21054] = {
-    ["q_id"] = 21054,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 4,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12055] = {
-    ["q_id"] = 12055,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 5,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21055] = {
-    ["q_id"] = 21055,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 5,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12056] = {
-    ["q_id"] = 12056,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 6,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21056] = {
-    ["q_id"] = 21056,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 6,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [57] = {
-    ["q_id"] = 57,
-    ["model"] = "",
-    ["job"] = 0,
-    ["sex"] = 0,
-    ["kind"] = 7,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [58] = {
-    ["q_id"] = 58,
-    ["model"] = "",
-    ["job"] = 0,
-    ["sex"] = 0,
-    ["kind"] = 8,
-    ["strengthlevel_max"] = 9,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12061] = {
-    ["q_id"] = 12061,
-    ["model"] = "jianxian_weapon_1506",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 1,
     ["strengthlevel_max"] = 11,
     ["fix_quality"] = "",
     ["randattr1"] = "",
@@ -1277,206 +1475,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21061] = {
-    ["q_id"] = 21061,
-    ["model"] = "tianyao_weapon_1506",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 1,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12062] = {
-    ["q_id"] = 12062,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 2,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21062] = {
-    ["q_id"] = 21062,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 2,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12063] = {
-    ["q_id"] = 12063,
-    ["model"] = "jianxian_1506",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 3,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21063] = {
-    ["q_id"] = 21063,
-    ["model"] = "tianyao_1506",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 3,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12064] = {
-    ["q_id"] = 12064,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 4,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21064] = {
-    ["q_id"] = 21064,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 4,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12065] = {
-    ["q_id"] = 12065,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 5,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21065] = {
-    ["q_id"] = 21065,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 5,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [12066] = {
-    ["q_id"] = 12066,
-    ["model"] = "",
-    ["job"] = 1,
-    ["sex"] = 2,
-    ["kind"] = 6,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [21066] = {
-    ["q_id"] = 21066,
-    ["model"] = "",
-    ["job"] = 2,
-    ["sex"] = 1,
-    ["kind"] = 6,
-    ["strengthlevel_max"] = 11,
-    ["fix_quality"] = "",
-    ["randattr1"] = "",
-    ["randattr2"] = "",
-    ["randattr3"] = "",
-    ["randattr4"] = "",
-    ["isrepeat"] = 1,
-    ["fixedattr1"] = 0,
-    ["fixedattr2"] = 0,
-    ["fixedattr3"] = 0,
-    ["fixedattr4"] = 0
-  },
-  [67] = {
-    ["q_id"] = 67,
+  [13011] = {
+    ["q_id"] = 13011,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -1493,8 +1493,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [68] = {
-    ["q_id"] = 68,
+  [13012] = {
+    ["q_id"] = 13012,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -1511,8 +1511,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12071] = {
-    ["q_id"] = 12071,
+  [12037] = {
+    ["q_id"] = 12037,
     ["model"] = "jianxian_weapon_1501",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1529,8 +1529,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21071] = {
-    ["q_id"] = 21071,
+  [21037] = {
+    ["q_id"] = 21037,
     ["model"] = "tianyao_weapon_1501",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1547,8 +1547,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12072] = {
-    ["q_id"] = 12072,
+  [12038] = {
+    ["q_id"] = 12038,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1565,8 +1565,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21072] = {
-    ["q_id"] = 21072,
+  [21038] = {
+    ["q_id"] = 21038,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1583,8 +1583,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12073] = {
-    ["q_id"] = 12073,
+  [12039] = {
+    ["q_id"] = 12039,
     ["model"] = "jianxian_1501",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1601,8 +1601,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21073] = {
-    ["q_id"] = 21073,
+  [21039] = {
+    ["q_id"] = 21039,
     ["model"] = "tianyao_1501",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1619,8 +1619,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12074] = {
-    ["q_id"] = 12074,
+  [12040] = {
+    ["q_id"] = 12040,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1637,8 +1637,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21074] = {
-    ["q_id"] = 21074,
+  [21040] = {
+    ["q_id"] = 21040,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1655,8 +1655,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12075] = {
-    ["q_id"] = 12075,
+  [12041] = {
+    ["q_id"] = 12041,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1673,8 +1673,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21075] = {
-    ["q_id"] = 21075,
+  [21041] = {
+    ["q_id"] = 21041,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1691,8 +1691,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12076] = {
-    ["q_id"] = 12076,
+  [12042] = {
+    ["q_id"] = 12042,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1709,8 +1709,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21076] = {
-    ["q_id"] = 21076,
+  [21042] = {
+    ["q_id"] = 21042,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1727,8 +1727,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [77] = {
-    ["q_id"] = 77,
+  [13013] = {
+    ["q_id"] = 13013,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -1745,8 +1745,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [78] = {
-    ["q_id"] = 78,
+  [13014] = {
+    ["q_id"] = 13014,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -1763,8 +1763,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12081] = {
-    ["q_id"] = 12081,
+  [12043] = {
+    ["q_id"] = 12043,
     ["model"] = "jianxian_weapon_1502",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1781,8 +1781,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21081] = {
-    ["q_id"] = 21081,
+  [21043] = {
+    ["q_id"] = 21043,
     ["model"] = "tianyao_weapon_1502",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1799,8 +1799,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12082] = {
-    ["q_id"] = 12082,
+  [12044] = {
+    ["q_id"] = 12044,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1817,8 +1817,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21082] = {
-    ["q_id"] = 21082,
+  [21044] = {
+    ["q_id"] = 21044,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1835,8 +1835,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12083] = {
-    ["q_id"] = 12083,
+  [12045] = {
+    ["q_id"] = 12045,
     ["model"] = "jianxian_1502",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1853,8 +1853,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21083] = {
-    ["q_id"] = 21083,
+  [21045] = {
+    ["q_id"] = 21045,
     ["model"] = "tianyao_1502",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1871,8 +1871,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12084] = {
-    ["q_id"] = 12084,
+  [12046] = {
+    ["q_id"] = 12046,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1889,8 +1889,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21084] = {
-    ["q_id"] = 21084,
+  [21046] = {
+    ["q_id"] = 21046,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1907,8 +1907,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12085] = {
-    ["q_id"] = 12085,
+  [12047] = {
+    ["q_id"] = 12047,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1925,8 +1925,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21085] = {
-    ["q_id"] = 21085,
+  [21047] = {
+    ["q_id"] = 21047,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1943,8 +1943,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12086] = {
-    ["q_id"] = 12086,
+  [12048] = {
+    ["q_id"] = 12048,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -1961,8 +1961,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21086] = {
-    ["q_id"] = 21086,
+  [21048] = {
+    ["q_id"] = 21048,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -1979,8 +1979,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [87] = {
-    ["q_id"] = 87,
+  [13015] = {
+    ["q_id"] = 13015,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -1997,8 +1997,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [88] = {
-    ["q_id"] = 88,
+  [13016] = {
+    ["q_id"] = 13016,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -2015,8 +2015,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12091] = {
-    ["q_id"] = 12091,
+  [12049] = {
+    ["q_id"] = 12049,
     ["model"] = "jianxian_weapon_1503",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2033,8 +2033,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21091] = {
-    ["q_id"] = 21091,
+  [21049] = {
+    ["q_id"] = 21049,
     ["model"] = "tianyao_weapon_1503",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2051,8 +2051,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12092] = {
-    ["q_id"] = 12092,
+  [12050] = {
+    ["q_id"] = 12050,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2069,8 +2069,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21092] = {
-    ["q_id"] = 21092,
+  [21050] = {
+    ["q_id"] = 21050,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2087,8 +2087,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12093] = {
-    ["q_id"] = 12093,
+  [12051] = {
+    ["q_id"] = 12051,
     ["model"] = "jianxian_1503",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2105,8 +2105,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21093] = {
-    ["q_id"] = 21093,
+  [21051] = {
+    ["q_id"] = 21051,
     ["model"] = "tianyao_1503",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2123,8 +2123,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12094] = {
-    ["q_id"] = 12094,
+  [12052] = {
+    ["q_id"] = 12052,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2141,8 +2141,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21094] = {
-    ["q_id"] = 21094,
+  [21052] = {
+    ["q_id"] = 21052,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2159,8 +2159,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12095] = {
-    ["q_id"] = 12095,
+  [12053] = {
+    ["q_id"] = 12053,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2177,8 +2177,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21095] = {
-    ["q_id"] = 21095,
+  [21053] = {
+    ["q_id"] = 21053,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2195,8 +2195,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12096] = {
-    ["q_id"] = 12096,
+  [12054] = {
+    ["q_id"] = 12054,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2213,8 +2213,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21096] = {
-    ["q_id"] = 21096,
+  [21054] = {
+    ["q_id"] = 21054,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2231,8 +2231,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [97] = {
-    ["q_id"] = 97,
+  [13017] = {
+    ["q_id"] = 13017,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -2249,8 +2249,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [98] = {
-    ["q_id"] = 98,
+  [13018] = {
+    ["q_id"] = 13018,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -2267,8 +2267,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12101] = {
-    ["q_id"] = 12101,
+  [12055] = {
+    ["q_id"] = 12055,
     ["model"] = "jianxian_weapon_1504",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2285,8 +2285,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21101] = {
-    ["q_id"] = 21101,
+  [21055] = {
+    ["q_id"] = 21055,
     ["model"] = "tianyao_weapon_1504",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2303,8 +2303,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12102] = {
-    ["q_id"] = 12102,
+  [12056] = {
+    ["q_id"] = 12056,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2321,8 +2321,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21102] = {
-    ["q_id"] = 21102,
+  [21056] = {
+    ["q_id"] = 21056,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2339,8 +2339,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12103] = {
-    ["q_id"] = 12103,
+  [12057] = {
+    ["q_id"] = 12057,
     ["model"] = "jianxian_1504",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2357,8 +2357,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21103] = {
-    ["q_id"] = 21103,
+  [21057] = {
+    ["q_id"] = 21057,
     ["model"] = "tianyao_1504",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2375,8 +2375,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12104] = {
-    ["q_id"] = 12104,
+  [12058] = {
+    ["q_id"] = 12058,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2393,8 +2393,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21104] = {
-    ["q_id"] = 21104,
+  [21058] = {
+    ["q_id"] = 21058,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2411,8 +2411,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12105] = {
-    ["q_id"] = 12105,
+  [12059] = {
+    ["q_id"] = 12059,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2429,8 +2429,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21105] = {
-    ["q_id"] = 21105,
+  [21059] = {
+    ["q_id"] = 21059,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2447,8 +2447,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [12106] = {
-    ["q_id"] = 12106,
+  [12060] = {
+    ["q_id"] = 12060,
     ["model"] = "",
     ["job"] = 1,
     ["sex"] = 2,
@@ -2465,8 +2465,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [21106] = {
-    ["q_id"] = 21106,
+  [21060] = {
+    ["q_id"] = 21060,
     ["model"] = "",
     ["job"] = 2,
     ["sex"] = 1,
@@ -2483,8 +2483,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [107] = {
-    ["q_id"] = 107,
+  [13019] = {
+    ["q_id"] = 13019,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,
@@ -2501,8 +2501,8 @@ return {
     ["fixedattr3"] = 0,
     ["fixedattr4"] = 0
   },
-  [108] = {
-    ["q_id"] = 108,
+  [13020] = {
+    ["q_id"] = 13020,
     ["model"] = "",
     ["job"] = 0,
     ["sex"] = 0,

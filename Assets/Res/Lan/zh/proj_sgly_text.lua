@@ -59,8 +59,8 @@ local TEXT_MAP = {
 ["BASEUI14"] = "     <image=%s><size=20><color=ff6666ff>  %s    %s</color></size>",
 ["BASEUI15"] = "     <image=%s><size=20><color=99ff66ff>  %s    +%s%%</color></size>",
 ["BASEUI16"] = "     <image=%s><size=20><color=ff6666ff>  %s    %s%%</color></size>",
-["BASEUI17"] = "<size=20><color=fff1c1ff>获得 </color><color=%s>%s</color></size>",
-["BASEUI18"] = "<size=20><color=fff1c1ff>获得 </color><color=%s>%s %d</color></size>",
+["BASEUI17"] = "<size=20><color=fff1c1ff>获得 </color><color=%x>%s</color></size>",
+["BASEUI18"] = "<size=20><color=fff1c1ff>获得 </color><color=%x>%s %d</color></size>",
 ["BASEUI19"] = "%d/%d",
 ["BASEUI20"] = "sys_icon_dj%d.png",
 
@@ -129,7 +129,6 @@ local TEXT_MAP = {
 ["BAGUI022"] = "镶嵌",
 ["BAGUI023"] = "<res_up=%d><image=%s|%d|%d><color=%x>%d</color>",
 
-
 ["CHATUI000"] = "%d\"",
 ["CHATUI001"] = "V%d",
 ["CHATUI002"] = "角色等级%d级才能进行聊天",
@@ -186,6 +185,7 @@ local TEXT_MAP = {
 ["FORGEUI028"] = "当前宝石共鸣无属性",
 ["FORGEUI029"] = "当前强化大师已满级",
 ["FORGEUI030"] = "当前宝石共鸣已满级",
+["FORGEUI031"] = "再次洗练",
 
 ["CREATEITEM000"] = "合成",
 ["CREATEITEM001"] = "全部合成",
@@ -232,6 +232,7 @@ local TEXT_MAP = {
 ["SHOP38"] = "每天 %d:00刷新",
 ["SHOP39"] = "每月%d号 0:00刷新",
 ["SHOP40"] = "今日刷新次数已用完。",
+["SHOP41"] = "背包容量不足",
 
 ["PLAYER1"] = "经     验",
 ["PLAYER2"] = "基础属性",
@@ -271,6 +272,15 @@ local TEXT_MAP = {
 ["PLAYER34"] = "技能升级",
 ["PLAYER35"] = "%d/<color=#%x>%d</color>",
 ["PLAYER36"] = "+%s%%",
+["PLAYER37"] = "当前未解锁",
+["PLAYER38"] = "当前技能已满级",
+["PLAYER39"] = "升级",
+["PLAYER40"] = "当前未精炼",
+["PLAYER41"] = "当前精炼等级已满级",
+["PLAYER42"] = "本阶祝福值不清空",
+["PLAYER43"] = "材料不足",
+["PLAYER44"] = "未获得",
+["PLAYER45"] = "已满级",
 
 ["MAIN1"] = "和平",
 ["MAIN2"] = "不能攻击玩家",

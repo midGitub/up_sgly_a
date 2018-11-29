@@ -11,7 +11,9 @@ return {
     ["q_icon2"] = "dl_icon_charA2.png",
     ["q_head"] = "dl_pic_charJX.png",
     ["q_char"] = "dl_icon_charJX.png",
-    ["q_tip"] = "dl_at_JX.png"
+    ["q_tip"] = "dl_at_JX.png",
+    ["head"] = 2001,
+    ["headframe"] = 1001
   },
   [2001] = {
     ["q_id"] = 2001,
@@ -25,6 +27,8 @@ return {
     ["q_icon2"] = "dl_icon_charB2.png",
     ["q_head"] = "dl_pic_charTY.png",
     ["q_char"] = "dl_icon_charTY.png",
-    ["q_tip"] = "dl_at_TY.png"
+    ["q_tip"] = "dl_at_TY.png",
+    ["head"] = 1001,
+    ["headframe"] = 1001
   }
 }

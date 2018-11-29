@@ -50,6 +50,13 @@ namespace AF
 
         LightmapData[] m_lightmapData;
 
+        #if ART_EDITOR
+        void Start()
+        {
+            SetUp();
+        }
+        #endif
+
         //设置光照信息
         [ContextMenu("SetUp")]
         public void SetUp()
