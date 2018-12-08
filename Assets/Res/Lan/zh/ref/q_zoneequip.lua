@@ -1,0 +1,42 @@
+return {
+  [50001] = {
+    ["zoneId"] = 50001,
+    ["name"] = "装备副本1",
+    ["mapId"] = 3002,
+    ["hardLevel"] = 1,
+    ["limitLevel"] = 10,
+    ["limitTime"] = 120,
+    ["finishCond"] = "1|0",
+    ["firstReward"] = 10001,
+    ["randReward"] = 10002,
+    ["showReward"] = 10002,
+    ["raidsCondtion"] = "1|5;2|90;3|30",
+    ["raidsCost"] = "1500009,1",
+    ["intstance"] = 3,
+    ["refreshType"] = 1,
+    ["refreshValue"] = 1,
+    ["enemyLineup"] = "10001,20001,30001,40001",
+    ["description"] = "击杀副本所有BOSS后，有几率获得稀有装备，难度越高奖励越丰富",
+    ["zonePassNotice"] = ""
+  },
+  [50002] = {
+    ["zoneId"] = 50002,
+    ["name"] = "装备副本2",
+    ["mapId"] = 3001,
+    ["hardLevel"] = 1,
+    ["limitLevel"] = 20,
+    ["limitTime"] = 120,
+    ["finishCond"] = "1|0",
+    ["firstReward"] = 10001,
+    ["randReward"] = 10002,
+    ["showReward"] = 10002,
+    ["raidsCondtion"] = "1|5;2|90;3|30",
+    ["raidsCost"] = "1500009,1",
+    ["intstance"] = 3,
+    ["refreshType"] = 1,
+    ["refreshValue"] = 1,
+    ["enemyLineup"] = "10001,20001,30001,40001",
+    ["description"] = "击杀副本所有BOSS后，有几率获得稀有装备，难度越高奖励越丰富",
+    ["zonePassNotice"] = ""
+  }
+}

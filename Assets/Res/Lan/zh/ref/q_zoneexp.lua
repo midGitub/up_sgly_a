@@ -1,0 +1,30 @@
+return {
+  [30001] = {
+    ["zoneId"] = 30001,
+    ["name"] = "经验关卡1",
+    ["mapId"] = 3001,
+    ["hardLevel"] = 0,
+    ["limitLevel"] = 1,
+    ["limitTime"] = 120,
+    ["finishCond"] = "2|120",
+    ["levelInterval"] = "1,100",
+    ["firstReward"] = 10001,
+    ["randReward"] = 10002,
+    ["showReward"] = 10002,
+    ["raidsCondtion"] = "1|5;2|90;3|30",
+    ["raidsCost"] = "1500009,1",
+    ["raidsExtraReward"] = "1,2000",
+    ["aidAtkCount"] = 5,
+    ["aidAtkCost"] = "100,10;100,10;300,10,300,10;300,10",
+    ["aidExpCount"] = 5,
+    ["aidExpCost"] = "100,10;100,10;300,10,300,10;300,10",
+    ["evaluateTime"] = "1|5;2|90;3|30",
+    ["evaluateStars"] = "",
+    ["intstance"] = 12,
+    ["refreshType"] = 2,
+    ["refreshValue"] = 3,
+    ["enemyLineup"] = "10001,20001,30001,40001",
+    ["description"] = "杀怪越多，经验越多",
+    ["zonePassNotice"] = ""
+  }
+}
