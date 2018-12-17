@@ -82,8 +82,8 @@ gcst.CAMERA_FIELD_VIEW_SPEED = 80
 gcst.CAMERA_FIELD_VIEW_MIN_ANGLE_Y = 30
 gcst.CAMERA_FIELD_VIEW_NOR_ANGLE_Y = 60
 
-gcst.CURRENCY_GOLD=1	--元宝
-gcst.CURRENCY_MONEY=2	--铜币
+gcst.CURRENCY_GOLD=2	--铜币 = 游戏币
+gcst.CURRENCY_MONEY=1	-- 元宝 = 人民币
 gcst.CURRENCY_SOUlSTONE=5	--	魂石（兑换天神碎片）
 gcst.CURRENCY_HONOR=6	--荣誉（竞技场币）
 gcst.CURRENCY_MERIT=7	--功勋（帮会战币）
@@ -91,7 +91,7 @@ gcst.CURRENCY_GUILD_COUNTRIBUTON=9		--帮会贡献
 gcst.CURRENCY_GUILD_FUNDS=10			--	帮会资金
 gcst.CURRENCY_TIANJING=3				--	天晶（抽取元神货币）
 gcst.CURRENCY_SOUL_MARROW=13			--元神精华（用于元神升级）
-
+gcst.CURRENCY_SPRITE=14					--体力
 --摄像机 END
 
 --玩家数据表格属性BEGIN
@@ -220,3 +220,9 @@ gcst.EQUIP_TYPE_NAME = {
 	[7] = "项链",
 	[8] = "戒指",
 }
+
+-- 宝石物品类型
+gcst.GEMTYPE = 3
+
+--TEMP VALUE
+gcst.AOI_HANDLE_BY_MY_SELF = false

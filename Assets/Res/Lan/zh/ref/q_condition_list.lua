@@ -58,5 +58,10 @@ return {
     ["Id"] = 12,
     ["Desc"] = "完成<color=ff784fff>%s</color>",
     ["showProgress"] = 1
+  },
+  [101] = {
+    ["Id"] = 101,
+    ["Desc"] = "%d级开启",
+    ["showProgress"] = 0
   }
 }

@@ -1,9 +1,19 @@
 fileFormatVersion: 2
 guid: c8f77079c246e1a47ac74c7e570eb5fa
-timeCreated: 1533695314
+timeCreated: 1534396586
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: sys_artf_vip_num_0
+    21300002: sys_artf_vip_num_1
+    21300004: sys_artf_vip_num_2
+    21300006: sys_artf_vip_num_3
+    21300008: sys_artf_vip_num_4
+    21300010: sys_artf_vip_num_5
+    21300012: sys_artf_vip_num_6
+    21300014: sys_artf_vip_num_7
+    21300016: sys_artf_vip_num_8
+    21300018: sys_artf_vip_num_9
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -70,7 +80,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0

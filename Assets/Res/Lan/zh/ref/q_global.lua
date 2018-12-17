@@ -84,99 +84,44 @@ return {
     ["q_int_value"] = 30,
     ["q_string_value"] = ""
   },
-  ["qCritRadioInitial"] = {
-    ["q_key"] = "qCritRadioInitial",
-    ["q_int_value"] = 2,
+  ["default_birthplace"] = {
+    ["q_key"] = "default_birthplace",
+    ["q_int_value"] = "",
+    ["q_string_value"] = "10001,131,162"
+  },
+  ["godMaxStarLevel"] = {
+    ["q_key"] = "godMaxStarLevel",
+    ["q_int_value"] = 6,
     ["q_string_value"] = ""
   },
-  ["qHitInitial"] = {
-    ["q_key"] = "qHitInitial",
-    ["q_int_value"] = 0.8,
+  ["lockitem"] = {
+    ["q_key"] = "lockitem",
+    ["q_int_value"] = 1,
     ["q_string_value"] = ""
   },
-  ["qCritInitial"] = {
-    ["q_key"] = "qCritInitial",
-    ["q_int_value"] = 0.2,
+  ["lockmax"] = {
+    ["q_key"] = "lockmax",
+    ["q_int_value"] = 3,
     ["q_string_value"] = ""
   },
-  ["qHitRatio1"] = {
-    ["q_key"] = "qHitRatio1",
-    ["q_int_value"] = 0.5,
+  ["starZoneDifferCD"] = {
+    ["q_key"] = "starZoneDifferCD",
+    ["q_int_value"] = 5,
     ["q_string_value"] = ""
   },
-  ["qHitRatio2"] = {
-    ["q_key"] = "qHitRatio2",
-    ["q_int_value"] = 100,
+  ["saluteCount"] = {
+    ["q_key"] = "saluteCount",
+    ["q_int_value"] = 10,
     ["q_string_value"] = ""
   },
-  ["qDodgeRatio1"] = {
-    ["q_key"] = "qDodgeRatio1",
-    ["q_int_value"] = 0.5,
+  ["msgBroadCastCnt"] = {
+    ["q_key"] = "msgBroadCastCnt",
+    ["q_int_value"] = 3,
     ["q_string_value"] = ""
   },
-  ["qDodgeRatio2"] = {
-    ["q_key"] = "qDodgeRatio2",
-    ["q_int_value"] = 100,
-    ["q_string_value"] = ""
-  },
-  ["qCritRatio1"] = {
-    ["q_key"] = "qCritRatio1",
-    ["q_int_value"] = 0.5,
-    ["q_string_value"] = ""
-  },
-  ["qCritRatio2"] = {
-    ["q_key"] = "qCritRatio2",
-    ["q_int_value"] = 100,
-    ["q_string_value"] = ""
-  },
-  ["qAnticritRatio1"] = {
-    ["q_key"] = "qAnticritRatio1",
-    ["q_int_value"] = 0.5,
-    ["q_string_value"] = ""
-  },
-  ["qAnticritRatio2"] = {
-    ["q_key"] = "qAnticritRatio2",
-    ["q_int_value"] = 100,
-    ["q_string_value"] = ""
-  },
-  ["qCritaddRatio1"] = {
-    ["q_key"] = "qCritaddRatio1",
-    ["q_int_value"] = 0.5,
-    ["q_string_value"] = ""
-  },
-  ["qCritaddRatio2"] = {
-    ["q_key"] = "qCritaddRatio2",
-    ["q_int_value"] = 100,
-    ["q_string_value"] = ""
-  },
-  ["qCritreduceRatio1"] = {
-    ["q_key"] = "qCritreduceRatio1",
-    ["q_int_value"] = 0.5,
-    ["q_string_value"] = ""
-  },
-  ["qCritreduceRatio2"] = {
-    ["q_key"] = "qCritreduceRatio2",
-    ["q_int_value"] = 100,
-    ["q_string_value"] = ""
-  },
-  ["qDmgaddRatio1"] = {
-    ["q_key"] = "qDmgaddRatio1",
-    ["q_int_value"] = 0.5,
-    ["q_string_value"] = ""
-  },
-  ["qDmgaddRatio2"] = {
-    ["q_key"] = "qDmgaddRatio2",
-    ["q_int_value"] = 100,
-    ["q_string_value"] = ""
-  },
-  ["qDmgreduceRatio1"] = {
-    ["q_key"] = "qDmgreduceRatio1",
-    ["q_int_value"] = 0.5,
-    ["q_string_value"] = ""
-  },
-  ["qDmgreduceRatio2"] = {
-    ["q_key"] = "qDmgreduceRatio2",
-    ["q_int_value"] = 100,
+  ["raidsStar"] = {
+    ["q_key"] = "raidsStar",
+    ["q_int_value"] = 3,
     ["q_string_value"] = ""
   }
 }

@@ -229,5 +229,16 @@ return {
     ["q_reqtask"] = 0,
     ["q_hide"] = 0,
     ["q_link"] = "MAINUI_OPEN_SOCIAL"
+  },
+  [22] = {
+    ["q_id"] = 22,
+    ["q_name"] = "征战",
+    ["q_type"] = 3,
+    ["q_order"] = 8,
+    ["q_icon"] = "zjm_icon_b8.png",
+    ["q_reqlvl"] = 1,
+    ["q_reqtask"] = 0,
+    ["q_hide"] = 0,
+    ["q_link"] = "MAINUI_OPEN_INS_EXPEDITION"
   }
 }

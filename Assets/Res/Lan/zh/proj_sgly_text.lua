@@ -184,11 +184,19 @@ local TEXT_MAP = {
 ["FORGEUI029"] = "当前强化大师已满级",
 ["FORGEUI030"] = "当前宝石共鸣已满级",
 ["FORGEUI031"] = "再次洗练",
+["FORGEUI032"] = "角色等级不足",
+["FORGEUI033"] = "不存在可替换宝石",
 
 ["CREATEITEM000"] = "合成",
 ["CREATEITEM001"] = "全部合成",
 ["CREATEITEM002"] = "可合成：%d",
 ["CREATEITEM003"] = "合成物品为空",
+
+["INSUI001"] = "挑战次数:  <color=#%x>%d</color>/%d",
+["INSUI002"] = "推荐战力: %d",
+["INSUI003"] = "我的战力: %d",
+["INSUI004"] = "消耗体力:        %d",
+["INSUI005"] = "首通",
 
 ["SHOP1"] = "商城",
 ["SHOP2"] = "购买",
@@ -257,8 +265,8 @@ local TEXT_MAP = {
 --翅膀
 ["PLAYER22"] = "翅膀精炼",
 ["PLAYER23"] = "翅膀预览",
-["PLAYER24"] = "翅膀技能",
 ["PLAYER25"] = "翅膀属性",
+["PLAYER24"] = "翅膀技能",
 ["PLAYER26"] = "翅膀培养",
 ["PLAYER27"] = "祝福值",
 ["PLAYER28"] = "祝福值将于每天晚上0点清空",
@@ -322,6 +330,11 @@ local TEXT_MAP = {
 ["RANK9"] = "个人",
 ["RANK10"] = "玩法",
 ["RANK11"] = "帮会",
+["RANK12"] = "战 %s",
+["RANK13"] = "今天已膜拜过了，请明天再来",
+["RANK14"] = "次数不足",
+["RANK15"] = "膜拜排行",
+["RANK16"] = "奖励档位积分根据玩家当天排名与被膜拜次数决定 \n每日21:00自动发送奖励到玩家邮箱中",
 
 --坐骑相关
 ["MOUNT1"] = "坐骑属性",
@@ -351,7 +364,11 @@ local TEXT_MAP = {
 ["ACHIEVE110"] = "小时",
 ["ACHIEVE111"] = "分钟",
 ["ACHIEVE112"] = "秒",
+["ACHIEVE113"] = "获取途径",
+["ACHIEVE114"] = "前往获取",
+["ACHIEVE115"] = "获取称号描述内容",
 
+--任务
 ["TASK1"] = "任务目标",
 ["TASK2"] = "任务描述",
 ["TASK3"] = "任务奖励",
@@ -360,9 +377,15 @@ local TEXT_MAP = {
 ["TASK6"] = "<color=ae6f32ff>%s  ( </color><color=dc5a5aff>%d</color><color=ae6f32ff>/%d  ) </color>",
 ["TASK7"] = "主线",
 ["TASK8"] = "支线",
-["TASK9"] = "日常",
 ["TASK10"] = "接受条件",
 ["TASK11"] = "领取",
+
+--日常任务
+["DAILY1"] = "日常",
+["DAILY2"] = "前往",
+["DAILY3"] = "活跃度 +%d",
+["DAILY4"] = "%s <color=ae6f32ff> (%d/%d) </color>",
+
 
 }
 
