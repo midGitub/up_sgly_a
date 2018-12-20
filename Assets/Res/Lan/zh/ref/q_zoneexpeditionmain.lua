@@ -8,11 +8,11 @@ return {
     ["limitLevel"] = 1,
     ["instanceNum"] = 8,
     ["starOneBox"] = 9,
-    ["rewardOneBox"] = "1500005,1;2,1000",
+    ["rewardOneBox"] = "1600005,1;2,1000",
     ["starTwoBox"] = 15,
-    ["rewardTwoBox"] = "1500006,1;1,100",
+    ["rewardTwoBox"] = "1600006,1;1,100",
     ["starThreeBox"] = 24,
-    ["rewardThreeBox"] = "1500007,1;1,200"
+    ["rewardThreeBox"] = "1600007,1;1,200"
   },
   [2] = {
     ["chapterId"] = 2,
@@ -23,10 +23,10 @@ return {
     ["limitLevel"] = 10,
     ["instanceNum"] = 10,
     ["starOneBox"] = 9,
-    ["rewardOneBox"] = "1500005,1;2,1000",
+    ["rewardOneBox"] = "1600005,1;2,1000",
     ["starTwoBox"] = 18,
-    ["rewardTwoBox"] = "1500006,1;1,100",
+    ["rewardTwoBox"] = "1600006,1;1,100",
     ["starThreeBox"] = 30,
-    ["rewardThreeBox"] = "1500007,1;1,200"
+    ["rewardThreeBox"] = "1600007,1;1,200"
   }
 }

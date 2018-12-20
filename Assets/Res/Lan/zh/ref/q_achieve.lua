@@ -2,12 +2,12 @@ return {
   [1] = {
     ["q_id"] = 1,
     ["taskTitle"] = "结交好友（1）",
-    ["taskDescription"] = "好友数量达到<color=ff784fff>%d</color>个",
+    ["taskDescription"] = "好友数量达到<color=#ae6f32>%d</color>个",
     ["order"] = "",
     ["achvType"] = 31,
     ["value"] = 1,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = 4001
@@ -20,7 +20,7 @@ return {
     ["achvType"] = 12,
     ["value"] = 60001,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = 4002
@@ -33,7 +33,7 @@ return {
     ["achvType"] = 12,
     ["value"] = 60002,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -41,12 +41,12 @@ return {
   [4] = {
     ["q_id"] = 4,
     ["taskTitle"] = "宝石镶嵌（1）",
-    ["taskDescription"] = "角色镶嵌宝石总等级达到<color=ff784fff>%d</color>级",
+    ["taskDescription"] = "角色镶嵌宝石总等级达到<color=#ae6f32>%d</color>级",
     ["order"] = "",
     ["achvType"] = 15,
     ["value"] = 10,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -54,12 +54,12 @@ return {
   [5] = {
     ["q_id"] = 5,
     ["taskTitle"] = "装备强化（1）",
-    ["taskDescription"] = "角色装备总强化等级达到<color=ff784fff>%d</color>级",
+    ["taskDescription"] = "角色装备总强化等级达到<color=#ae6f32>%d</color>级",
     ["order"] = "",
     ["achvType"] = 14,
     ["value"] = 10,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -67,12 +67,12 @@ return {
   [6] = {
     ["q_id"] = 6,
     ["taskTitle"] = "装备收集（1）",
-    ["taskDescription"] = "角色穿戴绿色装备个数达到<color=ff784fff>%d</color>个",
+    ["taskDescription"] = "角色穿戴绿色装备个数达到<color=#ae6f32>%d</color>个",
     ["order"] = "",
     ["achvType"] = 34,
     ["value"] = "1,1",
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -80,12 +80,12 @@ return {
   [7] = {
     ["q_id"] = 7,
     ["taskTitle"] = "天神等级（1）",
-    ["taskDescription"] = "单个天神等级达到<color=ff784fff>%d</color>级",
+    ["taskDescription"] = "单个天神等级达到<color=#ae6f32>%d</color>级",
     ["order"] = "",
     ["achvType"] = 22,
     ["value"] = 10,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -93,12 +93,12 @@ return {
   [10] = {
     ["q_id"] = 10,
     ["taskTitle"] = "新手之路（1）",
-    ["taskDescription"] = "人物战力达到<color=ff784fff>%d</color>",
+    ["taskDescription"] = "人物战力达到<color=#ae6f32>%d</color>",
     ["order"] = "",
     ["achvType"] = 35,
     ["value"] = 5000,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -106,12 +106,12 @@ return {
   [11] = {
     ["q_id"] = 11,
     ["taskTitle"] = "新手之路（2）",
-    ["taskDescription"] = "人物战力达到<color=ff784fff>%d</color>",
+    ["taskDescription"] = "人物战力达到<color=#ae6f32>%d</color>",
     ["order"] = "",
     ["achvType"] = 35,
     ["value"] = 10000,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -124,7 +124,7 @@ return {
     ["achvType"] = 12,
     ["value"] = 60001,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -137,7 +137,7 @@ return {
     ["achvType"] = 12,
     ["value"] = 60002,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -145,12 +145,12 @@ return {
   [14] = {
     ["q_id"] = 14,
     ["taskTitle"] = "新手之路（1）",
-    ["taskDescription"] = "击杀%s的%s<color=ff784fff>%d</color>只",
+    ["taskDescription"] = "击杀%s的%s<color=#ae6f32>%d</color>只",
     ["order"] = "",
     ["achvType"] = 37,
     ["value"] = "60001,10001,1",
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -158,12 +158,12 @@ return {
   [15] = {
     ["q_id"] = 15,
     ["taskTitle"] = "新手之路（2）",
-    ["taskDescription"] = "击杀%s<color=ff784fff>%d</color>只",
+    ["taskDescription"] = "击杀%s<color=#ae6f32>%d</color>只",
     ["order"] = "",
     ["achvType"] = 37,
     ["value"] = "60001,10001,1",
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -171,12 +171,12 @@ return {
   [16] = {
     ["q_id"] = 16,
     ["taskTitle"] = "翅膀阶级1",
-    ["taskDescription"] = "翅膀阶级达到<color=ff784fff>%d</color>阶",
+    ["taskDescription"] = "翅膀阶级达到<color=#ae6f32>%d</color>阶",
     ["order"] = "",
     ["achvType"] = 29,
     ["value"] = 3,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -184,12 +184,12 @@ return {
   [17] = {
     ["q_id"] = 17,
     ["taskTitle"] = "技能等级1",
-    ["taskDescription"] = "角色技能总等级达到<color=ff784fff>%d</color>级",
+    ["taskDescription"] = "角色技能总等级达到<color=#ae6f32>%d</color>级",
     ["order"] = "",
     ["achvType"] = 38,
     ["value"] = 20,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -197,12 +197,12 @@ return {
   [18] = {
     ["q_id"] = 18,
     ["taskTitle"] = "坐骑升阶1",
-    ["taskDescription"] = "坐骑达到<color=ff784fff>%d</color>阶",
+    ["taskDescription"] = "坐骑达到<color=#ae6f32>%d</color>阶",
     ["order"] = "",
     ["achvType"] = 39,
     ["value"] = 3,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -210,12 +210,12 @@ return {
   [19] = {
     ["q_id"] = 19,
     ["taskTitle"] = "官职成就1",
-    ["taskDescription"] = "官职达到<color=ff784fff>%d</color>级",
+    ["taskDescription"] = "官职达到<color=#ae6f32>%d</color>级",
     ["order"] = "",
     ["achvType"] = 2,
     ["value"] = 10,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -223,12 +223,12 @@ return {
   [20] = {
     ["q_id"] = 20,
     ["taskTitle"] = "角色等级1",
-    ["taskDescription"] = "角色等级达到<color=ff784fff>%d</color>级",
+    ["taskDescription"] = "角色等级达到<color=#ae6f32>%d</color>级",
     ["order"] = "",
     ["achvType"] = 1,
-    ["value"] = 10,
+    ["value"] = 1,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""
@@ -236,12 +236,12 @@ return {
   [21] = {
     ["q_id"] = 21,
     ["taskTitle"] = "法宝成就1",
-    ["taskDescription"] = "法宝阶级达到<color=ff784fff>%d</color>阶",
+    ["taskDescription"] = "法宝阶级达到<color=#ae6f32>%d</color>阶",
     ["order"] = "",
     ["achvType"] = 40,
     ["value"] = 3,
     ["achvPpoint"] = 10,
-    ["reward"] = "1500001,1",
+    ["reward"] = "1600001,1",
     ["showLevel"] = 1,
     ["openLevel"] = 1,
     ["titleId"] = ""

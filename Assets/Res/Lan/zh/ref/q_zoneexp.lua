@@ -12,7 +12,7 @@ return {
     ["randReward"] = 10002,
     ["showReward"] = 10002,
     ["raidsCondtion"] = "1|5;2|90;3|30",
-    ["raidsCost"] = "1500009,1",
+    ["raidsCost"] = "1600009,1",
     ["raidsExtraReward"] = "1,2000",
     ["aidAtkCount"] = 5,
     ["aidAtkCost"] = "100,10;100,10;300,10,300,10;300,10",

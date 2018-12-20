@@ -21,6 +21,7 @@ local TEXT_MAP = {
 ["BASE16"] = "<color=#%x>剩余%d分钟</color>",
 ["BASE17"] = "<color=#%x>剩余%d秒</color>",
 ["BASE18"] = "<color=#%x>%d</color>",
+["BASE19"] = "删除",
 
 ["LOGIN1"] = "账号不能为空",
 ["LOGIN2"] = "服务器连接失败, 是否重新连接？",
@@ -186,6 +187,7 @@ local TEXT_MAP = {
 ["FORGEUI031"] = "再次洗练",
 ["FORGEUI032"] = "角色等级不足",
 ["FORGEUI033"] = "不存在可替换宝石",
+["FORGEUI034"] = "没有可镶嵌宝石",
 
 ["CREATEITEM000"] = "合成",
 ["CREATEITEM001"] = "全部合成",
@@ -197,6 +199,25 @@ local TEXT_MAP = {
 ["INSUI003"] = "我的战力: %d",
 ["INSUI004"] = "消耗体力:        %d",
 ["INSUI005"] = "首通",
+
+["SOCIALITY001"] = "社交",
+["SOCIALITY002"] = "好友",
+["SOCIALITY003"] = "邮件",
+["SOCIALITY004"] = "<color=#7d7d7dff>离线</color>",
+["SOCIALITY005"] = "<color=#38a601ff>在线</color>",
+["SOCIALITY006"] = "换一批",
+["SOCIALITY007"] = "换一批（%d）",
+["SOCIALITY008"] = "我的好友（%d/%d）",
+["SOCIALITY009"] = "黑名单（%d/%d）",
+["SOCIALITY010"] = "推荐好友",
+["SOCIALITY011"] = "好友申请",
+["SOCIALITY012"] = "全部拒绝",
+["SOCIALITY013"] = "全部同意",
+["SOCIALITY014"] = "一键添加",
+["SOCIALITY015"] = "输入昵称搜索玩家",
+["SOCIALITY016"] = "拒绝",
+["SOCIALITY017"] = "添加",
+["SOCIALITY018"] = "好友管理",
 
 ["SHOP1"] = "商城",
 ["SHOP2"] = "购买",
@@ -317,7 +338,6 @@ local TEXT_MAP = {
 ["MAIN27"] = "分钟",
 ["MAIN28"] = "秒",
 ["MAIN29"] = "BUFF*%d",
-
 
 ["RANK1"] = "排行榜",
 ["RANK2"] = "对比",

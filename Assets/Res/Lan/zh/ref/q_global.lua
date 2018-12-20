@@ -123,5 +123,10 @@ return {
     ["q_key"] = "raidsStar",
     ["q_int_value"] = 3,
     ["q_string_value"] = ""
+  },
+  ["blackList"] = {
+    ["q_key"] = "blackList",
+    ["q_int_value"] = 50,
+    ["q_string_value"] = ""
   }
 }

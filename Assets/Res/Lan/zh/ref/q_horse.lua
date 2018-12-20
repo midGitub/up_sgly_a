@@ -35,7 +35,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 1000,
-    ["cost_item"] = "1500006,1",
+    ["cost_item"] = "1600006,1",
     ["horseattrs"] = "1,200;5,200",
     ["ridemodel"] = 2
   },
@@ -55,7 +55,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 2000,
-    ["cost_item"] = "1500006,2",
+    ["cost_item"] = "1600006,2",
     ["horseattrs"] = "1,100;5,101",
     ["ridemodel"] = 2
   },
@@ -75,7 +75,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 3000,
-    ["cost_item"] = "1500006,3",
+    ["cost_item"] = "1600006,3",
     ["horseattrs"] = "1,200;5,201",
     ["ridemodel"] = 2
   },
@@ -95,7 +95,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 4000,
-    ["cost_item"] = "1500006,4",
+    ["cost_item"] = "1600006,4",
     ["horseattrs"] = "1,100;5,102",
     ["ridemodel"] = 2
   },
@@ -115,7 +115,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 5000,
-    ["cost_item"] = "1500007,1",
+    ["cost_item"] = "1600007,1",
     ["horseattrs"] = "1,200;5,202",
     ["ridemodel"] = 2
   },
@@ -135,7 +135,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 6000,
-    ["cost_item"] = "1500007,2",
+    ["cost_item"] = "1600007,2",
     ["horseattrs"] = "1,100;5,103",
     ["ridemodel"] = 2
   },
@@ -155,7 +155,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 7000,
-    ["cost_item"] = "1500007,3",
+    ["cost_item"] = "1600007,3",
     ["horseattrs"] = "1,200;5,203",
     ["ridemodel"] = 1
   },
@@ -175,7 +175,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 8000,
-    ["cost_item"] = "1500008,1",
+    ["cost_item"] = "1600008,1",
     ["horseattrs"] = "1,100;5,104",
     ["ridemodel"] = 2
   },
@@ -195,7 +195,7 @@ return {
     ["needlevel"] = 1,
     ["stars"] = 10,
     ["starexp"] = 9000,
-    ["cost_item"] = "1500008,2",
+    ["cost_item"] = "1600008,2",
     ["horseattrs"] = "1,200;5,204",
     ["ridemodel"] = 2
   }

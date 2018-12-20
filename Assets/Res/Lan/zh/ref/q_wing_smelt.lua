@@ -12,7 +12,7 @@ return {
     ["next_level"] = 2,
     ["needlevel"] = 1,
     ["needwinglevel"] = 1,
-    ["cost"] = "1500004,2;2,100",
+    ["cost"] = "1600004,2;2,100",
     ["wingsmelt_attrs"] = "10,6"
   },
   [2] = {
@@ -20,7 +20,7 @@ return {
     ["next_level"] = 3,
     ["needlevel"] = 1,
     ["needwinglevel"] = 1,
-    ["cost"] = "1500004,3;2,100",
+    ["cost"] = "1600004,3;2,100",
     ["wingsmelt_attrs"] = "10,7"
   },
   [3] = {
@@ -28,7 +28,7 @@ return {
     ["next_level"] = 4,
     ["needlevel"] = 1,
     ["needwinglevel"] = 2,
-    ["cost"] = "1500004,4;2,100",
+    ["cost"] = "1600004,4;2,100",
     ["wingsmelt_attrs"] = "10,8"
   },
   [4] = {
@@ -36,7 +36,7 @@ return {
     ["next_level"] = 5,
     ["needlevel"] = 1,
     ["needwinglevel"] = 2,
-    ["cost"] = "1500004,5;2,100",
+    ["cost"] = "1600004,5;2,100",
     ["wingsmelt_attrs"] = "10,9"
   },
   [5] = {
@@ -44,7 +44,7 @@ return {
     ["next_level"] = 6,
     ["needlevel"] = 1,
     ["needwinglevel"] = 3,
-    ["cost"] = "1500004,6;2,100",
+    ["cost"] = "1600004,6;2,100",
     ["wingsmelt_attrs"] = "10,10"
   },
   [6] = {
@@ -52,7 +52,7 @@ return {
     ["next_level"] = 7,
     ["needlevel"] = 1,
     ["needwinglevel"] = 3,
-    ["cost"] = "1500004,7;2,100",
+    ["cost"] = "1600004,7;2,100",
     ["wingsmelt_attrs"] = "10,11"
   },
   [7] = {
@@ -60,7 +60,7 @@ return {
     ["next_level"] = 8,
     ["needlevel"] = 1,
     ["needwinglevel"] = 4,
-    ["cost"] = "1500004,8;2,100",
+    ["cost"] = "1600004,8;2,100",
     ["wingsmelt_attrs"] = "9,12;10,12"
   },
   [8] = {
@@ -68,7 +68,7 @@ return {
     ["next_level"] = 9,
     ["needlevel"] = 1,
     ["needwinglevel"] = 4,
-    ["cost"] = "1500004,9;2,100",
+    ["cost"] = "1600004,9;2,100",
     ["wingsmelt_attrs"] = "9,13;10,13"
   },
   [9] = {
@@ -76,7 +76,7 @@ return {
     ["next_level"] = 10,
     ["needlevel"] = 1,
     ["needwinglevel"] = 5,
-    ["cost"] = "1500004,10;2,100",
+    ["cost"] = "1600004,10;2,100",
     ["wingsmelt_attrs"] = "9,14;10,14"
   },
   [10] = {
@@ -84,7 +84,7 @@ return {
     ["next_level"] = 11,
     ["needlevel"] = 1,
     ["needwinglevel"] = 5,
-    ["cost"] = "1500004,11;2,100",
+    ["cost"] = "1600004,11;2,100",
     ["wingsmelt_attrs"] = "9,15;10,15"
   },
   [11] = {
@@ -92,7 +92,7 @@ return {
     ["next_level"] = 12,
     ["needlevel"] = 1,
     ["needwinglevel"] = 6,
-    ["cost"] = "1500004,12;2,100",
+    ["cost"] = "1600004,12;2,100",
     ["wingsmelt_attrs"] = "9,16;10,16"
   },
   [12] = {
@@ -100,7 +100,7 @@ return {
     ["next_level"] = 13,
     ["needlevel"] = 1,
     ["needwinglevel"] = 6,
-    ["cost"] = "1500004,13;2,100",
+    ["cost"] = "1600004,13;2,100",
     ["wingsmelt_attrs"] = "9,17;10,17"
   },
   [13] = {
@@ -108,7 +108,7 @@ return {
     ["next_level"] = 14,
     ["needlevel"] = 1,
     ["needwinglevel"] = 7,
-    ["cost"] = "1500004,14;2,100",
+    ["cost"] = "1600004,14;2,100",
     ["wingsmelt_attrs"] = "9,18;10,18"
   },
   [14] = {
@@ -116,7 +116,7 @@ return {
     ["next_level"] = 15,
     ["needlevel"] = 1,
     ["needwinglevel"] = 7,
-    ["cost"] = "1500004,15;2,100",
+    ["cost"] = "1600004,15;2,100",
     ["wingsmelt_attrs"] = "9,19;10,19"
   },
   [15] = {
@@ -124,7 +124,7 @@ return {
     ["next_level"] = 16,
     ["needlevel"] = 1,
     ["needwinglevel"] = 8,
-    ["cost"] = "1500004,16;2,100",
+    ["cost"] = "1600004,16;2,100",
     ["wingsmelt_attrs"] = "2,24;9,20;10,20"
   },
   [16] = {
@@ -132,7 +132,7 @@ return {
     ["next_level"] = 17,
     ["needlevel"] = 1,
     ["needwinglevel"] = 8,
-    ["cost"] = "1500004,17;2,100",
+    ["cost"] = "1600004,17;2,100",
     ["wingsmelt_attrs"] = "2,26;9,21;10,21"
   },
   [17] = {
@@ -140,7 +140,7 @@ return {
     ["next_level"] = 18,
     ["needlevel"] = 1,
     ["needwinglevel"] = 9,
-    ["cost"] = "1500004,18;2,100",
+    ["cost"] = "1600004,18;2,100",
     ["wingsmelt_attrs"] = "2,28;9,22;10,22"
   },
   [18] = {
@@ -148,7 +148,7 @@ return {
     ["next_level"] = 19,
     ["needlevel"] = 1,
     ["needwinglevel"] = 9,
-    ["cost"] = "1500004,19;2,100",
+    ["cost"] = "1600004,19;2,100",
     ["wingsmelt_attrs"] = "1,30;2,30;9,23;10,23"
   },
   [19] = {
@@ -156,7 +156,7 @@ return {
     ["next_level"] = 20,
     ["needlevel"] = 1,
     ["needwinglevel"] = 10,
-    ["cost"] = "1500004,20;2,100",
+    ["cost"] = "1600004,20;2,100",
     ["wingsmelt_attrs"] = "1,32;2,32;9,24;10,24"
   },
   [20] = {
@@ -164,7 +164,7 @@ return {
     ["next_level"] = 0,
     ["needlevel"] = 1,
     ["needwinglevel"] = 10,
-    ["cost"] = "1500004,20;2,100",
+    ["cost"] = "1600004,20;2,100",
     ["wingsmelt_attrs"] = "1,34;2,34;9,25;10,25"
   }
 }

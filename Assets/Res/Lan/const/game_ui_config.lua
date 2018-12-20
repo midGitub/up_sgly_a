@@ -159,7 +159,15 @@ local function _fullScreenWinUI( )
 	FullScreenWinUI.s_spacing = 16			--每个Cell间的间距
 	FullScreenWinUI.s_maxScollViewH =520	--ScollViewH的最大高
 	FullScreenWinUI.s_cellHeight = 118		--cell的高度
+end
 
+local function _boxTips( )
+	local BoxTipsUI = loadLuaFile ("logic_ui/box_tips_ui")
+	BoxTipsUI.s_interval = 0.2					--物品出现间隔时间
+	BoxTipsUI.s_maxSize = 1.2					--物品出现到最大倍数
+	BoxTipsUI.s_toMaxDuration = 0.2				--物品出现到达到最大值所用的时间
+	BoxTipsUI.s_toOriDuration = 0.15			--物品从最大值到原始值所用的时间
+	BoxTipsUI.s_showCnt = 5						--每次最大的展示个数
 end
 
 local function setupUIDef(  )
@@ -171,5 +179,7 @@ local function setupUIDef(  )
 	_funcMenuUI()
 	_mulProgressBarUI()
 	_fullScreenWinUI()
+	_boxTips()
 end
+
 setupUIDef()

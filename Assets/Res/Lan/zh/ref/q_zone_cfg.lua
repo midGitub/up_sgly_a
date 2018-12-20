@@ -323,5 +323,30 @@ return {
     ["autoHook"] = 0,
     ["zoneExplain"] = "打怪得天赋值",
     ["zoneDesc"] = "1.元神副本每日免费进入3次;<r>2.每日24时重置副本次数"
+  },
+  [14] = {
+    ["q_id"] = 14,
+    ["name"] = "征战副本",
+    ["clientType"] = 1,
+    ["excelLink"] = "q_zoneexpedition",
+    ["serverLimit"] = 0,
+    ["openWeek"] = "",
+    ["openTime"] = "",
+    ["vipLimit"] = 0,
+    ["minLevel"] = 1,
+    ["useRole"] = 1,
+    ["godFightNum"] = 4,
+    ["minGodNum"] = 1,
+    ["reserveGod"] = 0,
+    ["isMulti"] = 0,
+    ["minRoleNum"] = 0,
+    ["maxRoleNum"] = 0,
+    ["aidExp"] = 0,
+    ["aidAtk"] = 0,
+    ["dailyFightCount"] = 0,
+    ["dailyByFightCount"] = "0,2;5,5",
+    ["autoHook"] = 0,
+    ["zoneExplain"] = "打怪得天赋值",
+    ["zoneDesc"] = "1.元神副本每日免费进入3次;<r>2.每日24时重置副本次数"
   }
 }
