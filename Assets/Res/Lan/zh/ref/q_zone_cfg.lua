@@ -2,7 +2,6 @@ return {
   [1] = {
     ["q_id"] = 1,
     ["name"] = "经验副本",
-    ["clientType"] = 3,
     ["excelLink"] = "q_zoneexp",
     ["serverLimit"] = 0,
     ["openWeek"] = "1,3,5",
@@ -26,11 +25,10 @@ return {
   },
   [2] = {
     ["q_id"] = 2,
-    ["name"] = "远征副本",
-    ["clientType"] = 4,
-    ["excelLink"] = "",
+    ["name"] = "征战副本",
+    ["excelLink"] = "q_zoneexpedition",
     ["serverLimit"] = 0,
-    ["openWeek"] = "2,4,6",
+    ["openWeek"] = "",
     ["openTime"] = "",
     ["vipLimit"] = 0,
     ["minLevel"] = 1,
@@ -40,19 +38,18 @@ return {
     ["reserveGod"] = 0,
     ["isMulti"] = 0,
     ["minRoleNum"] = 0,
-    ["maxRoleNum"] = 5,
+    ["maxRoleNum"] = 0,
     ["aidExp"] = 0,
     ["aidAtk"] = 0,
-    ["dailyFightCount"] = 3,
+    ["dailyFightCount"] = 0,
     ["dailyByFightCount"] = "0,2;5,5",
     ["autoHook"] = 0,
-    ["zoneExplain"] = "打怪得装备",
-    ["zoneDesc"] = "1.装备副本每日免费进入3次，vip可额外购买2次;<r>2.每日24时重置副本次数"
+    ["zoneExplain"] = "打怪得天赋值",
+    ["zoneDesc"] = "1.元神副本每日免费进入3次;<r>2.每日24时重置副本次数"
   },
   [3] = {
     ["q_id"] = 3,
     ["name"] = "装备副本",
-    ["clientType"] = 5,
     ["excelLink"] = "q_zoneequip",
     ["serverLimit"] = 0,
     ["openWeek"] = "6,7",
@@ -77,7 +74,6 @@ return {
   [4] = {
     ["q_id"] = 4,
     ["name"] = "羽毛副本",
-    ["clientType"] = 6,
     ["excelLink"] = "q_zonewing",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -102,7 +98,6 @@ return {
   [5] = {
     ["q_id"] = 5,
     ["name"] = "宝石副本",
-    ["clientType"] = 7,
     ["excelLink"] = "q_zonegem",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -127,7 +122,6 @@ return {
   [6] = {
     ["q_id"] = 6,
     ["name"] = "金币副本",
-    ["clientType"] = 8,
     ["excelLink"] = "q_zonegold",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -152,7 +146,6 @@ return {
   [7] = {
     ["q_id"] = 7,
     ["name"] = "战盟副本",
-    ["clientType"] = 9,
     ["excelLink"] = "",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -177,7 +170,6 @@ return {
   [8] = {
     ["q_id"] = 8,
     ["name"] = "十二星宫",
-    ["clientType"] = 10,
     ["excelLink"] = "",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -202,7 +194,6 @@ return {
   [9] = {
     ["q_id"] = 9,
     ["name"] = "无尽深渊",
-    ["clientType"] = 11,
     ["excelLink"] = "",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -227,7 +218,6 @@ return {
   [10] = {
     ["q_id"] = 10,
     ["name"] = "世界BOSS",
-    ["clientType"] = 12,
     ["excelLink"] = "",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -252,7 +242,6 @@ return {
   [11] = {
     ["q_id"] = 11,
     ["name"] = "摆渡副本",
-    ["clientType"] = 13,
     ["excelLink"] = "",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -277,7 +266,6 @@ return {
   [12] = {
     ["q_id"] = 12,
     ["name"] = "恶魔降临",
-    ["clientType"] = 14,
     ["excelLink"] = "",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
@@ -302,33 +290,7 @@ return {
   [13] = {
     ["q_id"] = 13,
     ["name"] = "竞技场",
-    ["clientType"] = 2,
     ["excelLink"] = "",
-    ["serverLimit"] = 0,
-    ["openWeek"] = "",
-    ["openTime"] = "",
-    ["vipLimit"] = 0,
-    ["minLevel"] = 1,
-    ["useRole"] = 1,
-    ["godFightNum"] = 4,
-    ["minGodNum"] = 1,
-    ["reserveGod"] = 0,
-    ["isMulti"] = 0,
-    ["minRoleNum"] = 0,
-    ["maxRoleNum"] = 0,
-    ["aidExp"] = 0,
-    ["aidAtk"] = 0,
-    ["dailyFightCount"] = 0,
-    ["dailyByFightCount"] = "0,2;5,5",
-    ["autoHook"] = 0,
-    ["zoneExplain"] = "打怪得天赋值",
-    ["zoneDesc"] = "1.元神副本每日免费进入3次;<r>2.每日24时重置副本次数"
-  },
-  [14] = {
-    ["q_id"] = 14,
-    ["name"] = "征战副本",
-    ["clientType"] = 1,
-    ["excelLink"] = "q_zoneexpedition",
     ["serverLimit"] = 0,
     ["openWeek"] = "",
     ["openTime"] = "",
