@@ -22,6 +22,8 @@ local TEXT_MAP = {
 ["BASE17"] = "<color=#%x>剩余%d秒</color>",
 ["BASE18"] = "<color=#%x>%d</color>",
 ["BASE19"] = "删除",
+["BASE20"] = "<color=#%x>%02d:%02d</color>",
+["BASE21"] = "<color=#%x>%d:%02d:%02d</color>",
 
 ["LOGIN1"] = "账号不能为空",
 ["LOGIN2"] = "服务器连接失败, 是否重新连接？",
@@ -199,6 +201,9 @@ local TEXT_MAP = {
 ["INSUI003"] = "我的战力: %d",
 ["INSUI004"] = "消耗体力:        %d",
 ["INSUI005"] = "首通",
+["INSUI006"] = "经验 +%d%%",
+["INSUI007"] = "伤害 +%d%%",
+["INSUI008"] = "波次；%d/%d",
 
 ["SOCIALITY001"] = "社交",
 ["SOCIALITY002"] = "好友",
@@ -268,7 +273,7 @@ local TEXT_MAP = {
 ["PLAYER5"] = "角色",
 ["PLAYER5.1"] = "翅膀",
 ["PLAYER6"] = "称号",
-["PLAYER7"] = "附身",
+["PLAYER7"] = "技能",
 ["PLAYER8"] = "官职",
 ["PLAYER9"] = "战",
 ["PLAYER10"] = "封神公会",
@@ -406,6 +411,14 @@ local TEXT_MAP = {
 ["DAILY3"] = "活跃度 +%d",
 ["DAILY4"] = "%s <color=ae6f32ff> (%d/%d) </color>",
 
+--主角技能
+["SKILL1"] = "技能突破",
+["SKILL2"] = "当前效果",
+["SKILL3"] = "下级效果",
+["SKILL4"] = "升级",
+["SKILL5"] = "突破",
+["SKILL6"] = "突破消耗",
+["SKILL7"] = "主角到达%d级可突破",
 
 }
 

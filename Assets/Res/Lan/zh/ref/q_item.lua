@@ -524,8 +524,8 @@ return {
     ["usetype"] = 1,
     ["sell_goldtype"] = "",
     ["sell_goldprice"] = "",
-    ["issell"] = 1,
-    ["channelid"] = 1,
+    ["issell"] = 0,
+    ["channelid"] = "",
     ["notice"] = ""
   },
   [1600010] = {

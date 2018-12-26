@@ -14,8 +14,8 @@ return {
     ["head"] = 2001,
     ["headframe"] = 1001,
     ["selAI"] = 1001,
-    ["roleAngerskill"] = "",
-    ["roleskill"] = "110101,atk1,1000,0;110201,skill1,1000,10;110301,skill2,1000,20;110401,skill3,1000,30;110501,0,0,40;",
+    ["roleAngerskill"] = "110201,skill1,1000,0",
+    ["roleskill"] = "110101,atk1,1000,0;110301,skill1,1000,10;110401,skill2,1000,20;110501,skill3,1000,30",
     ["wardistance"] = 500
   },
   [2001] = {
@@ -33,8 +33,8 @@ return {
     ["head"] = 1001,
     ["headframe"] = 1001,
     ["selAI"] = 1001,
-    ["roleAngerskill"] = "",
-    ["roleskill"] = "110101,atk1,1000,0;110201,skill1,1000,10;110301,skill2,1000,20;110401,skill3,1000,30;110501,0,0,40;",
+    ["roleAngerskill"] = "110201,skill1,1000,0",
+    ["roleskill"] = "110101,atk1,1000,0;110301,skill1,1000,10;110401,skill2,1000,20;110501,skill3,1000,30",
     ["wardistance"] = 600
   },
   [3002] = {
@@ -52,8 +52,8 @@ return {
     ["head"] = 2001,
     ["headframe"] = 1001,
     ["selAI"] = 1001,
-    ["roleAngerskill"] = "",
-    ["roleskill"] = "110101,atk1,1000,0;110201,skill1,1000,10;110301,skill2,1000,20;110401,skill3,1000,30;110501,0,0,40;",
+    ["roleAngerskill"] = "110201,skill1,1000,0",
+    ["roleskill"] = "110101,atk1,1000,0;110301,skill1,1000,10;110401,skill2,1000,20;110501,skill3,1000,30",
     ["wardistance"] = 500
   },
   [4001] = {
@@ -71,8 +71,8 @@ return {
     ["head"] = 1001,
     ["headframe"] = 1001,
     ["selAI"] = 1001,
-    ["roleAngerskill"] = "",
-    ["roleskill"] = "110101,atk1,1000,0;110201,skill1,1000,10;110301,skill2,1000,20;110401,skill3,1000,30;110501,0,0,40;",
+    ["roleAngerskill"] = "110201,skill1,1000,0",
+    ["roleskill"] = "110101,atk1,1000,0;110301,skill1,1000,10;110401,skill2,1000,20;110501,skill3,1000,30",
     ["wardistance"] = 600
   }
 }

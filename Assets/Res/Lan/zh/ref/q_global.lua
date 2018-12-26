@@ -128,5 +128,10 @@ return {
     ["q_key"] = "blackList",
     ["q_int_value"] = 50,
     ["q_string_value"] = ""
+  },
+  ["InsWarningTime"] = {
+    ["q_key"] = "InsWarningTime",
+    ["q_int_value"] = 30,
+    ["q_string_value"] = ""
   }
 }
